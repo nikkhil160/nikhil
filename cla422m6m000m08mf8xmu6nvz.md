@@ -1,4 +1,4 @@
-# The Good and the Bad and Evil of Artificial Intelligence
+# The Good, Bad and Evil of Artificial Intelligence
 
 There is no doubt that artificial intelligence (AI) is rapidly evolving and growing more sophisticated every day. With its ability to process and interpret vast amounts of data, AI is being touted as a game-changer in many industries, from healthcare and finance to manufacturing and transportation.
 
