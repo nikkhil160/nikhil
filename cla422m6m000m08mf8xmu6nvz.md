@@ -44,4 +44,4 @@ AI is also being used by police forces around the world to predict crime. By ana
 
 However, there is a risk that predictive policing could lead to discrimination, as it is more likely to target marginalized communities that have been disproportionately affected by crime.
 
-In conclusion, AI is a powerful technology that can be used for good or bad. It is up to us to ensure that it is used for good.
+In conclusion, AI is a powerful technology that can be used for good or bad. It is up to us to ensure that it is used for good. IEDF also covered [ChatGPT: A Step Up From Playground in AI Development](https://iedf.in/artificial-intelligence/chatgpt-a-step-up-from-playground-in-ai-development/)
