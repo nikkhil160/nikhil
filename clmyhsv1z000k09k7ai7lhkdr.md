@@ -15,49 +15,54 @@ Anyway getting back to the point, We were selling jewelry in the United States, 
 
 We decided to scale that store by going to a supplier and ordering 10K since Q4 was coming up and we were trying to scale up, the item was selling like a hot dog. We posted a few Request For Quotation on Alibaba and got some quotations and here are my learnings.
 
-* **You will get the same product for less**
+* ### **You will get the same product for less**
     
 
 The item we were getting for $7.80 was available for as low as $4.00 if we ordered in bulk, and as high as $10, so it varies. If you order $10K units then it will be available for $2.00. The more volume you ask for the lesser the cost will be - I mean it's normal, but the cost can go very low. I mean compare $7.80 to $2.00
 
-* **You will have to do your quality check.**
+* ### **You will have to do your quality check.**
     
 
 Alibaba is not like Amazon where they do the quality check for you, you will have to do your quality check before you ship the items to your customers. We ordered 10K and got around 300 defective items from the supply. (either they were broken, or of a bad quality). And then you have to send them to the supplier, the supplier will usually ask you to send the items back but it's not worth the time. So make sure that you order at least 10% more of what you need.
 
-* **Plan your shipments accordingly and choose the correct method**
+* ### **Plan your shipments accordingly and choose the correct method**
     
 
 Unrelated to the store, we saw a great kitchen product that we thought could do well in the American market, but the problem? It was 1.2 kg. It was a really large item made out of stainless steel. We wanted it faster but AIR CARGO was expensive (it was charging $2000) as we did not have time since Q4 was already around the corner, however, the affordable option was shipping containers but the transit time was 1 month. So make sure if you plan to order large items, do it beforehand and make sure you choose the right shipping service to save costs.
 
-* **Trust your negotiation skills.**
+* ### **Trust your negotiation skills.**
     
 
 You have to trust your negotiation skills and don't be shy when negotiating with your suppliers, we got down the per-product cost from $6 to $4.80. While it may not seem a lot it saved around $3500 per order. So negotiation works! I mean just like any other business.
 
-* **Never ditch a supplier too early.**
+* ### **Never ditch a supplier too early.**
     
 
-If you find a better price somewhere then don't move your orders at once, we got a supplier that was giving the same product for almost 20% less, and ordered 500 units from them. Most of the units were defective, so always maintain multiple suppliers until you do the quality check of both of the suppliers.
+### If you find a better price somewhere then don't move your orders at once, we got a supplier that was giving the same product for almost 20% less, and ordered 500 units from them. Most of the units were defective, so always maintain multiple suppliers until you do the quality check of both of the suppliers.
 
-* **Have multiple modes of communication**
+* ### **Have multiple modes of communication**
     
 
 If you're using Alibaba chat to communicate with your suppliers then make sure you have their emails and WhatsApp, WeChat or anything they use because they will go offline without prior notice.
 
-* **You will get free FedEx/UPS shipping**
+* ### **You will get free FedEx/UPS shipping**
     
 
 Don't hesitate to ask for premium shipping if you maintain a good relationship, the supplier we had used to send the items using ePacket which used to take 10-14 days, talked to the supplier and he offered a premium FedEX shipping for large orders which delivered the order in 4-5 days max (to California)
 
-* **Always use Alibaba Payment Gateway**
+* ### **Always use Alibaba Payment Gateway**
     
 
 Never use PayPal, WeChat or anything else to send the funds, it's just not worth the hassle. Even though you have the escrow services in place. I would just avoid PayPal or anything and just go with Alibaba's gateway. It is seamless and has a great grievance redressal system.
 
-* **Product Sourcing Agents are great but be careful**
+* ### **Product Sourcing Agents are great but be careful**
     
 
-There are a lot of product sourcing agents are great, they will get in touch directly with the manufacturer for you and can get any type of customisation done for you and can get you better prices. But be careful and use a better sourcing agent.
+There are a lot of product sourcing agents that are great, they will get in touch directly with the manufacturer for you and can get any type of customization done for you and can get you better prices. But be careful and use a better sourcing agent.
+
+* ### Hire an inspector.
+    
+
+Instead of doing the quality check at your warehouse, you can hire an inspector, they will go to the warehouse and do the quality check for you before the product is shipped. Can save you a lot of time and hassle!
 
 I guess that was it. I will edit this post if I find more points to address.
