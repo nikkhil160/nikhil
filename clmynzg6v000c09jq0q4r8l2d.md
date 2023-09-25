@@ -14,7 +14,7 @@ tags: shopify, facebookads, googleads, d2c
 
 This year is always different from the previous years after the pandemic and global retail e-commerce sales are expected to rise as high as [6,310 billion USD in 2023](https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/). If you're not prepared then **here are some ways** to get prepared for this BIG milestone.
 
-# Expand Your Business Internationally
+# Expand Your Shopify Store Internationally
 
 This is an important factor in scaling up your business, are you doing just the United States? Expand it to Canada. Expand it to Europe or better, expand it to the G7 countries which are Canada, France, Germany, Italy, Japan, the United Kingdom, and the United States for more business and faster shipping.
 
