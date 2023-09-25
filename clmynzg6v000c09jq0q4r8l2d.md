@@ -72,3 +72,5 @@ Google merchant center free products screenshot. The products are displayed at t
 </div>
 
 Making you worryless. If you are not happy with the performance then I can do a free audit for you. Interested? Email me at div \[at\] dessus \[dot\] co or schedule an [appointment here](https://calendly.com/dessusmedia).
+
+All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement.
