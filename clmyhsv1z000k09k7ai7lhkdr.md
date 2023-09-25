@@ -38,7 +38,7 @@ You have to trust your negotiation skills and don't be shy when negotiating with
 * ### **Never ditch a supplier too early.**
     
 
-### If you find a better price somewhere then don't move your orders at once, we got a supplier that was giving the same product for almost 20% less, and ordered 500 units from them. Most of the units were defective, so always maintain multiple suppliers until you do the quality check of both of the suppliers.
+If you find a better price somewhere then don't move your orders at once, we got a supplier that was giving the same product for almost 20% less, and ordered 500 units from them. Most of the units were defective, so always maintain multiple suppliers until you do the quality check of both of the suppliers.
 
 * ### **Have multiple modes of communication**
     
