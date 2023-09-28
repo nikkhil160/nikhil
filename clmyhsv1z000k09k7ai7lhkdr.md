@@ -1,5 +1,5 @@
 ---
-title: "What I learnt from sourcing e-commerce products from China."
+title: "What I learnt from sourcing e-commerce products from China"
 seoDescription: "I sourced some e-commerce product for my shopify based e-commerce products and here is what I learnt from dealing with the suppliers. You should too!"
 datePublished: Sun Sep 03 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmyhsv1z000k09k7ai7lhkdr
@@ -14,6 +14,11 @@ So I have been running an [e-commerce store that I scaled to 100K in less than a
 Anyway getting back to the point, We were selling jewelry in the United States, firstly we used to just order from Aliexpress (a bunch of 500 every week) to our warehouse, do the quality check and then we would ship it from there. However, the price per item was $7.80 and it was selling for $25.99 with a good profit margin.
 
 We decided to scale that store by going to a supplier and ordering 10K since Q4 was coming up and we were trying to scale up, the item was selling like a hot dog. We posted a few Request For Quotation on Alibaba and got some quotations and here are my learnings.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong><em>The intention of this is to increase cautiousness and practice best practices among the entrepreneurs who are importing from China.</em></strong></div>
+</div>
 
 * ### **You will get the same product for less**
     
