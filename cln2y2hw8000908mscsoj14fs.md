@@ -34,7 +34,7 @@ People often ask me if they should hire an agency or freelancer for Shopify Busi
     </div>
     
 
-### Hiring An Agency:
+### Hiring An Agency
 
 1. **Higher Cost:** Agencies are often expensive when compared to freelancers but they hold a large team of people that can help you with all of your needs. Not a one-man army but you can consider them as your military
     
