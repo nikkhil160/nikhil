@@ -52,7 +52,7 @@ People often ask me if they should hire an agency or freelancer for Shopify Busi
 <div data-node-type="callout-text">Agencies are best suited for a business that has large capital and wants to scale their already running business by having more resources in place.</div>
 </div>
 
-### How and where find a freelancer or agency for your Shopify Business?
+### How and where to find a freelancer or agency for your Shopify Business?
 
 1. **Ask your friends if you know someone:** Yes! Ask your friends, and your networks if they know someone who has done ads for them, because the internet is filled up with self-made gurus the best bet is that you should ask your friends if they have worked with any freelancer or any agency and ask for a recommendation from them.
     
@@ -65,10 +65,18 @@ People often ask me if they should hire an agency or freelancer for Shopify Busi
 
 ### Summary and Final Words:
 
-**When should you hire an agency?** You should hire an agency for your Shopify business if you want to scale your business to the next level since the agency has a big team and more resources that can help you with scaling very swiftly.
+### **When should you hire an agency?**
 
-**When should you hire a freelancer?** You should hire a freelancer for your Shopify business if you are just starting up with limited funds, and a freelancer can help you start your business to a level where it's sustainable providing you with more coverage and more communication for your Shopify-based business.
+You should hire an agency for your Shopify business if you want to scale your business to the next level since the agency has a big team and more resources that can help you with scaling very swiftly.
 
-**Whom should you hire?** My recommendation is [**Dessus Media**](https://dessusmedia.com/) which is my agency that has helped countless small and medium business owners with their Facebook Ads, Google Ads and e-commerce business ads.
+### **When should you hire a freelancer?**
 
-**Want to scale the business yourself?** I wrote a guide on how Dessus Media scaled Ella's [Shopify business to $300k](https://dessusmedia.com/blog/how-we-scaled-this-us-based-shopify-store-to-300000/) it is a DIY guide that you can use to set up and scale your business yourself.
+You should hire a freelancer for your Shopify business if you are just starting up with limited funds, and a freelancer can help you start your business to a level where it's sustainable providing you with more coverage and more communication for your Shopify-based business.
+
+### **Whom should you hire?**
+
+My recommendation is [**Dessus Media**](https://dessusmedia.com/) which is my agency that has helped countless small and medium business owners with their Facebook Ads, Google Ads and e-commerce business ads.
+
+### **Want to scale the business yourself?**
+
+I wrote a guide on how Dessus Media scaled Ella's [Shopify business to $300k](https://dessusmedia.com/blog/how-we-scaled-this-us-based-shopify-store-to-300000/) it is a DIY guide that you can use to set up and scale your business yourself.
