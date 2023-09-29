@@ -5,6 +5,7 @@ datePublished: Sun Sep 03 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmyhsv1z000k09k7ai7lhkdr
 slug: what-i-learnt-from-sourcing-e-commerce-products-from-china
 canonical: https://www.reddit.com/r/EntrepreneurRideAlong/comments/16ojwsx/what_i_learnt_from_sourcing_ecommerce_products/
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/BPxkU4uPq6Y/upload/12f6d11dc33228d9cdaa7adc9d4bd7bb.jpeg
 tags: shopify, smallbusiness, productsourcing, d2c
 
 ---
