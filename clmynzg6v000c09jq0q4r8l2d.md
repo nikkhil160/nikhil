@@ -4,6 +4,7 @@ seoDescription: "Is your Shopify store geared up to seize 1 million in revenue t
 datePublished: Mon Sep 25 2023 09:06:32 GMT+0000 (Coordinated Universal Time)
 cuid: clmynzg6v000c09jq0q4r8l2d
 slug: is-your-shopify-store-ready-to-hit-1-million-in-revenue-this-q4
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/nGc5RT2HmF0/upload/91885e0ac96b0dbbd50826403a855a1e.jpeg
 tags: shopify, facebookads, googleads, d2c
 
 ---
