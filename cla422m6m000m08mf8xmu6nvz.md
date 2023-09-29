@@ -1,4 +1,12 @@
-# The Good, Bad and Evil of Artificial Intelligence
+---
+title: "The Good, Bad and Evil of Artificial Intelligence"
+datePublished: Sat Nov 05 2022 15:03:35 GMT+0000 (Coordinated Universal Time)
+cuid: cla422m6m000m08mf8xmu6nvz
+slug: the-good-bad-and-evil-of-artificial-intelligence
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JjGXjESMxOY/upload/82f4a4acc3f8913d99816b16e7aaac99.jpeg
+tags: ai, artificial-intelligence
+
+---
 
 There is no doubt that artificial intelligence (AI) is rapidly evolving and growing more sophisticated every day. With its ability to process and interpret vast amounts of data, AI is being touted as a game-changer in many industries, from healthcare and finance to manufacturing and transportation.
 
