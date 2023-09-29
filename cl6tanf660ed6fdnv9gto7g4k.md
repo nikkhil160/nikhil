@@ -3,6 +3,7 @@ title: "How we made $100K in less than a month using Facebook Ads"
 datePublished: Sun Aug 14 2022 12:19:07 GMT+0000 (Coordinated Universal Time)
 cuid: cl6tanf660ed6fdnv9gto7g4k
 slug: how-we-made-100k-in-less-than-a-month-using-facebook-ads
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AGqzy-Uj3s4/upload/110d91b63fa222a7492d85088ab70891.jpeg
 tags: facebook, shopify, digitalmarketing, facebookads, googleads
 
 ---
