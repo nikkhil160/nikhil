@@ -4,7 +4,7 @@ seoTitle: "Agency or A Freelancer for your Shopify Business Marketing?"
 seoDescription: "Should you hire an agency or A Freelancer for your Shopify Business Marketing? This article answers your queries with proper recommendations for your biz"
 datePublished: Thu Sep 28 2023 08:59:55 GMT+0000 (Coordinated Universal Time)
 cuid: cln2y2hw8000908mscsoj14fs
-slug: agency-or-a-freelancer-for-your-shopify-business-marketing
+slug: agency-or-a-freelancer-for-shopify-marketing
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wpOa2i3MUrY/upload/a48bf586a4834a8bc3dc369bd6533690.jpeg
 tags: shopify, small-business, google-ads, facebookads
 
