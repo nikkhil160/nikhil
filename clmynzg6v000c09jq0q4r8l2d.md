@@ -11,6 +11,8 @@ tags: shopify, facebookads, googleads, d2c
 
 **Outline:** This article is part of a previous article where [an E-Commerce store made $100K in less than a month using Facebook Ads](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) a lot has changed after that. Business-wise, market-wise and demand-wise. This article has an informal tone of writing regardless of those let's get your Shopify store ready to hit 1 million in revenue this Q4.
 
+A lot of my clients asked me; Is it? possible to make a million on a Shopify Store? The answer is: Yes, It is possible to make a million on your Shopify store with the following steps.
+
 **Advertising Changes:** Facebook (which is now Meta) has launched its new ad delivery and reporting system called [Meta Lattice](https://ai.meta.com/blog/ai-ads-performance-efficiency-meta-lattice/) which plans to enhance system performance and efficiency it came into effect in May, and a lot of advertisers are still struggling with the performance.
 
 This year is always different from the previous years after the pandemic and global retail e-commerce sales are expected to rise as high as [6,310 billion USD in 2023](https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/). If you're not prepared then **here are some ways** to get prepared for this BIG milestone.
