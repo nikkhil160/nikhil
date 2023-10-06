@@ -1,5 +1,5 @@
 ---
-title: "Things to know before starting a Shopify Store"
+title: "Things to Know Before Starting a Shopify Store"
 datePublished: Thu May 19 2022 09:48:30 GMT+0000 (Coordinated Universal Time)
 cuid: cl3ctylrl08qsx2nv8kjv0x91
 slug: things-to-know-before-starting-a-shopify-store
