@@ -16,7 +16,7 @@ I was doing a fairly good ROAS until June, all my LAAs were working well, they u
 **Why are Meta Ads unstable after July 2023?**  
 There has been no official communication from Meta but everyone is saying that they are unstable after Facebook released its new Ad Delivery platform called [Meta Lattice](https://ai.meta.com/blog/ai-ads-performance-efficiency-meta-lattice/).
 
-**What is the problem with Meta Ads after June 2023?**
+**What is the problem with Meta Ads after July 2023?**
 
 The problem is they are insanely expensive, the CPMs that used to be under $10 are now double or even triple. The cost per click that used to be under 0.30 is now $1 with absolutely trash traffic.
 
