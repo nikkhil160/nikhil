@@ -9,8 +9,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697884439559/9f8402b
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697883095802/7c6792c1-33c3-4aea-9f1f-f164396a2fd2.png align="center")
 
-How many of you who are running a Shopify Store put up all those banners and give them an X% discount just to have hope that they will buy someday? The chances are very low. You will end up paying money to your email service provider and they will go to JUNK and your unsubscribe rate will be higher. It's probably useless and less effective.  
-  
+How many of you who are running a Shopify Store put up all those banners and give them an X% discount just to have hope that they will buy someday? The chances are very low. You will end up paying money to your email service provider and they will go to JUNK and your unsubscribe rate will be higher. It's probably useless and less effective.
+
 The problem is that they do not know your brand, and the chances of them buying anything from you because they filled a FORM is very low. UNLESS they are either referred by someone or have seen your ads.
 
 Now there goes the problem. What is the solution, Mr. Nik? The solution is to get email leads WHEN they BUY and when they are in the billing, because if they are in the billing then they are already READY to give their money to you, and are already giving you their information while they are doing that you can say "Hey! Do you mind giving us your email for the newsletter so that we can give you the discount? They will most likely say "Yep! You can have it".
@@ -22,6 +22,11 @@ You are John and you are going to a Mall in your city and you see an in front of
 OR would you be comfortable giving the information to the same guy who asked you in the billing?
 
 There are more chances that you will give the information to the guy at the billing counter because you already trust them.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">How often do you see pop-ups on Amazon or Walmart asking for your email address? You don't. There is a reason behind big businesses don't use pop-ups on their e-commerce website the goal of your website is to sell products and not to collect emails.</div>
+</div>
 
 Treat your e-commerce website as a Physical website, and you will have more success.
 
