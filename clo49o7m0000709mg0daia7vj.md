@@ -30,7 +30,13 @@ You will need to have a page to sell your wreath and post the pictures that you 
 
 Search for local community groups, or Christmas holiday-related groups that you can find on Facebook. Join the groups and start posting your wreaths - always remember that some Facebook Groups may have some rules with regards to when you can post OR advertise your business, they have sponsor sunday or any other specific week of the day where you will be allowed to market your business to them and they may ban you if you market on the other days.
 
-### Step 5: Use Facebook or Google Ads to Sell Wreath
+### Step 5: Create a Pinterest Account
+
+![Use Pinterest to Sell Christmas Wreath](https://cdn.hashnode.com/res/hashnode/image/upload/v1698150403015/8caaf582-b66d-4a07-b8f5-3422ac1937e5.png align="center")
+
+Pinterest can be a good source of traffic for your wreath brand, it can increase the visibility of the Christmas wreaths. A lot of businesses use Pinterest to generate organic sales on their website. You can see pins from multiple brands including Etsy which is a major online retailer. Visitors can click on the image that is displayed on Pinterest and they can be redirected to your product page.
+
+### Step 6: Use Facebook or Google Ads to Sell Wreath
 
 ![Use Facebook or Google Ads to Sell Christmas Wreath](https://cdn.hashnode.com/res/hashnode/image/upload/v1698147058390/db99e5fd-7a48-4bd9-a03f-f5beb995627b.png align="center")
 
