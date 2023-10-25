@@ -4,6 +4,7 @@ seoDescription: "Meta Ads unstable after June 2023? It's not just you. There are
 datePublished: Thu Oct 12 2023 05:11:36 GMT+0000 (Coordinated Universal Time)
 cuid: clnmq2svl000209mi0hqz3che
 slug: meta-ads-unstable-after-july-2023-all-you-should-know
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/WR6qHgdWS-Y/upload/ef87ccbece8a6b781872f0744c0083fb.jpeg
 
 ---
 
