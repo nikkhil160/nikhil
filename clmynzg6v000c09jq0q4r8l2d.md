@@ -1,9 +1,9 @@
 ---
-title: "Is your Shopify store set to hit a million in Q4 revenue?"
+title: "Is your Shopify store set to hit a million [$1,000,000] in Q4 revenue?"
 seoDescription: "Is your Shopify store geared up to seize 1 million in revenue this Q4? Follow these strategies for Q4 e-commerce success: Meta's ad, Google Shopping Ads."
 datePublished: Mon Sep 25 2023 09:06:32 GMT+0000 (Coordinated Universal Time)
 cuid: clmynzg6v000c09jq0q4r8l2d
-slug: is-your-shopify-store-set-to-hit-a-million-in-q4-revenue
+slug: is-your-shopify-store-set-to-hit-a-million-1000000-in-q4-revenue
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/nGc5RT2HmF0/upload/91885e0ac96b0dbbd50826403a855a1e.jpeg
 tags: shopify, facebookads, googleads, d2c
 
