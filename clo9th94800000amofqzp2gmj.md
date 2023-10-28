@@ -52,4 +52,4 @@ Because Apple or other Operating Platforms block the trackers which makes Facebo
 
 ### Hire A Professional
 
-Do you need professional help? I can help you with Meta Pixel-related issues. I have experience connecting hundreds of Meta Pixels and have recently solved the issue of iOS14 not tracking purchases. You can schedule a call **using this link**
+Do you need professional help? I can help you with Meta Pixel-related issues. I have experience connecting hundreds of Meta Pixels and have recently solved the issue of iOS14 not tracking purchases. You can schedule a call [**using this link**](https://calendly.com/dessusmedia)
