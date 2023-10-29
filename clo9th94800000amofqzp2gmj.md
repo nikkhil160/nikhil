@@ -28,7 +28,7 @@ If you are running an e-commerce store then follow this pattern for pixel priori
 
 ### **Check Event Match Quality in Meta Business Manager**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698482410354/f9acc080-6339-440c-a461-6454f3a18a0f.png align="center")
+![Check Event Match Quality in Meta Business Manager](https://cdn.hashnode.com/res/hashnode/image/upload/v1698482410354/f9acc080-6339-440c-a461-6454f3a18a0f.png align="center")
 
 Go to your Facebook Business Manager then head over to Events Manager, click on your pixel and you will see multiple columns like
 
@@ -38,9 +38,9 @@ Connection method, Event match quality and total events, you have to focus on Ev
 
 Head over to your Meta Events manager and select your pixel, click on test events. Enter your domain (website URL) in the test browser events page and click on Open Website
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698483165353/11a1cf11-6863-41be-aec5-988bf193b1de.png align="center")
+![Test Facebook Pixel Events using the Meta Events Testing Tool](https://cdn.hashnode.com/res/hashnode/image/upload/v1698483165353/11a1cf11-6863-41be-aec5-988bf193b1de.png align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698483263125/8dba14d6-d887-45aa-a044-535853b5df1e.png align="center")
+![Test Facebook Pixel Events using the Meta Events Testing Tool](https://cdn.hashnode.com/res/hashnode/image/upload/v1698483263125/8dba14d6-d887-45aa-a044-535853b5df1e.png align="center")
 
 After that open some pages on your website and go back to the Facebook tab and you will see the events processed. Make sure your ad blocker is disabled.
 
