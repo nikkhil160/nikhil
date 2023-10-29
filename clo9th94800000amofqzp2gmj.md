@@ -1,6 +1,6 @@
 ---
-title: "Meta Ads not recording add-to-cart or purchases"
-seoTitle: "Meta Ads not recording add-to-cart or purchases"
+title: "Meta Ads (formerly Facebook) not recording add-to-cart or purchases"
+seoTitle: "Meta Ads (formerly Facebook) not recording add-to-cart or purchases"
 seoDescription: "This article outlines the steps to fix Meta Ads not recording add-to-cart or purchases. There are multiple troubleshooting steps to fix the Meta Integration"
 datePublished: Sat Oct 28 2023 09:05:31 GMT+0000 (Coordinated Universal Time)
 cuid: clo9th94800000amofqzp2gmj
@@ -10,7 +10,7 @@ tags: facebook, meta, facebookads, metapixel
 
 ---
 
-Meta has upgraded their ad algorithm to [Meta Lattice](https://nikhil.pro/meta-ads-unstable-after-july-2023-all-you-should-know) after that several users have been facing several issues including ads being unstable and Meta Ads not recording add-to-cart or purchases, remember it's not you! It's just happening with everyone and we will try to fix the issue.
+Meta has upgraded their ad algorithm to [Meta Lattice](https://nikhil.pro/meta-ads-unstable-after-july-2023-all-you-should-know) after that several users have been facing several issues including ads being unstable and Meta Ads not recording add-to-cart or purchases (sales), remember it's not you! It's just happening with everyone and we will try to fix the issue.
 
 ### Check if the Meta Pixel is connected properly
 
