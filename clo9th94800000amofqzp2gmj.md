@@ -24,6 +24,8 @@ Meta has upgraded their ad algorithm to [Meta Lattice](https://nikhil.pro/meta-a
 
 Make sure your events are prioritized for iOS 14 and your website's domain must be linked to your pixel and verified using an HTML code. You can check the prioritization settings in the events manager.
 
+![Meta (Facebook) pixel event name with event descriptions](https://community.shopify.com/c/image/serverpage/image-id/60699iB25A80B530DC63B8/image-size/large?v=v2&px=999 align="left")
+
 If you are running an e-commerce store then follow this pattern for pixel prioritization (from high to low) Purchase &gt; Initiate Checkout &gt; Add to Cart &gt; View Content. Purchase events should be on high priority.
 
 ### **Check Event Match Quality in Meta Business Manager**
@@ -32,7 +34,7 @@ If you are running an e-commerce store then follow this pattern for pixel priori
 
 Go to your Facebook Business Manager then head over to Events Manager, click on your pixel and you will see multiple columns like
 
-Connection method, Event match quality and total events, you have to focus on Event Match Quality and should be either Great or OK, if that's poor then you should follow the troubleshooting steps by Meta.
+Connection method, Event match the quality and total events, you have to focus on Event Match Quality and should be either Great or OK, if that's poor then you should follow the troubleshooting steps by Meta.
 
 ### **Test Your Events using the Meta Events Testing Tool**
 
