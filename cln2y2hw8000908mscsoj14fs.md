@@ -53,7 +53,7 @@ People often ask me if they should hire an agency or freelancer for Shopify Busi
 <div data-node-type="callout-text">Agencies are best suited for a business that has large capital and wants to scale their already running business by having more resources in place.</div>
 </div>
 
-### How and where to find a freelancer or agency for your Shopify Business?
+### Where to find freelancer or agency for Shopify Business?
 
 1. **Ask your friends if you know someone:** Yes! Ask your friends, and your networks if they know someone who has done ads for them, because the internet is filled up with self-made gurus the best bet is that you should ask your friends if they have worked with any freelancer or any agency and ask for a recommendation from them.
     
