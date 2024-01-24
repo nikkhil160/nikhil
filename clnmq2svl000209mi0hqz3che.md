@@ -1,5 +1,5 @@
 ---
-title: "Meta Ads (formerly Facebook) Unstable in January 2024? All You Should Know"
+title: "Facebook Ads (Meta) Unstable in January 2024? All You Should Know"
 seoDescription: "Meta Ads unstable after June 2023? It's not just you. There are other advertisers reporting the same. This post discusses what is happening."
 datePublished: Thu Oct 12 2023 05:11:36 GMT+0000 (Coordinated Universal Time)
 cuid: clnmq2svl000209mi0hqz3che
