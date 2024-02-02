@@ -1,5 +1,5 @@
 ---
-title: "Facebook (Meta) Ads not recording add-to-cart or purchases"
+title: "Facebook (Meta) Ads Not Recording Add-To-Cart or Purchases?"
 seoTitle: "Meta Ads (formerly Facebook) not recording add-to-cart or purchases"
 seoDescription: "This article outlines the steps to fix Meta Ads not recording add-to-cart or purchases. There are multiple troubleshooting steps to fix the Meta Integration"
 datePublished: Sat Oct 28 2023 09:05:31 GMT+0000 (Coordinated Universal Time)
