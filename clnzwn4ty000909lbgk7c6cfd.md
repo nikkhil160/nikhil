@@ -1,8 +1,8 @@
 ---
-title: "How I grew Klaviyo Email list to 8K without Popups"
+title: "The Right Way to Grow Klaviyo Email List for E-Commerce Stores"
 datePublished: Sat Oct 21 2023 10:36:22 GMT+0000 (Coordinated Universal Time)
 cuid: clnzwn4ty000909lbgk7c6cfd
-slug: how-i-grew-klaviyo-email-list-to-8k-without-popups
+slug: the-right-way-to-grow-klaviyo-email-list-for-e-commerce-stores
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697884439559/9f8402b5-c461-4a3e-8cca-fa6477835eec.png
 
 ---
