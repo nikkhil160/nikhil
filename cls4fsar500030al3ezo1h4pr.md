@@ -3,7 +3,7 @@ title: "Run Facebook Ads for Bakery"
 datePublished: Fri Feb 02 2024 09:22:10 GMT+0000 (Coordinated Universal Time)
 cuid: cls4fsar500030al3ezo1h4pr
 slug: run-facebook-ads-for-bakery
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706865608253/6bcf5114-3a73-4e0f-9627-c210fe044b63.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706865791349/698a10c9-8c16-40e2-ac76-d4dc72bfa2b6.png
 tags: facebookads
 
 ---
