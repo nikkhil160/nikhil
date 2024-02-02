@@ -1,5 +1,5 @@
 ---
-title: "How I Grew Klaviyo Email List to 8K Without Popups"
+title: "How I grew Klaviyo Email list to 8K without Popups"
 datePublished: Sat Oct 21 2023 10:36:22 GMT+0000 (Coordinated Universal Time)
 cuid: clnzwn4ty000909lbgk7c6cfd
 slug: how-i-grew-klaviyo-email-list-to-8k-without-popups
