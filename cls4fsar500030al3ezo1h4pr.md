@@ -1,5 +1,5 @@
 ---
-title: "Run Facebook Ads for Bakery"
+title: "How to Run Facebook Ads for Bakery?"
 datePublished: Fri Feb 02 2024 09:22:10 GMT+0000 (Coordinated Universal Time)
 cuid: cls4fsar500030al3ezo1h4pr
 slug: run-facebook-ads-for-bakery
