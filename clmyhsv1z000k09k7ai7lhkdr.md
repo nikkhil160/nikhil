@@ -1,5 +1,5 @@
 ---
-title: "What I learnt from sourcing e-commerce products from China"
+title: "What I Learnt From Sourcing E-Commerce Products From China"
 seoDescription: "I sourced some e-commerce product for my shopify based e-commerce products and here is what I learnt from dealing with the suppliers. You should too!"
 datePublished: Sun Sep 03 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmyhsv1z000k09k7ai7lhkdr
