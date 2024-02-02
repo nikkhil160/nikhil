@@ -5,7 +5,7 @@ seoDescription: "This article outlines the steps to fix Meta Ads not recording a
 datePublished: Sat Oct 28 2023 09:05:31 GMT+0000 (Coordinated Universal Time)
 cuid: clo9th94800000amofqzp2gmj
 slug: meta-ads-not-recording-add-to-cart-or-purchases
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ilbjfRwOgzA/upload/e0e264c62a6725861e0896e6b5dbab5b.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706866600939/6377bd2c-c256-40b5-8781-cb896df119fa.png
 tags: facebook, meta, facebookads, metapixel
 
 ---
