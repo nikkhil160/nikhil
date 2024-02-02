@@ -3,7 +3,7 @@ title: "What is Advantage+ Shopping in Facebook (Meta) Ads?"
 datePublished: Wed Dec 13 2023 12:52:17 GMT+0000 (Coordinated Universal Time)
 cuid: clq3ru2l4000208jx866kfyuf
 slug: what-is-advantage-shopping-in-facebook-meta-ads
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Ah4F6g-OmgI/upload/8722b3b17ac81695813841123540b5f1.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706866618263/538a0e7f-fa5a-4b98-b6a6-7c0e5302ddbd.png
 tags: facebook, metaads
 
 ---
