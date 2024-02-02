@@ -1,21 +1,16 @@
 ---
-title: "Agency or A Freelancer for your Shopify Business Marketing?"
+title: "Agency or A Freelancer for Facebook Ads?"
 seoTitle: "Agency or A Freelancer for your Shopify Business Marketing?"
 seoDescription: "Should you hire an agency or A Freelancer for your Shopify Business Marketing? This article answers your queries with proper recommendations for your biz"
 datePublished: Thu Sep 28 2023 08:59:55 GMT+0000 (Coordinated Universal Time)
 cuid: cln2y2hw8000908mscsoj14fs
-slug: agency-or-a-freelancer-for-shopify-marketing
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wpOa2i3MUrY/upload/a48bf586a4834a8bc3dc369bd6533690.jpeg
+slug: agency-or-a-freelancer-for-facebook-ads
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706867920103/40165cc1-c468-4ce4-aa40-38a6704733d9.png
 tags: shopify, small-business, google-ads, facebookads
 
 ---
 
-People often ask me if they should hire an agency or freelancer for Shopify Business Marketing. It is a tough task to decide but there are some factors that you should decide before hiring an agency or a Freelancer for your Shopify Business marketing.
-
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text"><em>I am a freelancer having hundreds of clients, but now have an agency called Dessus Media that specializes in paid ads for e-commerce businesses so I feel that I can have an unbiased opinion on both of the options and how they operate.</em></div>
-</div>
+There are some factors that you should decide before hiring an agency or a Freelancer for your Shopify Business marketing.
 
 ### Hiring A Freelancer
 
@@ -61,8 +56,6 @@ People often ask me if they should hire an agency or freelancer for Shopify Busi
     
 3. **Ask your friends if you know someone:** Yes! Ask your friends, and your networks if they know someone who has done ads for them, because the internet is filled up with self-made gurus the best bet is that you should ask your friends if they have worked with any freelancer or any agency and ask for a recommendation from them.
     
-4. **My Recommendation:** If you are starting up or if you want to scale your business then you can consider hiring Dessus Media, it is my brand agency and I have helped countless small and large business owners with their ads and marketing, shared a previous blog where I scaled a [small business to $100k](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) in less than a month. You can [use this link](https://calendly.com/dessusmedia) to schedule a free call it will be a discovery call where we will just chat and plan how to take your business to the next level.
-    
 
 # Summary and Final Words:
 
@@ -76,4 +69,4 @@ You should hire a freelancer for your Shopify business if you are just starting 
 
 ### **Want to scale the business yourself?**
 
-I wrote a guide on how Dessus Media scaled Ella's [Shopify business to $300k](https://dessusmedia.com/blog/how-we-scaled-this-us-based-shopify-store-to-300000/) it is a DIY guide that you can use to set up and scale your business yourself.
+I wrote multiple guides on this blog that you can use to run the Facebook Ads yourself.
