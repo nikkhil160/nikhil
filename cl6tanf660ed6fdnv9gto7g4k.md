@@ -8,10 +8,6 @@ tags: facebook, shopify, digitalmarketing, facebookads, googleads
 
 ---
 
-Phew! This is um, gonna be quite interesting.
-
-Disclaimer: I'm not a copywriter, so there will be a few mistakes in the article (subtle warning) 😉
-
 ![FaCf2LdVQAAtdw0.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1660477094951/jgTYIT1dh.jpeg align="left")
 
 I will not sound like those fake 'Gurus' and will dive all into the strategy.
