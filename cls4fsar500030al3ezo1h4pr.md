@@ -1,8 +1,8 @@
 ---
-title: "[Guide] Running Facebook Ads for Bakery Business"
+title: "Running Paid Ads for Bakery Business  [Beginners Guide]"
 datePublished: Fri Feb 02 2024 09:22:10 GMT+0000 (Coordinated Universal Time)
 cuid: cls4fsar500030al3ezo1h4pr
-slug: running-facebook-ads-for-bakery-guide
+slug: running-paid-ads-for-bakery-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706865791349/698a10c9-8c16-40e2-ac76-d4dc72bfa2b6.png
 tags: facebookads
 
