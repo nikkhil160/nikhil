@@ -1,5 +1,5 @@
 ---
-title: "Scaling Ella's E-Commerce Business to 150K using Paid Ads [Case Study]"
+title: "Scaling Ella's E-Commerce Business to 50K using Paid Ads [Case Study]"
 seoTitle: "Scaling an E-Commerce Business to 50K using Paid Ads"
 seoDescription: "A comprehensive in-depth guide on how to scale an e-commerce business to 50K using Facebook Ads, Google ads and Email Marketing"
 datePublished: Tue Feb 06 2024 14:10:32 GMT+0000 (Coordinated Universal Time)
