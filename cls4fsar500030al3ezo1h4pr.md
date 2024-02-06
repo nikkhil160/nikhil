@@ -1,5 +1,6 @@
 ---
 title: "Running Paid Ads for Bakery Business  [Beginners Guide]"
+seoDescription: "A comprehensive guide on running paid Facebook, Google ads for your bakery business that increases footfall for your bakery business"
 datePublished: Fri Feb 02 2024 09:22:10 GMT+0000 (Coordinated Universal Time)
 cuid: cls4fsar500030al3ezo1h4pr
 slug: running-paid-ads-for-bakery-guide
