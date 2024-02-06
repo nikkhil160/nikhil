@@ -17,7 +17,7 @@ Once Ella was onboarded to Shopify, we made the complete transition. That's when
 
 ## Setup Google Merchant Center
 
-### Types of Google Ads
+### Types of Google Ads:
 
 1. Google Shopping via Shopify Sales Channel.
     
