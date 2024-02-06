@@ -17,6 +17,13 @@ Once Ella was onboarded to Shopify, we made the complete transition. That's when
 
 ## Setup Google Merchant Center
 
+## Types of Google Ads
+
+1. Google Shopping via Shopify Sales Channel.
+    
+2. Search Campaign.
+    
+
 One of Google's gems is the Google Merchant Center, which allows you to submit your products for free. Yes, you heard that right, free listings! No payment required to have your products displayed on Google. All you need to do is connect your Shopify store, and you're good to go.
 
 ![Free Listings](https://community.shopify.com/c/image/serverpage/image-id/365674i9647DCD0D59CA6F3/image-size/large?v=v2&px=999 align="left")
@@ -28,13 +35,6 @@ For those interested, you can sign up for Google Merchant Center and explore thi
 While Ella was thrilled with consistent free sales from Google Shopping, there was a limitation – control. It's like having a car with no accelerator; it just moves on its own. We needed to provide her with an accelerator.
 
 So, we ventured into paid Google Ads, starting with a daily budget of $10. We ran two types of campaigns for her:
-
-## Types of Google Ads
-
-1. Google Shopping via Shopify Sales Channel.
-    
-2. Search Campaign.
-    
 
 One of the wonders of Google Shopping Ads is that they find customers on their own. You provide the product feed, and it works its magic. For the Shopping Campaign, we utilized machine learning models to optimize bids and placements, essentially letting Google do the heavy lifting.
 
