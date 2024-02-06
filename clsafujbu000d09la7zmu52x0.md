@@ -11,7 +11,9 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707228612200/81df516
 
 For many small businesses, the journey often starts with sales challenges, tax concerns, and eventually, supply chain obstacles. But first, you need sales, and you've probably been bombarded with emails, cold calls, and DMs from people promising to "scale" your business. Trust is paramount in navigating this landscape.
 
-Meet Ella, a close friend who initially sold her beauty products on Etsy. When we connected, we decided to migrate her business to Shopify. Why? Shopify offered more control over pricing, store customization, and upselling opportunities.
+Meet Ella, a close friend who initially sold her beauty products on Etsy. When we connected, we decided to migrate her business to [Shopify](https://shopify.com). Why? Shopify offered more control over pricing, store customization, and upselling opportunities.
+
+Ella also read a [blog post](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) on how I did 100K in sales for a similar business
 
 Once Ella was onboarded to Shopify, we made the complete transition. That's when we started running both Facebook and Google Ads campaigns to boost her visibility and sales.
 
@@ -24,15 +26,15 @@ Once Ella was onboarded to Shopify, we made the complete transition. That's when
 2. Search Campaign.
     
 
-One of Google's gems is the Google Merchant Center, which allows you to submit your products for free. Yes, you heard that right, free listings! No payment required to have your products displayed on Google. All you need to do is connect your Shopify store, and you're good to go.
+One of Google's gems is the [Google Merchant Center](https://merchants.google.com), which allows you to submit your products for free. Yes, you heard that right, free listings! No payment required to have your products displayed on Google. All you need to do is connect your Shopify store, and you're good to go.
 
 ![Free Listings](https://community.shopify.com/c/image/serverpage/image-id/365674i9647DCD0D59CA6F3/image-size/large?v=v2&px=999 align="left")
 
-Ella experienced a jaw-dropping $15,000 in revenue from Google Free Product Listings alone, without spending a dime on ads. It's incredible how Google can drive traffic your way without any ad expenditure.
+She experienced a jaw-dropping $15,000 in revenue from Google Free Product Listings alone, without spending a dime on ads. It's incredible how Google can drive traffic your way without any ad expenditure.
 
 For those interested, you can sign up for Google Merchant Center and explore this opportunity.
 
-While Ella was thrilled with consistent free sales from Google Shopping, there was a limitation – control. It's like having a car with no accelerator; it just moves on its own. We needed to provide her with an accelerator.
+While She was thrilled with consistent free sales from Google Shopping, there was a limitation – control. It's like having a car with no accelerator; it just moves on its own. We needed to provide her with an accelerator.
 
 So, we ventured into paid Google Ads, starting with a daily budget of $10. We ran two types of campaigns for her:
 
