@@ -15,7 +15,9 @@ Meet Ella, a close friend who initially sold her beauty products on Etsy. When w
 
 Once Ella was onboarded to Shopify, we made the complete transition. That's when we started running both Facebook and Google Ads campaigns to boost her visibility and sales.
 
- One of Google's gems is the Google Merchant Center, which allows you to submit your products for free. Yes, you heard that right, free listings! No payment required to have your products displayed on Google. All you need to do is connect your Shopify store, and you're good to go.
+## Setup Google Merchant Center
+
+One of Google's gems is the Google Merchant Center, which allows you to submit your products for free. Yes, you heard that right, free listings! No payment required to have your products displayed on Google. All you need to do is connect your Shopify store, and you're good to go.
 
 ![Free Listings](https://community.shopify.com/c/image/serverpage/image-id/365674i9647DCD0D59CA6F3/image-size/large?v=v2&px=999 align="left")
 
@@ -26,6 +28,8 @@ For those interested, you can sign up for Google Merchant Center and explore thi
 While Ella was thrilled with consistent free sales from Google Shopping, there was a limitation – control. It's like having a car with no accelerator; it just moves on its own. We needed to provide her with an accelerator.
 
 So, we ventured into paid Google Ads, starting with a daily budget of $10. We ran two types of campaigns for her:
+
+## Types of Google Ads
 
 1. Google Shopping via Shopify Sales Channel.
     
@@ -38,7 +42,7 @@ One of the wonders of Google Shopping Ads is that they find customers on their o
 
 For the Search Campaign, we wanted more control. We targeted specific keywords like "best beauty balm for mom" and "eyeliners under $50" to have precise control over our audience. Plus, it safeguarded Ella's store keyword from others' reach.
 
- The results were astonishing! In the first month, with a spend of only $2450, we managed to generate almost 19.6K in return, which translates to an 8X return on investment. I often start campaigns conservatively, allowing them to settle before scaling them up, and this strategy proved valuable, especially for the Google Shopping Campaign.
+The results were astonishing! In the first month, with a spend of only $2450, we managed to generate almost 19.6K in return, which translates to an 8X return on investment. I often start campaigns conservatively, allowing them to settle before scaling them up, and this strategy proved valuable, especially for the Google Shopping Campaign.
 
 With the Google Shopping Campaign up and running successfully, we had two sources of sales:
 
@@ -51,7 +55,11 @@ With the Google Shopping Campaign up and running successfully, we had two source
 
 Now, it was time to look ahead. Ella had her eyes set on scaling her Shopify store, especially with the holiday season approaching in Q4. But we opted for a different approach. While many would turn to Facebook Ads, we decided to embrace Meta Ads. Meta has been diligently working on enhancing ad performance and delivery, and they recently introduced Meta Lattice to improve efficiency.
 
- In a world where AI is taking center stage, companies like Meta and Google are gearing up to harness its potential, especially in light of privacy restrictions such as iOS 14's tracking updates.
+In a world where AI is taking center stage, companies like Meta and Google are gearing up to harness its potential, especially in light of privacy restrictions such as iOS 14's tracking updates.
+
+## Setup Facebook Ads
+
+### Facebook Ads checklist:
 
 So, we embarked on onboarding Ella to Facebook Ads, and we did the groundwork:
 
@@ -66,9 +74,9 @@ So, we embarked on onboarding Ella to Facebook Ads, and we did the groundwork:
 
 **To make sure everything works seamlessly, we followed four essential steps, which I referred to as "heavy lifting." Getting these right is crucial.**
 
- We started Ella's first campaign with a daily budget of $50. During this phase, we spent $1.4K and saw returns of almost $9K, which is even more if you consider that we used UTM parameters for data validation. It's important to note that Facebook's data tracking underwent some changes after the iOS 14 update.
+We started Ella's first campaign with a daily budget of $50. During this phase, we spent $1.4K and saw returns of almost $9K, which is even more if you consider that we used UTM parameters for data validation. It's important to note that Facebook's data tracking underwent some changes after the iOS 14 update.
 
- Some days were incredibly successful, with a cost per sale as low as $1. Our campaign strategy was straightforward as we were just starting out. We didn't have extensive data for Lookalike Audiences (LLAs), so we stuck with:
+Some days were incredibly successful, with a cost per sale as low as $1. Our campaign strategy was straightforward as we were just starting out. We didn't have extensive data for Lookalike Audiences (LLAs), so we stuck with:
 
 * Broad Audience ($5×5).
     
@@ -81,7 +89,7 @@ So, we embarked on onboarding Ella to Facebook Ads, and we did the groundwork:
 
 ![Facebook ROAS](https://community.shopify.com/c/image/serverpage/image-id/365676i42F44066964402D8/image-size/large?v=v2&px=999 align="left")
 
- Facebook where she spent 1.4k and got 8.2K back (tracked)
+Facebook where she spent 1.4k and got 8.2K back (tracked)
 
 These steps got us up and running effectively on Facebook Ads. Keep in mind that this is just a beginner-friendly guide, and we made more in-depth changes as we progressed. However, these steps should serve as a solid starting point for your journey.
 
@@ -96,9 +104,11 @@ So, what were we missing? We realized that there was still room to generate more
 
 Given the variety of orders pouring in, we also had the opportunity to collect emails from customers and encourage opt-ins.
 
- So, we decided to initiate cold email campaigns using Klaviyo. We opted for the free plan, which provided us with 250 emails per month – a good starting point to test the waters.
+So, we decided to initiate cold email campaigns using Klaviyo. We opted for the free plan, which provided us with 250 emails per month – a good starting point to test the waters.
 
-Getting started with Klaviyo required a checklist:
+## Setup Klaviyo for Email Marketing
+
+### Klaviyo checklist:
 
 1. Get a Klaviyo account.
     
@@ -115,11 +125,11 @@ Following this checklist ensured that we had everything set up correctly.
 
 We didn't set up elaborate flows in Klaviyo since we had more trust in Shopify's abandoned cart system. Instead, we focused on running email campaigns.
 
- Our email performance was impressive, with a staggering 71% open rate (the industry average is 39% according to HubSpot) and a click rate ranging from 5% to 14% (compared to the average click rate of 1.92% according to MailChimp).
+Our email performance was impressive, with a staggering 71% open rate (the industry average is 39% according to HubSpot) and a click rate ranging from 5% to 14% (compared to the average click rate of 1.92% according to MailChimp).
 
 ![Klaviyo Metrics](https://community.shopify.com/c/image/serverpage/image-id/365677i5FDB1F10433108C3/image-size/large?v=v2&px=999 align="left")
 
- Our email content was simple and followed the KISS principle (Keep It Silly Simple). We informed recipients about new products they might like and included personalized product recommendations. Shopify supports product recommendation engines, so the suggested products in the emails were tailored to individual preferences.
+Our email content was simple and followed the KISS principle (Keep It Silly Simple). We informed recipients about new products they might like and included personalized product recommendations. Shopify supports product recommendation engines, so the suggested products in the emails were tailored to individual preferences.
 
 That's how we had our email marketing strategy in place.
 
