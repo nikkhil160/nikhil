@@ -26,7 +26,7 @@ First let's look at what others are doing, they can be your competitors or biggi
 
 ![How Crumbl Cookie runs their Facebook ads](https://cdn.hashnode.com/res/hashnode/image/upload/v1706857981449/98cffc43-64cb-4028-9941-e8cf9a1d50be.png align="center")
 
-Crumbl Cookies uses a traffic/conversion objective to divert people to their website where they can see the location and the users that has clicked the ad can be retargeted back. Crumble cookies also use Facebook's pixel-based retargeting. ([see all Crumble Cookie ads](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&view_all_page_id=864630237035029&sort_data%5Bdirection%5D=desc&sort_data%5Bmode%5D=relevancy_monthly_grouped&search_type=page&media_type=all))
+Crumbl Cookies uses a traffic/conversion objective to divert people to their website where they can see the location as Crumbl Cookie is launching in Southeast Tulsa and the users that has clicked the ad can be retargeted back. Crumble cookies also use Facebook's pixel-based retargeting. ([see all Crumble Cookie ads](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&view_all_page_id=864630237035029&sort_data%5Bdirection%5D=desc&sort_data%5Bmode%5D=relevancy_monthly_grouped&search_type=page&media_type=all))
 
 ---
 
@@ -34,7 +34,7 @@ Crumbl Cookies uses a traffic/conversion objective to divert people to their web
 
 ![How Insomnia Cookie runs their Facebook ads](https://cdn.hashnode.com/res/hashnode/image/upload/v1706858025032/e192c733-b9a8-4aae-bba5-906f2eb226ce.png align="center")
 
-Insomnia Cookies uses Facebook Ads with Purchase objective to generate online orders for their online store, unlike Crumbl Cookies - Insomnia Cookies focuses more on the online website of the business and gives various offers like VALDAY24 that gives FREE DELIVERY ([see all **Insomnia Cookie** ads](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&view_all_page_id=154198687954817&sort_data%5Bdirection%5D=desc&sort_data%5Bmode%5D=relevancy_monthly_grouped&search_type=page&media_type=all))
+Insomnia Cookies uses Facebook Ads with Purchase objective to generate online orders for their online store, unlike Crumbl Cookies - Insomnia Cookies focuses more on the online website of the business and gives various offers like 'VALDAY24' that gives FREE DELIVERY ([see all **Insomnia Cookie** ads](https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=US&view_all_page_id=154198687954817&sort_data%5Bdirection%5D=desc&sort_data%5Bmode%5D=relevancy_monthly_grouped&search_type=page&media_type=all))
 
 ---
 
@@ -49,6 +49,10 @@ Just like Insomnia Cookies, Sprinkles Cupcakes also focuses on the online websit
 ### Using Facebook Ad Library to See Competitors Ads
 
 How did I see those ads? Facebook has a tool called [Facebook Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&sort_data%5Bdirection%5D=desc&sort_data%5Bmode%5D=relevancy_monthly_grouped&media_type=all) that can be used to search if any page is running ads, or what ads they are running. I used the Facebook Ads Library to check what ads they are running.
+
+### Can we use Ads to sell Bakery Franchise?
+
+Yes, absolutely. Paid ads can also be used to sell Bakery Franchise. You can have a Facebook Ad with an intent of downloading your business brochure for the bakery and can generate leads, and follow up the leads.
 
 ---
 
@@ -88,9 +92,53 @@ Keep these handy before starting Facebook Ads for your bakery business.
 * Hootsuite or any other social media management platform
     
 
+### Which is the best Facebook Ad Goal for Bakery?
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707833051034/6d648061-e56b-4477-a71b-4182431ab86e.png align="center")
+
+While you're creating the campaign, you will see a lot of options that are Awareness, Traffic, Engagement, Leads, App promotion and Sales.
+
+Let's break them down:
+
+**Awareness:** This is about making people familiar with your brand, product, or service. It's like introducing yourself to someone for the first time. You want them to know you exist.
+
+**For example:** It has an objective called, Store Location Awareness. It will give you a low CPM but you can see this as a billboard for your bakery business.
+
+**Traffic:** This objective aims to drive people to visit your website or a specific page. It's like directing traffic to a particular location, such as a store or a website.
+
+**For example:** Imagine you have a blog with delicious recipes. Using the Traffic objective, you can create ads that lead people to your blog whenever they click on them. It's like putting up signs that direct people straight to your kitchen to learn new recipes.
+
+**Engagement:** Here, the goal is to get people to interact with your ad, like commenting, sharing, or reacting to it. It's like starting a conversation and getting people to participate.
+
+**For example:** Let's say you want to engage with your local community. With the Engagement objective, you can create posts featuring photos of your freshly baked goods and ask people to share their favorite treats or memories of visiting your bakery. It's like hosting a virtual bake-off where everyone gets to share their love for baked goods.
+
+**Leads:** This objective focuses on getting potential customers to provide their contact information, like email addresses or phone numbers. It's like collecting leads or inquiries from interested people.
+
+**For Example:** Suppose you're launching a new line of specialty cakes for special occasions like weddings and birthdays. Using the Leads objective, you can create ads offering a free tasting session or a downloadable guide to choosing the perfect cake, in exchange for people's email addresses. It's like offering a sneak peek of your delicious cakes in exchange for contact information from potential customers.
+
+**App Promotion:** If you have a mobile app, this objective helps promote it to potential users. It's like encouraging people to download and use your app.
+
+**Sales:** This objective is all about driving direct purchases of your product or service. It's like persuading people to buy something from you right away.
+
+**For Example:** Suppose you want to boost sales for your bakery's Valentine's Day special: heart-shaped cookies. With the Sales objective, you can create ads showcasing your adorable cookies and offering a discount for orders placed before Valentine's Day. It's like spreading love and sweetness by giving customers a special deal on your festive treats.
+
+**Which Facebook ad objective is best for your bakery?**
+
+**If you have an offline store:**
+
+* You should choose Awareness, and then Store Location Awareness objective under it.
+    
+* You should choose Leads, and then Messenger Messages objective under it.
+    
+
+**If you have an online store:**
+
+* You should choose Sales, and then Conversions objective under it
+    
+
 ### Use ChatGPT to run Facebook Ads for Bakery
 
-Artificial Intelligence is everywhere now, you can also use ChatGPT to create Facebook Ads primary text andheadlines. It can generate cool headlines and primary texts for your bakery.
+Artificial Intelligence is everywhere now, you can also use ChatGPT to create Facebook Ads primary text and headlines. It can generate cool headlines and primary texts for your bakery.
 
 ### Tips for Running Facebook Ads for Bakery
 
