@@ -43,7 +43,10 @@ You can use [NameCheckr](https://www.namecheckr.com/) to check the availability 
 
 ![Screenshot of a website called Namecheckr which checks social media names](https://cdn.hashnode.com/res/hashnode/image/upload/v1707980762855/11244c7e-1412-4fcc-b0aa-3d9d0f2c2009.png align="center")
 
-**Do It Yourself:** You can Create a Facebook Page using [this link](https://facebook.com/pages/create) and Instagram Account using [this link](https://www.instagram.com/accounts/emailsignup/)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> You can Create a Facebook Page using <a target="_blank" rel="noopener noreferrer nofollow" href="https://facebook.com/pages/create" style="pointer-events: none">this link</a> and Instagram Account using <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.instagram.com/accounts/emailsignup/" style="pointer-events: none">this link</a></div>
+</div>
 
 * ### Meta Pixel
     
