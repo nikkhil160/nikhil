@@ -71,9 +71,9 @@ Google merchant center free products screenshot. The products are displayed at t
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">If you just want to focus on brand building then you can let me do the heavy lifting of ads I will set up and run Google Ads, Meta Ads and E-mail campaigns for you.</div>
+<div data-node-type="callout-text">If you just want to focus on brand building then you can let me do the heavy lifting of ads I will set up and run Google Ads, Meta Ads and Email campaigns for you.</div>
 </div>
 
-Making you worryless. If you are not happy with the performance then I can do a free audit for you. Interested? Email me at div \[at\] dessus \[dot\] co or schedule an [appointment here](https://calendly.com/dessusmedia).
+Making you worryless. If you are not happy with the performance then I can do a free audit for you. Interested? Email me at hello@nikhil.pro or schedule an [appointment here](https://calendly.com/nikhil-pro/30min?utm_source=store_ready_article&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08).
 
 All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names,trademarks and brands does not imply endorsement.
