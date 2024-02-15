@@ -19,6 +19,11 @@ You must have encountered numerous blog posts about setting up a Shopify store, 
 
 Follow [Store Launch Checklist](https://www.shopify.com/blog/shopify-store-launch-checklist) by Shopify and have a store ready. You need to have a store with all the basics setup (Terms and Conditions, Privacy Policy, Marksts, Custom Domain, Apps)
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">You can download the blank checklist by using <a target="_blank" rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1Huk5g7FHOtGm1sra8YLSaxGqLUWEAEQH/view?usp=sharing" style="pointer-events: none">this link</a></div>
+</div>
+
 ---
 
 # First Things First
