@@ -53,7 +53,10 @@ You can use [NameCheckr](https://www.namecheckr.com/) to check the availability 
 
 Meta Pixel (or Facebook Pixel) is a tool that is connected to your Shopify Store and sends all the data to Facebook solely for the purpose of advertising and retargeting. It captures the website visitors, location and other details and matches it with Facebook's algorithm which also helps you in tracking the purchases.
 
-**Do It Yourself:** You can install Meta Pixel by adding [Facebook Sales Channel](https://apps.shopify.com/facebook) to your Shopify Store. ([guide](https://help.shopify.com/en/manual/online-sales-channels/facebook-instagram-by-meta/setup) by Shopify)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> You can install Meta Pixel by adding <a target="_blank" rel="noopener noreferrer nofollow" href="https://apps.shopify.com/facebook" style="pointer-events: none">Facebook Sales Channel</a> to your Shopify Store. (<a target="_blank" rel="noopener noreferrer nofollow" href="https://help.shopify.com/en/manual/online-sales-channels/facebook-instagram-by-meta/setup" style="pointer-events: none">guide</a> by Shopify)</div>
+</div>
 
 * ### Facebook Business Manager
     
