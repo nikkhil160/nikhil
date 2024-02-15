@@ -1,8 +1,8 @@
 ---
-title: "My Learnings after a year of Freelancing"
+title: "My Learnings After an Year of Freelancer"
 datePublished: Fri Jul 15 2022 16:30:55 GMT+0000 (Coordinated Universal Time)
 cuid: cl5mofo6m0117njnv39ol54te
-slug: my-learnings-after-a-year-of-freelancing
+slug: my-learnings-after-an-year-of-freelancer
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/pHPzdEHN6Os/upload/454352718394bd35fafe5899611f0778.jpeg
 tags: freelancing
 
