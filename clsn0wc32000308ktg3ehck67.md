@@ -48,7 +48,7 @@ You can use [NameCheckr](https://www.namecheckr.com/) to check the availability 
 * ### Meta Pixel
     
 
-Meta Pixel (or Facebook Pixel) is a tool that is connected to your Shopify Store and sends all the data to Facebook just for sole the purpose of advertising and retargeting. It captures the website visitors, location and other details and matches it with Facebook's algorithm which also helps you in tracking the purchases.
+Meta Pixel (or Facebook Pixel) is a tool that is connected to your Shopify Store and sends all the data to Facebook solely for the purpose of advertising and retargeting. It captures the website visitors, location and other details and matches it with Facebook's algorithm which also helps you in tracking the purchases.
 
 **Do It Yourself:** You can install Meta Pixel by adding [Facebook Sales Channel](https://apps.shopify.com/facebook) to your Shopify Store. ([guide](https://help.shopify.com/en/manual/online-sales-channels/facebook-instagram-by-meta/setup) by Shopify)
 
@@ -59,91 +59,118 @@ Facebook Business Manager (or Meta Business Manager) is a comprehensive tool to 
 
 Imagine you're hiring someone to run ads for your Shopify business. You can simply grant them access to your Facebook Business Manager, and they'll have all the necessary access. It also houses your billing information and ad accounts, including all associated ads.
 
-**Do It Yourself:** You can create a Facebook Business Manager account by using [this link](https://business.facebook.com/overview) and here is a ([guide](https://www.facebook.com/business/help/1710077379203657?id=180505742745347) by Facebook)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> You can create a Facebook Business Manager account by using <a target="_blank" rel="noopener noreferrer nofollow" href="https://business.facebook.com/overview" style="pointer-events: none">this link</a> and here is a (<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/business/help/1710077379203657?id=180505742745347" style="pointer-events: none">guide</a> by Facebook)</div>
+</div>
 
 ## Google Checklist
 
 * ### Google Merchant Center
     
 
-Google Merchant Center is a tool that is (ofcourse) by Google. It allows businesses to upload and manage their product data for use in Google Shopping ads, Google Search, and other Google services
+Google Merchant Center is a tool that is (of course) by Google. It allows businesses to upload and manage their product data for use in Google Shopping ads, Google Search, and other Google services
 
 ![Google Merchant Center](https://cdn.hashnode.com/res/hashnode/image/upload/v1707982578136/31c064a9-9e48-4e9d-8099-b31ca2e50684.png align="center")
 
 **For example:** Do you see these listings when you search for something on Google? These are powered by Google Merchant Center.
 
-If you have an online store, it is essential for you to submit your products to Google Merchant Center using a feed. **Bonus:** Google let's to add your products and even advertise them for free, they are called Free Shopping Listings by Google. That is how I scaled [Ella's Store](https://nikhil.pro/scaling-e-commerce-business-to-50k-using-paid-ads) to $50,000
+If you have an online store, it is essential for you to submit your products to Google Merchant Center using a feed. **Bonus:** Google lets to add your products and even advertise them for free, they are called Free Shopping Listings by Google. That is how I scaled [Ella's Store](https://nikhil.pro/scaling-e-commerce-business-to-50k-using-paid-ads) to $50,000
 
-**Do It Yourself:** You need to have a Google Merchant account which you can by [clicking here](https://merchants.google.com/) and then You can install Google Merchant Center by adding [Google Sales Channel](https://apps.shopify.com/google) to your Shopify Store. ([guide](https://help.shopify.com/en/manual/online-sales-channels/google/getting-setup/connect) by Shopify)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> You need to have a Google Merchant account which you can by <a target="_blank" rel="noopener noreferrer nofollow" href="https://merchants.google.com/" style="pointer-events: none">clicking here</a> and then You can install Google Merchant Center by adding <a target="_blank" rel="noopener noreferrer nofollow" href="https://apps.shopify.com/google" style="pointer-events: none">Google Sales Channel</a> to your Shopify Store. (<a target="_blank" rel="noopener noreferrer nofollow" href="https://help.shopify.com/en/manual/online-sales-channels/google/getting-setup/connect" style="pointer-events: none">guide</a> by Shopify)</div>
+</div>
 
 * ### Google Ads
     
 
-After you have Google Merchant Center setup, and everything setup. You will need to have a Google Ads account. Google Merchant Center helps you launch your Shopify Products for free, but you will need a Google Ads account in order to run paid ads so that you can compete with the paid listings. With Google Ads, you can display your ads on Google Search, Youtube and on other platforms.
+After you have Google Merchant Center setup, and everything setup. You will need to have a Google Ads account. Google Merchant Center helps you launch your Shopify Products for free, but you will need a Google Ads account in order to run paid ads so you can compete with the paid listings. With Google Ads, you can display your ads on Google Search, Youtube and on other platforms.
 
 **For example:** The ads you see when you play a YouTube video or search anything online is powered by Google Ads. You can use Google Ads to also target certain keyword.
 
-**Do It Yourself:** You can create a Google Ads Accounts account by using [this link](https://ads.google.com/) and link your Google Merchant Center with it. Here is a ([guide](https://support.google.com/google-ads/answer/12499498?hl=en) by Google)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> You can create a Google Ads Accounts account by using <a target="_blank" rel="noopener noreferrer nofollow" href="https://ads.google.com/" style="pointer-events: none">this link</a> and link your Google Merchant Center with it. Here is a (<a target="_blank" rel="noopener noreferrer nofollow" href="https://support.google.com/google-ads/answer/12499498?hl=en" style="pointer-events: none">guide</a> by Google)</div>
+</div>
 
 ## Email Marketing Checklist
 
-There are a lot of options for Email Marketing for Shopify. But my personal favourite is Klaviyo. love it Klaviyo (and no Klaviyo is sponsoring this) I wrote a dedicated [guide](https://nikhil.pro/the-right-way-to-grow-klaviyo-email-list-for-e-commerce-stores) on how to grow Klaviyo email list without having annoying popups.
+There are a lot of options for Email Marketing for Shopify. But my personal favourite is Klaviyo. I just love Klaviyo (and no Klaviyo is sponsoring this) I wrote a dedicated [guide](https://nikhil.pro/the-right-way-to-grow-klaviyo-email-list-for-e-commerce-stores) on how to grow Klaviyo email list without having annoying popups.
 
 * ### Klaviyo Email Marketing Setup
     
 
-Until now, we have taken care of Facebook, Google and now you need additional marketing channel which is [Klaviyo](https://www.klaviyo.com/). Klaviyo is magic! But configuration Klaviyo is a bit hard. Your emails will go to Spam/Junk if you don't configure the domain name and the DNS records properly. Klaviyo also has a Free plan that gives you 500 monthly email sends and 250 maximum contacts.
+Up until now, we've covered Facebook and Google; now, you need an additional marketing channel which is [Klaviyo](https://www.klaviyo.com/). Klaviyo is magic! But configuring Klaviyo is a bit hard. Your emails will go to Spam/Junk unless you don't configure the domain name and the DNS records properly. Klaviyo also has a Free plan that gives you 500 monthly email sends and 250 maximum contacts.
 
-**Do It Yourself:** You can create a Klaviyo account by using [this link](https://www.klaviyo.com/) and install the Klaviyo app from Shopify using [this link](https://apps.shopify.com/klaviyo-email-marketing)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> You can create a Klaviyo account by using <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.klaviyo.com/" style="pointer-events: none">this link</a> and install the Klaviyo app from Shopify using <a target="_blank" rel="noopener noreferrer nofollow" href="https://apps.shopify.com/klaviyo-email-marketing" style="pointer-events: none">this link</a></div>
+</div>
 
 * ### Avoid Marketing Emails Going to Spam
     
 
-If your emails are going to spam then you need to have proper DNS authentication for your domain name. You need to have DKIM, SPF and DMARC records from Klaviyo and enter them to your domain's registrar. The records safeguards your brand from imposters and enables email security. GMail and Yahoo have rolled out new [guidelines](https://www.klaviyo.com/blog/gmail-update) that you will need to adhere to.
+If your emails are going to spam then you need to have proper DNS authentication for your domain name. You need to have DKIM, SPF and DMARC records from Klaviyo and enter them into your domain's registrar. The records safeguards your brand from imposters and enables email security. GMail and Yahoo have rolled out new [guidelines](https://www.klaviyo.com/blog/gmail-update) you need to adhere to
 
-**Do it Yourself:** You can follow [this guide](https://help.klaviyo.com/hc/en-us/articles/4402601857307) by Klaviyo and setup your SPF, DKIM and DMARC records to Avoid Your Marketing Emails going to Spam.
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> You can follow <a target="_blank" rel="noopener noreferrer nofollow" href="https://help.klaviyo.com/hc/en-us/articles/4402601857307" style="pointer-events: none">this guide</a> by Klaviyo and setup your SPF, DKIM and DMARC records to Avoid Your Marketing Emails going to Spam.</div>
+</div>
 
 ## Shopify Product Reviews Collection
 
 * ### Judge.Me
     
 
-After you're done with all the marketing, you will need to collect the reviews from the customers and show them on the product pages. There are a lot of plugins and addons.
+After you've finished all your marketing efforts, you'll need to collect reviews from customers and show them on the product pages. There are a lot of plugins and add-ons.
 
-Shopify had their own Reviews app which was removed by Shopify, so the closest option is Judge.Me. It has a free plan with basic features and you can also integrate Klaviyo (not in free plan) with it to send emails that land directly to Inbox and you can integrate your shipping information to automate when the order is marked as delivered.
+Shopify had its own Reviews app which was removed by Shopify, so the closest option is Judge.Me. It has a free plan with basic features and you can also integrate Klaviyo (not in free plan) with it to send emails that land directly to Inbox and you can integrate your shipping information to automate when the order is marked as delivered.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707986714249/8eac5709-72d1-47d8-856b-740ab484cbe8.png align="center")
 
-Here is how Judge.Me will display your reviews. You can see the live demo [here](https://judge-me-demo-store.myshopify.com/products/desert-fox-3-4-person-dome-automatic-tent-easy-instant-setup-protable-camping-pop-up-4-seasons-backpacking-family-travel-tent)
+Here is how Judge.Me displays your reviews. You can see the live demo [here](https://judge-me-demo-store.myshopify.com/products/desert-fox-3-4-person-dome-automatic-tent-easy-instant-setup-protable-camping-pop-up-4-seasons-backpacking-family-travel-tent)
 
-**Do it Yourself:** You can install Judge.Me from the [Shopify App Store](https://apps.shopify.com/judgeme) and use [this guide](https://help.judge.me/en/articles/8259593-sending-review-requests-with-klaviyo) by Judge.Me to automate emails with Klaviyo
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> You can install Judge.Me from the <a target="_blank" rel="noopener noreferrer nofollow" href="https://apps.shopify.com/judgeme" style="pointer-events: none">Shopify App Store</a> and use <a target="_blank" rel="noopener noreferrer nofollow" href="https://help.judge.me/en/articles/8259593-sending-review-requests-with-klaviyo" style="pointer-events: none">this guide</a> by Judge.Me to automate emails with Klaviyo</div>
+</div>
 
 * ### Yotpo
     
 
-Yopto is another app that you can install to collect and display the reviews. I did not find any major difference between Judge.Me and Yotpo as both are almost the same. Yotpo also supports Google Rich Snippets which can be beneficial if you have tons of reviews.
+Yotpo is Another app you can install to collect and display reviews. I did not find any major difference between Judge.Me and Yotpo as both are almost the same. Yotpo also supports Google Rich Snippets which can be beneficial if you have tons of reviews.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707986886113/c364f704-2eb8-436f-9b0f-c66fbc99abed.png align="center")
 
 Attaching a picture of Yotpo reviews so you can see and compare it yourself.
 
-**Do it Yourself:** You can install Yotpo from the [Shopify App Store](https://apps.shopify.com/yotpo-social-reviews)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> You can install Yotpo from the <a target="_blank" rel="noopener noreferrer nofollow" href="https://apps.shopify.com/yotpo-social-reviews" style="pointer-events: none">Shopify App Store</a></div>
+</div>
 
 ## TikTok Advertising
 
 * ### Create A TikTok Business Account
     
 
-In order to advertise on TikTok. You will need a TikTok Business Account as the account will hold your TikTok page, TikTok Pixel, TikTok Audiences, Ad Account and your Payment Information. It is same as Meta Business Manager, but for managing TikTok.
+In order to advertise on TikTok. You will need a TikTok Business Account because it holds your TikTok page, TikTok Pixel, and TikTok Audiences, Ad Account and your Payment Information. It's the same as Meta Business Manager, but for managing TikTok.
 
-**Do it Yourself:** Go to TikTok Business Center and make an account, then you can install TikTok Sales Channel from the [Shopify App Store](https://apps.shopify.com/tiktok)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> Go to TikTok Business Center and make an account, then you can install TikTok Sales Channel from the <a target="_blank" rel="noopener noreferrer nofollow" href="https://apps.shopify.com/tiktok" style="pointer-events: none">Shopify App Store</a></div>
+</div>
 
 * ### Integrate TikTok Pixel with Your Store
     
 
 You have to integrate your TikTok Pixel when you're done making a Business Account on TikTok Ads. The pixel will collect the data of your visitors and customers that will help you track purchases, target and retarget the customers and use custom audiences.
 
-**Do it Yourself:** You can do it yourself by installing TikTok sales channel
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong>You can do it yourself by installing TikTok sales channel</div>
+</div>
 
 ---
 
@@ -160,7 +187,10 @@ This checklist contains three advanced tools for your Shopify Business that can 
 
 Google Analytics is a tool from Google that helps you understand how people interact with your website. It shows you where your website visitors come from, what they do on your site, and whether they complete specific actions like making a purchase, or adding products to your cart. I recommend having Google Analytics setup with your Shopify store so you can have more detailed data.
 
-**Do it Yourself:** You can do it by creating a Google Analytics account, getting a GA-4 TAG-ID which can be used to connect your store with Google Analytics. Here is a [guide](https://help.shopify.com/en/manual/reports-and-analytics/google-analytics/google-analytics-setup) by shopify that will be a help for you.
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong>You can do it by creating a Google Analytics account, getting a GA-4 TAG-ID which can be used to connect your store with Google Analytics. Here is a <a target="_blank" rel="noopener noreferrer nofollow" href="https://help.shopify.com/en/manual/reports-and-analytics/google-analytics/google-analytics-setup" style="pointer-events: none">guide</a> by shopify that will be a help for you.</div>
+</div>
 
 * ### Website Heatmap (HotJar)
     
@@ -171,14 +201,20 @@ Hotjar is an analytics and feedback tool that helps website owners understand an
 
 **For Example:** You are getting a ton of visitors on your store but very less purchases, you can use HotJar to generate a heatmap and also record your visitors to see what they are doing and then make changes to your store. You can use HotJar's free plan which lets you generate heatmaps and record visitors upto 5K sessions.
 
-**Do It Yourself:** Install HotJar app from Shopify app store and make an account on HotJar
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> Install HotJar app from Shopify app store and make an account on HotJar</div>
+</div>
 
 * ### Customer Support Live Chat by Tidio
     
 
 You don't want a lot disputes right? Use a live chat plugin by Tidio. A customer support plugin will save you a lot of hassle. You can answer the customers on the go and they will be happy. Tidio also has a free-forever plan that you can use to give support to your customers. It's worth a try!
 
-**Do It Yourself:** Install Tidio app from Shopify app store and make an account on Tidio
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Do It Yourself:</strong> Install Tidio app from Shopify app store and make an account on Tidio</div>
+</div>
 
 ---
 
