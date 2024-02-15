@@ -13,7 +13,12 @@ For many small businesses, the journey often starts with sales challenges, tax c
 
 Meet Ella, a close friend who initially sold her beauty products on Etsy. When we connected, we decided to migrate her business to [Shopify](https://shopify.com). Why? Shopify offered more control over pricing, store customization, and upselling opportunities.
 
-Ella also read a [blog post](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) on how I did 100K in sales for a similar business
+Ella also read a [blog post](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) on how I did 100K in sales for a similar business.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/shopify-store-marketing-checklist" style="pointer-events: none">Ultimate Marketing Checklist</a> that will help you.</div>
+</div>
 
 Once Ella was onboarded to Shopify, we made the complete transition. That's when we started running both Facebook and Google Ads campaigns to boost her visibility and sales.
 
@@ -48,9 +53,9 @@ The results were astonishing! In the first month, with a spend of only $2450, we
 
 With the Google Shopping Campaign up and running successfully, we had two sources of sales:
 
-1. Google Shopping Free.
+1. **Google Shopping Free.**
     
-2. Google Shopping Paid.
+2. **Google Shopping Paid.**
     
 
 ![ Spent 245 to get 2.41K back ](https://community.shopify.com/c/image/serverpage/image-id/365686iBE6F5B9FD6236037/image-size/large?v=v2&px=999 align="left")
