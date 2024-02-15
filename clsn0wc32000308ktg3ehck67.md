@@ -11,7 +11,9 @@ tags: facebook, shopify
 
 ---
 
-You must have encountered numerous blog posts about setting up a Shopify store, configuring your shipping and locations, and establishing Shopify marketing strategies. But what comes after that? This guide compliments all the basic Shopify setup guides and assists you in marketing your Shopify store, hence the Shopify Store Marketing Checklist. I have published a [case study](https://nikhil.pro/scaling-e-commerce-business-to-50k-using-paid-ads) which will also give you an idea on how to start and where to start from.
+You must have encountered numerous blog posts about setting up a Shopify store, configuring your shipping and locations, and establishing Shopify marketing strategies. But what comes after that?
+
+This guide compliments all the basic Shopify setup guides and assists you in marketing your Shopify store, hence the **Ultimate Shopify Store Marketing Checklist**. I have published a [case study](https://nikhil.pro/scaling-e-commerce-business-to-50k-using-paid-ads) which will also give you an idea on how to start and where to start from.
 
 **Please note:** This is not a beginners guide on Shopify Store Setup, to use this checklist you need to have a store which is up and running. You can use [Store Launch Checklist](https://www.shopify.com/blog/shopify-store-launch-checklist) by Shopify and then come back to this post when you are ready.
 
