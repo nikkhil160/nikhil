@@ -104,7 +104,7 @@ After you have Google Merchant Center setup, and everything setup. You will need
 
 ## Email Marketing Checklist
 
-There are a lot of options for Email Marketing for Shopify. But my personal favourite is Klaviyo. I just love Klaviyo (and no Klaviyo is sponsoring this) I wrote a dedicated [guide](https://nikhil.pro/the-right-way-to-grow-klaviyo-email-list-for-e-commerce-stores) on how to grow Klaviyo email list without having annoying popups.
+There are a lot of options for Email Marketing for Shopify. But my personal favourite is Klaviyo. I just love Klaviyo (and no Klaviyo is sponsoring this) I wrote a dedicated [email list growing guide](https://nikhil.pro/the-right-way-to-grow-klaviyo-email-list-for-e-commerce-stores) on how to grow Klaviyo email list without having annoying popups.
 
 * ### Klaviyo Email Marketing Setup
     
