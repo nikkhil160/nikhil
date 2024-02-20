@@ -1,5 +1,7 @@
 ---
 title: "Are Facebook Ads Not Performing in 2024?"
+seoTitle: "Facebook Ads Not Performing in 2024?"
+seoDescription: "Are Facebook Ads not performing in 2024? Is it just for you of everyone else is facing the same. This article outlines the performance issues and tracking"
 datePublished: Thu Oct 12 2023 05:11:36 GMT+0000 (Coordinated Universal Time)
 cuid: clnmq2svl000209mi0hqz3che
 slug: facebook-ads-not-performing-2024
