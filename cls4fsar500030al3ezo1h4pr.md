@@ -38,7 +38,7 @@ Insomnia Cookies uses Facebook Ads with Purchase objective to generate online or
 
 ---
 
-**How Sprinkles Cupcakes runs their Facebook ads**
+**How Sprinkles Cupcakes runs their Facebook ads?**
 
 ![How Sprinkles Cupcakes runs their Facebook ads](https://cdn.hashnode.com/res/hashnode/image/upload/v1706858094890/557e414a-9d8c-438e-a936-04efaeadb18b.png align="center")
 
