@@ -10,23 +10,60 @@ tags: facebook, metaads
 
 I have gotten a lot of emails asking what is ASC+ or Advantage+ Shopping Campaign in Facebook (Meta) Ads, according to Facebook "*Advantage+ Shopping uses machine learning to identify and aim for your highest value customers across all of Meta's family of apps and services, with minimal input.*"
 
-# What does that mean to you?
+# What does Advantage+ Shopping in Meta mean to you?
 
-In simple terms it means that Facebook will find the customers for you, you will not have to target the customers by giving Facebook the interests that your customers may be interested in. Facebook launched it in May and it took some time to [settle in](https://nikhil.pro/meta-ads-unstable-after-july-2023-all-you-should-know). The Advantage+ Shopping Campaign is similar to Google's Performance Max Campaign
+In simple terms Advantage+ Shopping Campaign (ASC Campaign) means that Facebook will find the customers for you based on the pixel data and the data that you give. you will not have to target the customers by giving Facebook the interests that your customers may be interested in.
 
-For Example: Let's assume that you are in a Pet Niche selling in the North American Market, you would have a targeted Location: the United States and Canada people aged 25 to 60 with interests having: "Pet Care, Dogs, Pet Food" and various other interests giving facebook some clue on what you want to target.
-
-<table><tbody><tr><td colspan="1" rowspan="1"><p>Targeted Location</p></td><td colspan="1" rowspan="1"><p>United States and Canada</p></td></tr><tr><td colspan="1" rowspan="1"><p>Age</p></td><td colspan="1" rowspan="1"><p>25 to 60</p></td></tr><tr><td colspan="1" rowspan="1"><p>Interests</p></td><td colspan="1" rowspan="1"><p>Pet Care, Dogs, Pet Food</p></td></tr></tbody></table>
-
-**Now:** You would just connect your Store to Facebook give the product catalog, make a Dynamic Product Ad or as Facebook likes to call it a Catalog Ad and Facebook will use the information from products to find the customers for you.
-
-What is the catch? The catch is that it needs additional information to work, it does not work magically. Advantage+ Shopping Campaign only works when your pixel has purchase data or any other data that Facebook can use to find your customers, Advantage+ Shopping campaign may not work well on the new Pixel.  
-  
-**Most Importantly:** You can use your customer data and a point to help Facebook learn about your ASC+ Campaign if you have at least 100 purchases in your store from a single country then you can give the customer list to Facebook and it will train the ASC+ campaign using that data.
-
-**Conclusion:** While Advantage+ Shopping Campaign is good and similar to Google's Performance Max Campaign it should be noted that it works well on old pixel accounts that already have some data compared to new pixel accounts.
+Facebook launched it in May and it took some time to [settle in](https://nikhil.pro/meta-ads-unstable-after-july-2023-all-you-should-know). The Advantage+ Shopping Campaign is similar to Google's Performance Max Campaign
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">My clients have seen an increase from 2X ROAS to 10X ROAS using the Advantage+ Shopping Campaign. If you want to scale your business you can hire me using <a target="_blank" rel="noopener noreferrer nofollow" href="https://calendly.com/nikhil-pro/30min?utm_source=website_navbar&amp;utm_medium=nikhil.pro&amp;utm_campaign=free&amp;month=2023-12" style="pointer-events: none">this link</a></div>
+<div data-node-type="callout-text">For Example: Let's assume that you are in a Pet Niche selling in the North American Market, you would have a targeted Location: the United States and Canada people aged 25 to 60 with interests having: "Pet Care, Dogs, Pet Food" and various other interests giving facebook some clue on what you want to target.</div>
 </div>
+
+| Targeted Location | United States and Canada |
+| --- | --- |
+| Age | 25 to 60 |
+| Interests | Pet Care, Dogs, Pet Food |
+
+**Now:** You would just connect your Store to Facebook give the product catalog, make a Dynamic Product Ad or as Facebook likes to call it a Catalog Ad and Facebook will use the information from products to find the customers for you.
+
+What is the catch? The catch is that it needs additional information to work, it does not work magically. Advantage+ Shopping Campaign only works when your pixel has purchase data or any other data that Facebook can use to find your customers, Advantage+ Shopping campaign may not work well on the new Pixel.
+
+**Most Importantly:** You can use your customer data and a point to help Facebook learn about your ASC+ Campaign if you have at least 100 purchases in your store from a single country then you can give the customer list to Facebook and it will train the ASC+ campaign using that data.
+
+## How to Setup Advantage+ Shopping Campaign?
+
+To make an Advantage+ Shopping Campaign on Facebook App you have to go to the Facebook Business Manager, then Navigate to your Facebook Ad Account then under the ad account you have to click on create.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708525416681/7ffe69d8-5dbd-4a64-b6e0-0c6a20730978.png align="center")
+
+After clicking on Create you have to choose Sales as an objective.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708525455852/9bdf164c-482e-41ae-8ffe-454251af8d74.png align="center")
+
+And after you have selected sales, you will have 2 options.
+
+1. Advantage+ shopping campaign
+    
+2. Manual sales campaign
+    
+
+You have to select the Advantage+ Shopping Campaign, and click on continue.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708525502609/93e08ea3-9f20-4daa-b303-042b1fb9bd86.png align="center")
+
+## Best Practices for Meta Advantage+ Shopping Campaign
+
+* Upload your customer data as a custom audience by going to Account Settings &gt; Ad Account setup &gt; Existing Customers
+    
+* ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708525723757/803c60d5-1206-4684-8204-5b120db3c880.png align="center")
+    
+    Have good amount of custom audiences and purchases on your pixel so it can learn faster
+    
+* Make sure that you use best performing ads and test it with Facebook Advantage+ Shopping campaign
+    
+* Try to use Dynamic Product Ads or DPAs with Advantage+ Shopping Campaign
+    
+
+**Conclusion:** While Advantage+ Shopping Campaign is good and similar to Google's Performance Max Campaign it should be noted that it works well on old pixel accounts that already have some data compared to new pixel accounts.
