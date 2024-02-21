@@ -150,3 +150,5 @@ Artificial Intelligence is everywhere now, you can also use ChatGPT to create Fa
 ### Summary
 
 In summary, I would totally recommend running Facebook Ads for your bakery business if you are located in the North American region. It can give your business a good expose and you can generate a good amount of footfall using Facebook Ads
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708498833090/51896579-96bf-4346-b965-4cc61e68f907.png align="center")](https://calendly.com/nikhil-pro/30min?utm_source=post_cta_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08)
