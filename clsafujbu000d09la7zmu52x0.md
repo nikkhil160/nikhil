@@ -141,3 +141,5 @@ Our email content was simple and followed the KISS principle (Keep It Silly Simp
 That's how we had our email marketing strategy in place.
 
 Currently, our focus is on scaling Ella's business to reach the next milestone of $500,000. While she manages the supply chain, we're diving deeper into marketing strategies.
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708498833090/51896579-96bf-4346-b965-4cc61e68f907.png align="center")](https://calendly.com/nikhil-pro/30min?utm_source=post_cta_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08)
