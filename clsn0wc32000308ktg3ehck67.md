@@ -229,3 +229,5 @@ You don't want a lot disputes right? Use a live chat plugin by Tidio. A customer
 # Summary
 
 This article covers all the basics from Facebook Ads, Google Ads, Email Marketing to the advanced options like tracking, and customer support. It is intended for small business owners that are starting a new e-commerce business. I tried to cover all the important things in the checklist.
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708498833090/51896579-96bf-4346-b965-4cc61e68f907.png align="center")](https://calendly.com/nikhil-pro/30min?utm_source=post_cta_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08)
