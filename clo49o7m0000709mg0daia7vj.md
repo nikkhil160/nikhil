@@ -1,5 +1,5 @@
 ---
-title: "How to Sell Christmas Wreath on Social Media [Beginners Guide]"
+title: "How to Sell Christmas Wreath on Social Media [Wreath Marketing Guide]"
 datePublished: Tue Oct 24 2023 11:52:12 GMT+0000 (Coordinated Universal Time)
 cuid: clo49o7m0000709mg0daia7vj
 slug: how-to-sell-christmas-wreath-on-social-media-beginners-guide
