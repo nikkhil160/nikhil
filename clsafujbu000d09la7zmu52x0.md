@@ -9,20 +9,26 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707228612200/81df516
 
 ---
 
-For many small businesses, the journey often starts with sales challenges, tax concerns, and eventually, supply chain obstacles. But first, you need sales, and you've probably been bombarded with emails, cold calls, and DMs from people promising to "scale" your business. Trust is paramount in navigating this landscape.
+For many Shopify business owners, the journey often starts with sales challenges, tax concerns, and eventually, supply chain obstacles.
 
-Meet Ella, a close friend who initially sold her beauty products on Etsy. When we connected, we decided to migrate her business to [Shopify](https://shopify.com). Why? Shopify offered more control over pricing, store customization, and upselling opportunities.
+But first, you need sales, and you've probably been bombarded with emails, cold calls, and DMs from people promising to "scale" your business. However. Trust is paramount in navigating this landscape.
 
-Ella also read a [blog post](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) on how I did 100K in sales for a similar business.
+**Meet Ella**, a close friend who initially sold her beauty products on Etsy. When we connected, we decided to migrate her business to [Shopify](https://shopify.com). Why migrating to Shopify? Because Shopify offered more control over pricing, store customization, and upselling opportunities, and also less transaction feed.
+
+Ella got to know about me though another [blog post](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) on how I did 100K in sales for a similar business.
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/shopify-store-marketing-checklist" style="pointer-events: none">Ultimate Marketing Checklist</a> that will help you.</div>
+<div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/shopify-store-marketing-checklist" style="pointer-events: none">Ultimate Marketing Checklist</a> which I wrote that covers all the things that you need to get started before launching an e-commerce business.</div>
 </div>
 
-Once Ella was onboarded to Shopify, we made the complete transition. That's when we started running both Facebook and Google Ads campaigns to boost her visibility and sales.
+Once Ella was onboarded to Shopify, and made the complete transition. Everything was set-up. From Facebook Ads to Google ads to Klaviyo emails.
+
+That's when we started running both Facebook and Google Ads campaigns to boost her visibility and sales. And I'm going to cover them one-by-one.
 
 ## Setup Google Merchant Center
+
+We started off with Google Merchant center. Because Google offers something called Free Listings where we can market the products on Google Shopping for free. It is beneficial to generate some good traffic on the store, and also to warm up the Facebook/Meta pixel that we will set-up in a while.
 
 ### Types of Google Ads:
 
@@ -31,25 +37,31 @@ Once Ella was onboarded to Shopify, we made the complete transition. That's when
 2. Search Campaign.
     
 
-One of Google's gems is the [Google Merchant Center](https://merchants.google.com), which allows you to submit your products for free. Yes, you heard that right, free listings! No payment required to have your products displayed on Google. All you need to do is connect your Shopify store, and you're good to go.
+One of Google's gem is the [Google Merchant Center](https://merchants.google.com), it allows you to submit your products for free. Yes, you heard that right, free listings! No payment required to have your products displayed on Google. All you need to do is connect your Shopify store using the [Google Sales Channel](https://apps.shopify.com/google), and you're good to go.
 
 ![Free Listings](https://community.shopify.com/c/image/serverpage/image-id/365674i9647DCD0D59CA6F3/image-size/large?v=v2&px=999 align="left")
 
-She experienced a jaw-dropping $15,000 in revenue from Google Free Product Listings alone, without spending a dime on ads. It's incredible how Google can drive traffic your way without any ad expenditure.
+She experienced a jaw-dropping overall $15,000 in revenue from Google Free Product Listings alone, without spending a dime on ads.
+
+It's incredible how Google can drive traffic your way without any ad expenditure.
 
 For those interested, you can sign up for Google Merchant Center and explore this opportunity.
 
-While She was thrilled with consistent free sales from Google Shopping, there was a limitation – control. It's like having a car with no accelerator; it just moves on its own. We needed to provide her with an accelerator.
+---
+
+While She was thrilled with consistent free sales from Google Shopping, there was a limitation – control. It's like having a car with no accelerator; it just moves on its own. We needed to provide her with an accelerator so that she can scale up and down the store sales herself.
 
 So, we ventured into paid Google Ads, starting with a daily budget of $10. We ran two types of campaigns for her:
 
-One of the wonders of Google Shopping Ads is that they find customers on their own. You provide the product feed, and it works its magic. For the Shopping Campaign, we utilized machine learning models to optimize bids and placements, essentially letting Google do the heavy lifting.
+One of the wonders of Google Shopping Ads is that they find customers on their own. You provide the product feed, and it works its magic.
+
+For the Shopping Campaign, we utilized machine learning models to optimize bids and placements, essentially letting Google do the heavy lifting.
 
 ![Paid Listings Example via Google Shopping](https://community.shopify.com/c/image/serverpage/image-id/365675i0CB22F8EB5A36521/image-size/large?v=v2&px=999 align="left")
 
 For the Search Campaign, we wanted more control. We targeted specific keywords like "best beauty balm for mom" and "eyeliners under $50" to have precise control over our audience. Plus, it safeguarded Ella's store keyword from others' reach.
 
-The results were astonishing! In the first month, with a spend of only $2450, we managed to generate almost 19.6K in return, which translates to an 8X return on investment. I often start campaigns conservatively, allowing them to settle before scaling them up, and this strategy proved valuable, especially for the Google Shopping Campaign.
+**The results:** They were astonishing! In the first month, with a spend of only $2450, we managed to generate almost 19.6K in return, which translates to an 8X return on investment. I often start campaigns conservatively, allowing them to settle before scaling them up, and this strategy proved valuable, especially for the Google Shopping Campaign.
 
 With the Google Shopping Campaign up and running successfully, we had two sources of sales:
 
@@ -60,7 +72,14 @@ With the Google Shopping Campaign up and running successfully, we had two source
 
 ![ Spent 245 to get 2.41K back ](https://community.shopify.com/c/image/serverpage/image-id/365686iBE6F5B9FD6236037/image-size/large?v=v2&px=999 align="left")
 
-Now, it was time to look ahead. Ella had her eyes set on scaling her Shopify store, especially with the holiday season approaching in Q4. But we opted for a different approach. While many would turn to Facebook Ads, we decided to embrace Meta Ads. Meta has been diligently working on enhancing ad performance and delivery, and they recently introduced Meta Lattice to improve efficiency.
+Now, it was time to look ahead.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Google has launched Performance Max Campaign that you can use to automate the ads (if you are a beginner). And then move to Google's Standard Shopping Ads for having more control on your business.</div>
+</div>
+
+Ella had her eyes set on scaling her Shopify store, especially with the holiday season approaching in Q4. But we opted for a different approach. While many would turn to Facebook Ads, we decided to embrace Meta Ads. Meta has been diligently working on enhancing ad performance and delivery, and they recently introduced Meta Lattice to improve efficiency.
 
 In a world where AI is taking center stage, companies like Meta and Google are gearing up to harness its potential, especially in light of privacy restrictions such as iOS 14's tracking updates.
 
@@ -79,6 +98,11 @@ So, we embarked on onboarding Ella to Facebook Ads, and we did the groundwork:
 4. Created Facebook and Instagram stores to enhance product visibility and allow product tagging on her social media pages.
     
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Quick Update: There is a new ad objective called Facebook Advantage Plus Shopping Campaign (ASC) I covered about it <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/what-is-advantage-shopping-in-facebook-meta-ads" style="pointer-events: none">in this article</a>.</div>
+</div>
+
 **To make sure everything works seamlessly, we followed four essential steps, which I referred to as "heavy lifting." Getting these right is crucial.**
 
 We started Ella's first campaign with a daily budget of $50. During this phase, we spent $1.4K and saw returns of almost $9K, which is even more if you consider that we used UTM parameters for data validation. It's important to note that Facebook's data tracking underwent some changes after the iOS 14 update.
@@ -96,7 +120,7 @@ Some days were incredibly successful, with a cost per sale as low as $1. Our cam
 
 ![Facebook ROAS](https://community.shopify.com/c/image/serverpage/image-id/365676i42F44066964402D8/image-size/large?v=v2&px=999 align="left")
 
-Facebook where she spent 1.4k and got 8.2K back (tracked)
+**Results?** Facebook where she spent 1.4k and got 8.2K back (tracked)
 
 These steps got us up and running effectively on Facebook Ads. Keep in mind that this is just a beginner-friendly guide, and we made more in-depth changes as we progressed. However, these steps should serve as a solid starting point for your journey.
 
