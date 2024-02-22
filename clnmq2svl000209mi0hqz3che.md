@@ -34,4 +34,8 @@ Multiple advertisers including Sean Frank from Ridge and David Herrmann from Her
 
 If you are a small e-commerce business owner then I would suggest going with interest targeting, remember that you should watch your metrics very carefully. Always know what you are doing.
 
-I'm all ears if you need help. You can book some time with me using [this link](https://calendly.com/nikhil-pro/30min?utm_source=website_navbar&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08)
+## Let me babysit your ads?
+
+Hi. I'm Nikhil. I'm a paid ads babysitter that can take care of your ads when you are away. Grow them and scale them. Just like you I will take care of them like a baby.
+
+[Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and we can discuss more about it.
