@@ -10,6 +10,11 @@ tags: ecommerce, shopify, kpis, google-ads, facebookads
 
 Are you a new e-commerce business owner who has just started running paid ads and can't keep up with too many metrics? I know it can be mind-boggling to look into a lot of data. Shopify alone provides 100 metrics that will be enough for a new business owner to understand.
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">These Key Performance Indicator metrics are hand-picked can be applied on almost every online business that you run. I have hand-picked them for you so it doesn't matter if you are running a bakery store, or a merchandise store or selling anything else. 😁</div>
+</div>
+
 This basic article will cover all the basic key performance indicators that you will need in your day-to-day e-commerce business operations.
 
 <div data-node-type="callout">
