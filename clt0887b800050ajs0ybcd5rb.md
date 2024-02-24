@@ -2,7 +2,7 @@
 title: "How to Determine If Your Marketing Agency Is Worth Keeping?"
 datePublished: Sat Feb 24 2024 15:19:13 GMT+0000 (Coordinated Universal Time)
 cuid: clt0887b800050ajs0ybcd5rb
-slug: how-to-determine-if-your-marketing-agency-is-worth-keeping
+slug: marketing-agency-assessment
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708787849095/66264f60-5f2f-4d68-82d7-e7909d094d9f.png
 tags: google-ads, facebookads
 
