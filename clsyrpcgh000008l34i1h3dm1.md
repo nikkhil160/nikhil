@@ -74,5 +74,15 @@ CLTV = (Average profit per transaction x Number of transactions per period x Ave
     
 4. **Email Unsubscribe Rate:** This is a negative key performance indicator and means that your emails are too spammy or you are sending it to wrong audience. Having a very high email unsubscribe rate may also get your account flagged.
     
-      
     **Real life example:** Let's assume you have a list of email subscribers for your hat store. If you were to send them an email with an entirely unrelated offer to buy watches, they would likely be furious, leading to a high unsubscribe rate.
+    
+
+## Conclusion
+
+Monitoring key performance indicators (KPIs) is very important for the success of your e-commerce business, whether you're analyzing website performance, paid ads, or email marketing campaigns. By focusing on crucial metrics like conversion rate, cart abandonment rate, average order value, return on ad spend (ROAS), click-through rate (CTR), and email open rate, you can gain valuable insights into the effectiveness of your strategies.
+
+## Let me babysit your ads?
+
+Hi. I'm Nikhil. I'm a paid ads babysitter that can take care of your ads when you are away. Grow them and scale them. Just like you I will take care of them like a baby.
+
+[Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and we can discuss more about it.
