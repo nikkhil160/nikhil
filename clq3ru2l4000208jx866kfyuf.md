@@ -66,4 +66,8 @@ You have to select the Advantage+ Shopping Campaign, and click on continue.
 * Try to use Dynamic Product Ads or DPAs with Advantage+ Shopping Campaign
     
 
+## Are Advantage+ Shopping Campaigns worth it?
+
+It depends on how you use them, if you use Advantage+ Shopping Campaigns with custom audiences and with a warmed up pixel then it will work perfectly fine, also try to use Dynamic Product Ads (DPAs) in your campaign and it should be good. Make sure that you watch out the [key performance indicators](https://nikhil.pro/kpis-for-ecommerce-business) and keep monitoring them.
+
 **Conclusion:** While Advantage+ Shopping Campaign is good and similar to Google's Performance Max Campaign it should be noted that it works well on old pixel accounts that already have some data compared to new pixel accounts.
