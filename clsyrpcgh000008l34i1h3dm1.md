@@ -17,10 +17,7 @@ Are you a new e-commerce business owner who has just started running paid ads an
 
 This basic article will cover all the basic key performance indicators that you will need in your day-to-day e-commerce business operations.
 
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">This article is intended to be short and on-point. Hence I'm just writing the basic KPIs and an in-depth article will be published on-demand.</div>
-</div>
+**Note: This article is intended to be short and on-point. Hence I'm just writing the basic KPIs and an in-depth article will be published on-demand.**
 
 ## E-commerce KPIs
 
