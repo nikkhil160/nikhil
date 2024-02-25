@@ -8,7 +8,9 @@ tags: google-ads, facebookads
 
 ---
 
-It's 2024 now, I get a lot of emails from the visitors of the store asking if I can take over the store, I usually say yes and ask them to [set a meeting](https://calendly.com/nikhil-pro/30min?month=2024-02) and the first thing I ask them is WHY. Why do you want to replace your marketing agency and come to me. What is the exact reason? And most of them say that they have no idea, it's just not delivering results.
+It's 2024 now, I get a lot of emails from the visitors of the store asking if I can take over the store mostly saying: "Are they doing too bad, Nik", "Is my marketing agency worth keeping?"
+
+I usually say yes and ask them to [set a meeting](https://calendly.com/nikhil-pro/30min?month=2024-02) and the first thing I ask them is WHY. Why do you want to replace your marketing agency and come to me. What is the exact reason? And most of them say that they have no idea, it's just not delivering results.
 
 I mean that is justifying but it's too vague, maybe they are generating enough, maybe it's the market or maybe it's something else. That is the exact reason why I start to blog, I personally feel that small business-owners need a lot of information and a resources guide to help them with online marketing operations, and the [key performance indicator metric](https://nikhil.pro/kpis-for-ecommerce-business) was written for the exact same reason.
 
@@ -36,7 +38,7 @@ I have already covered it in detail on my [key performance indicator](https://ni
 <div data-node-type="callout-text">It is advised to stay updated with all the KPIs related to your business.</div>
 </div>
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708786204541/35071011-3e6a-4244-8c4d-e3cab790e33c.png align="center")
+![Is my marketing agency worth keeping?](https://cdn.hashnode.com/res/hashnode/image/upload/v1708786204541/35071011-3e6a-4244-8c4d-e3cab790e33c.png align="center")
 
 I have made this quick graphic that has all the metrics you need to ask your marketing agency. I have summed up in 4 easy points that are good to gauge the performance of your agency. Google and Facebook use the same metrics, so they are summed up, but broadly, you need these 12 to get you covered.
 
@@ -45,7 +47,7 @@ I have made this quick graphic that has all the metrics you need to ask your mar
 <div data-node-type="callout-text">You can also save and send the image to your agency and ask them to send you the metrics.</div>
 </div>
 
-These are important KPIs that you need. I have also written down the meanings so that you know what they mean. Having these will give you an idea of how your business is performing, as well as how the marketing agency is performing.
+These are important [KPIs that you need](https://nikhil.pro/kpis-for-ecommerce-business). I have also written down the meanings so that you know what they mean. Having these will give you an idea of how your business is performing, as well as how the marketing agency is performing.
 
 ### Facebook/Google Ads KPI Definitions
 
@@ -84,9 +86,28 @@ Once you have them, we will move to the next section of the article. But for now
 
 ## Assessing the Performance of The Agency: Next Steps?
 
-After you have these metrics from your clients, you can
+After you have these metrics from your clients, you have a lot of options that you can follow, either you can move ahead with the audit and do it yourself or have a third party do it for you.
 
-1. Send them to me for assessment and I will be happy to do a [free assessment](https://calendly.com/nikhil-pro/30min?utm_source=marketing_agency_assessment&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and let you know the next steps.
+* ### Get Your Account Audited by a Third Party
     
 
-Alternatively, when you have the data, you can have them audited by another agency or by a third-party auditor who can analyze the data and provide valuable insights and after you have the insights you can ask the agency to make the changes accordingly or work with your agency for the future plans and the overall growth strategy of the brand.
+Getting your account audited by a third party is a good move to assess the performance of your marketing agency, it can provide some valuable insights and can give you some tips that can help you grow.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Make sure you ask a list of actionables when you are getting an account audit by third party.</div>
+</div>
+
+* ### Get A Free Account Audit by Nikhil Sharma
+    
+
+I can audit your ad account for you and give you the actionable insights on your ad account to see if they can be any better of if there is any room for improvement. I have helped over 50+ businesses and I try to help out small businesses specially when they are starting up and can't figure out.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Get a free ad account audit by <a target="_blank" rel="noopener noreferrer nofollow" href="https://calendly.com/nikhil-pro/30min?utm_source=account_audit_cta&amp;utm_medium=nikhil.pro&amp;utm_campaign=free&amp;month=2022-08" style="pointer-events: none">Nikhil Sharma</a></div>
+</div>
+
+## Conclusion
+
+Assessing the performance of your marketing agency is crucial for the success of any business. By evaluating key performance indicators (KPIs) given in the blog post and asking the right questions, you can ensure that you're getting the results you need.
