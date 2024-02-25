@@ -70,3 +70,7 @@ You should hire a freelancer for your Shopify business if you are just starting 
 ### **Want to scale the business yourself?**
 
 I wrote multiple guides on this blog that you can use to run the Facebook Ads yourself. You should start off with the [Ultimate Store Marketing Checklist](https://nikhil.pro/shopify-store-marketing-checklist) that can be a help for you while you're starting.
+
+### **Not happy with the performance of ads agency?**
+
+Are you not happy with the performance of your marketing agency? I have written a blog post that outlines the things that [you be asking from your marketing agency](https://nikhil.pro/marketing-agency-performance-assessment) to assess the performance of the ads agency that you have hired.
