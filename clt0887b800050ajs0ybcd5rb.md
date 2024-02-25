@@ -27,7 +27,7 @@ Why not? You need to assess if they are effective in generating enough results a
 
 Benchmarking an agency always helps you compare it with other agencies (other options) in the market that can be available for you, or you can talk to them and get them to improve or renegotiate the deal for you.
 
-### Assessing the Performance of The Agency: How?
+## Assessing the Performance of The Agency: How?
 
 I have already covered it in detail on my [key performance indicator](https://nikhil.pro/kpis-for-ecommerce-business) post but this post is a little detailed on how to start off and what to ask from the agency.
 
@@ -82,7 +82,7 @@ These are important KPIs that you need. I have also written down the meanings so
 
 Once you have them, we will move to the next section of the article. But for now, your homework is to get these metrics from your agency, and we will see how it goes.
 
-### Assessing the Performance of The Agency: Next Steps?
+## Assessing the Performance of The Agency: Next Steps?
 
 After you have these metrics from your clients, you can
 
