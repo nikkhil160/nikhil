@@ -8,11 +8,13 @@ tags: google-ads, facebookads
 
 ---
 
-It's 2024 now, I get a lot of emails from the visitors of the store asking if I can take over the store mostly saying: "Are they doing too bad, Nik", "Is my marketing agency worth keeping?"
+It's 2024 now, I get a lot of emails from the visitors of the store asking if I can take over the store mostly saying: *"Are they doing too bad, Nik"*, *"Is my marketing agency worth keeping?"*
 
 I usually say yes and ask them to [set a meeting](https://calendly.com/nikhil-pro/30min?month=2024-02) and the first thing I ask them is WHY. Why do you want to replace your marketing agency and come to me. What is the exact reason? And most of them say that they have no idea, it's just not delivering results.
 
 I mean that is justifying but it's too vague, maybe they are generating enough, maybe it's the market or maybe it's something else. That is the exact reason why I start to blog, I personally feel that small business-owners need a lot of information and a resources guide to help them with online marketing operations, and the [key performance indicator metric](https://nikhil.pro/kpis-for-ecommerce-business) was written for the exact same reason.
+
+You are probably here also because you haven't read my article on whether you should hire a [freelancer or an agency](https://nikhil.pro/agency-or-a-freelancer-for-facebook-ads) for your business!
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">✅</div>
