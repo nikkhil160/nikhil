@@ -9,22 +9,20 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707228612200/81df516
 
 ---
 
-For many Shopify business owners, the journey often starts with sales challenges, tax concerns, and eventually, supply chain obstacles.
+For many Shopify business owners, the journey often starts with sales challenges, tax concerns, and eventually supply chain obstacles.
 
-But first, you need sales, and you've probably been bombarded with emails, cold calls, and DMs from people promising to "scale" your business. However. Trust is paramount in navigating this landscape.
+But first, you need sales, and you've probably been bombarded with emails, cold calls, and DMs from people promising to "scale" your business. However, trust is paramount in navigating this landscape.
 
-**Meet Ella**, a close friend who initially sold her beauty products on Etsy. When we connected, we decided to migrate her business to [Shopify](https://shopify.com). Why migrating to Shopify? Because Shopify offered more control over pricing, store customization, and upselling opportunities, and also less transaction feed.
-
-Ella got to know about me though another [blog post](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) on how I did 100K in sales for a similar business.
+**Meet Ella**, a close friend who initially sold her beauty products on Etsy. When we connected, we decided to migrate her business to [Shopify](https://shopify.com). *Why migrating to Shopify?* Because Shopify when compared to Etsy offered more control over pricing, store customization, and upselling opportunities, and also less transaction feed.
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/shopify-store-marketing-checklist" style="pointer-events: none">Ultimate Marketing Checklist</a> which I wrote that covers all the things that you need to get started before launching an e-commerce business.</div>
+<div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/shopify-store-marketing-checklist" style="pointer-events: none">Ultimate Marketing Checklist</a> which I wrote that covers all the things that you need to get started before launching an ecommerce business.</div>
 </div>
 
-Once Ella was onboarded to Shopify, and made the complete transition. Everything was set-up. From Facebook Ads to Google ads to Klaviyo emails.
+Once Ella was onboarded to [Shopify](https://nikhil.pro/best-shopify-expert), and made the complete transition. Everything was set-up. From [Facebook Ads to Google ads to Klaviyo](https://nikhil.pro/shopify-store-marketing-checklist) emails and the next immediate step was to start running the paid ads on Facebook and Google Ads.
 
-That's when we started running both Facebook and Google Ads campaigns to boost her visibility and sales. And I'm going to cover them one-by-one.
+I'm going to cover all the steps one by one.
 
 ## Setup Google Merchant Center
 
