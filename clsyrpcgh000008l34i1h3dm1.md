@@ -1,5 +1,5 @@
 ---
-title: "12 Ecommerce KPIs to Start and Grow your Business"
+title: "12 E-Commerce KPIs to Start and Grow your Business"
 datePublished: Fri Feb 23 2024 14:48:53 GMT+0000 (Coordinated Universal Time)
 cuid: clsyrpcgh000008l34i1h3dm1
 slug: kpis-for-ecommerce-business
