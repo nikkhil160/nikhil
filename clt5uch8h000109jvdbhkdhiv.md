@@ -137,6 +137,43 @@ We set up a basic Calendly appointment page with the same pixel used on the webs
 
 The important thing we did in this real estate training coaching business that we did not have a landing page by click-funnels, because of the low integration capability of Clickfunnels with Facebook's CAPI and almost no support from Clickfunnels.
 
-### Facebook Ads & Ad Copy for Real Estate Coaching
+## Final Ads
+
+### Facebook Ads & Google Copy for Real Estate Coaching
 
 For the ad copy, we simply used a video of Jeff asking people to buy the course, and another ad to schedule the appointment on Calendly if they had any questions, and then whoever had a meeting was retargeted on Facebook and on Google as well.
+
+## Results of February 2024
+
+We started the ads on February the 1st for both Facebook & Google only the warm audiences targeting the Portland area and here are some of the ads that Jeff has achieved for his Real Estate Coaching Business. The calendly meeting to close percentage is **34** which is not very bad, but considering the 30 minutes meeting it's better to have it streamlined. To understand these values you may want to see my [KPI guide](https://nikhil.pro/kpis-for-ecommerce-business)
+
+**Amount Spent: $778**
+
+**CTR: 3.10**
+
+**Link Clicks: 547**
+
+**CPC: 0.40**
+
+**Meetings Booked: 50**
+
+**Course Purchases: 17**
+
+**Total Revenue in February 2024: $16,983**
+
+**ROAS: 21.8290488**
+
+## Next Step & Plans
+
+Next steps for march are of course, scale it to at least $40,000 a month.
+
+* Have a lead page which has the FAQs to avoid the Calendly meetings
+    
+* More acquisition of cold audiences as the only way is Youtube right now and lookalikes
+    
+* More media acquisitions so that can test with multiple creatives
+    
+
+## Conclusion & Ending Notes
+
+There is my another case studies, I have one of Ella and this one is of Jeff. I have been working on Real Estate for quite a long time now, but this case study was fun writing for. Real Estate has a lot of cash but the advertising guidelines especially in the United States are quite complicated to start off with. I hope you enjoyed reading this case study. I'm available for a [consultations](https://calendly.com/nikhil-pro/30min?utm_source=real_estate_blog_post&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08)!
