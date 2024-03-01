@@ -24,7 +24,7 @@ With a user-friendly interface, good support, and options to manage tickets, rai
 
 Tidio is a must have Shopify Ai tool that you need for your business. [Install Tidio](https://apps.shopify.com/tidio-chat)
 
-**Overall Rating:** [4.6/5](https://apps.shopify.com/tidio-chat)
+**Overall Rating:**[4.6/5](https://apps.shopify.com/tidio-chat)
 
 **Pricing of Tidio:** 7 Day Free Trial Available, Free Plan Available with Limited Features.
 
@@ -37,7 +37,7 @@ The second Ai tool that I would recommend is **LimeSpot Personalizer**. LimeSpot
 
 LimeSpot can also create Shopify customer segments based on customer's history, browsing patterns and location. [Install LimeSpot Personalizer](https://apps.shopify.com/limespot)
 
-**Overall Rating:** [4.6/5](https://apps.shopify.com/limespot)
+**Overall Rating:**[4.6/5](https://apps.shopify.com/limespot)
 
 **Pricing of LimeSpot Personalizer:** 15 Day Free Trial Available, Free Plan Available with Custom price based on store revenue.
 
@@ -48,11 +48,11 @@ LimeSpot can also create Shopify customer segments based on customer's history, 
 
 **Yodel** is an Ai based product descriptions generator, I have used it personally and it is quite good. Although I would only suggest it for the beginners and only if you do not have good descriptions, Yodel is good for starting up but having a copywriter or having the descriptions written from a professional for you Shopify store is still a good idea in the long run. [Install Yodel](https://apps.shopify.com/product-description-magic)
 
-**Overall Rating:** [5/5](https://apps.shopify.com/product-description-magic)
+**Overall Rating:**[5/5](https://apps.shopify.com/product-description-magic)
 
 **Pricing of Yodel:** Free Plan Available with 100 tokens, Pay As You Go option available.
 
-* ## CreatorKit for for AI images and Videos
+* ## CreatorKit for for AI Images and Videos
     
 
 ![Dashboard CreatorKit video creator](https://cdn.shopify.com/app-store/listing_images/6d11d006551c01d3fb3e70b4b770e18f/desktop_screenshot/CPOo06ja3v0CEAE=.png?height=900&width=1600 align="left")
@@ -61,7 +61,7 @@ CreatorKit is my personal favourite Ai app for Shopify, it removes and replaces 
 
 CreatorKit uses Ai to generate background design that matches with the product, for example if the product is a Shoe then CreatorKit will generate a background that will go well with the Shopify Product. [Install CreatorKit](https://apps.shopify.com/creatorkit-1)
 
-**Overall Rating:** [4.3/5](https://apps.shopify.com/creatorkit-1)
+**Overall Rating:**[4.3/5](https://apps.shopify.com/creatorkit-1)
 
 **Pricing of Yodel:** 3 Day Free Trial Available, Free Plan Available with 200MB storage.
 
@@ -74,7 +74,7 @@ CreatorKit uses Ai to generate background design that matches with the product, 
 
 OnModel is something that you should have if you are running a Print on Demand store, or an appeal/clothing shop and selling in multiple markets. [Install OnModel](https://apps.shopify.com/model-swap)
 
-**Overall Rating:** [4.3/5](https://apps.shopify.com/model-swap)
+**Overall Rating:**[4.3/5](https://apps.shopify.com/model-swap)
 
 **Pricing of OnModel:** Free Trial Available with watermarks, Paid Plan starts at $19 a month.
 
