@@ -1,5 +1,6 @@
 ---
 title: "Scaling Jeff's Real Estate Coaching Business to $15,000 in 10 Days [Case Study]"
+seoDescription: "A case study of Jeff, A Real Estate Coach from Portland that generated over $15,000 in 10 days using my Facebook & Google Ads services. Oregon Real Estate"
 datePublished: Wed Feb 28 2024 13:37:15 GMT+0000 (Coordinated Universal Time)
 cuid: clt5uch8h000109jvdbhkdhiv
 slug: scaling-jeffs-real-estate-coaching-business-to-15000-in-10-days-case-study
