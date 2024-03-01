@@ -22,20 +22,46 @@ There has been no official communication from Meta but everyone is saying that t
 
 The problem is they are insanely expensive, the CPMs that used to be under $10 are now double or even triple. The cost per click that used to be under 0.30 is now $1 with absolutely trash traffic.
 
-**Who is else reporting the unstable performance of formerly Facebook Ads?**
+## **Who is else reporting the unstable performance of Facebook Ads?**
+
+Multiple advertisers including Sean Frank from Ridge and David Herrmann from Herrmann Digital are reporting the instability issue of Meta Ads.
+
+%[https://twitter.com/herrmanndigital/status/1762297873566453796] 
 
 %[https://twitter.com/SeanEcom/status/1708133035390939331] 
 
 %[https://twitter.com/herrmanndigital/status/1704115240869474735] 
 
-Multiple advertisers including Sean Frank from Ridge and David Herrmann from Herrmann Digital are reporting the instability issue of Meta Ads. There is a subreddit called [r/FacebookAds](https://www.reddit.com/r/FacebookAds/) on Reddit that has a ton of posts with regards to the instability of Meta Ads.
+There is a subreddit called [r/FacebookAds](https://www.reddit.com/r/FacebookAds/) on Reddit that has a ton of posts with regards to the instability of Meta Ads.
 
-**Solution of Facebook Ads performance in 2024?**
+![Facebook Ads Not Performing in 2024](https://cdn.hashnode.com/res/hashnode/image/upload/v1709293319735/e0b00b6f-3c23-41f2-8867-60ec59373776.png align="center")
 
-If you are a small e-commerce business owner then I would suggest going with interest targeting, remember that you should watch your metrics very carefully. Always know what you are doing.
+![Facebook Ads Not Performing in 2024](https://cdn.hashnode.com/res/hashnode/image/upload/v1709293423725/1c3ddbb5-2a68-4241-9106-d55b1f507054.png align="center")
 
-## Let me babysit your ads?
+## **How to Fix Facebook Ads Performance in 2024?**
 
-Hi. I'm Nikhil. I'm a paid ads babysitter that can take care of your ads when you are away. Grow them and scale them. Just like you I will take care of them like a baby.
+There are multiple ways to fix the Facebook Ads performance in 2024, including from switching to ASC+ to using cost caps some of the possible fix are stated below
 
-[Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and we can discuss more about it.
+* ### Use Advantage+ Audience
+    
+
+You should try deploying an Advantage+ Audience to Fix Facebook performance issue. Having [Advantage+ Shopping](https://nikhil.pro/what-is-advantage-shopping-in-facebook-meta-ads) campaign for your ecommerce business can be beneficial for your business.
+
+* ### Go Broad-Targeting
+    
+
+Leave all the targeting options on Facebook, going broad targeting can help you in long run, just target with the geographical location and let Facebook do the magic.
+
+* ### Check Ad Frequency
+    
+
+Try checking the ad frequency and make sure that your ads are not having a [creative fatigue](https://nikhil.pro/ways-to-fix-ad-fatigue), make sure the ad that you are running is still relevant and Facebook is showing to to the correct audience and the audience is big enough for your ad creative.
+
+* ### Test Multiple Ad Copy
+    
+
+Testing multiple ad copy can be a good idea that is working right now for a lot of advertisers, you should try testing multiple ad copies as well that can work for your business. Try multiple headlines, primary text and image/video creatives.
+
+## Let me fix your ads!
+
+Hi. I'm Nikhil. I'm a paid ads wizard that can take care of your ads when you are away. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and we can discuss more about it.
