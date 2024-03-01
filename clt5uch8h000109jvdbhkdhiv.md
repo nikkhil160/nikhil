@@ -127,8 +127,8 @@ For funneling and appointment setting, we began with two options:
     
 * If someone encountered any issues or had questions, they would first undergo a brief meeting session on Calendly.
     
-* ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709125872198/009e9ac9-386f-4204-a81a-41169d0fd879.png align="center")
-    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709125872198/009e9ac9-386f-4204-a81a-41169d0fd879.png?auto=compress,format&format=webp align="left")
 
 ### Setting up Calendly
 
