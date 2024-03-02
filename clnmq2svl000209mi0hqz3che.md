@@ -62,6 +62,10 @@ Try checking the ad frequency and make sure that your ads are not having a [crea
 
 Testing multiple ad copy can be a good idea that is working right now for a lot of advertisers, you should try testing multiple ad copies as well that can work for your business. Try multiple headlines, primary text and image/video creatives.
 
+## How to Check Facebook Ads Outrages?
+
+You can check Facebook Ads Outages on the [Facebook Ads](https://metastatus.com/) status page by Meta. The outrage history can also be checked by going to the [history page](https://metastatus.com/ads-manager/history).
+
 ## Let me fix your ads!
 
 Hi. I'm Nikhil. I'm a paid ads wizard that can take care of your ads when you are away. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and we can discuss more about it.
