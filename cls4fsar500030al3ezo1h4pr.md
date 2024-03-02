@@ -1,9 +1,9 @@
 ---
-title: "Running Paid Ads for Bakery Business  [Beginners Guide]"
+title: "Running Facebook Ads for Bakery Business  [Beginners Guide]"
 seoDescription: "A comprehensive guide on running paid Facebook, Google ads for your bakery business that increases footfall for your bakery business"
 datePublished: Fri Feb 02 2024 09:22:10 GMT+0000 (Coordinated Universal Time)
 cuid: cls4fsar500030al3ezo1h4pr
-slug: running-paid-ads-for-bakery-guide
+slug: running-facebook-ads-for-bakery-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706865791349/698a10c9-8c16-40e2-ac76-d4dc72bfa2b6.png
 tags: facebookads
 
@@ -50,9 +50,9 @@ Just like Insomnia Cookies, Sprinkles Cupcakes also focuses on the online websit
 
 How did I see those ads? Facebook has a tool called [Facebook Ad Library](https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&sort_data%5Bdirection%5D=desc&sort_data%5Bmode%5D=relevancy_monthly_grouped&media_type=all) that can be used to search if any page is running ads, or what ads they are running. I used the Facebook Ads Library to check what ads they are running.
 
-### Can we use Ads to sell Bakery Franchise?
+### Can we use Facebook Ads to sell Bakery Franchise?
 
-Yes, absolutely. Paid ads can also be used to sell Bakery Franchise. You can have a Facebook Ad with an intent of downloading your business brochure for the bakery and can generate leads, and follow up the leads.
+Yes, absolutely. Facebook ads can also be used to sell Bakery Franchise. You can have a Facebook Ad with an intent of downloading your business brochure for the bakery and can generate leads, and follow up the leads.
 
 ---
 
