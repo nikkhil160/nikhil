@@ -84,7 +84,7 @@ OnModel is something that you should have if you are running a Print on Demand s
 
 Yes, Ai Apps are completely safe for Shopify but you should only install them from the Shopify App store.
 
-### What is Shopify Magic & Sidekick?
+### What is Shopify Magic and Sidekick?
 
 Shopify Magic & Sidekick are two different tools made by Shopify to integrate Ai into its platform.
 
