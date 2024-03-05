@@ -18,7 +18,7 @@ Hi! I have been getting A LOT of hits and emails from Reddit specially after I p
 
 %[https://twitter.com/udibawa/status/1757104738510979197/] 
 
-![Jeff from Portland](https://pbs.twimg.com/media/GHa4MBXXgAAW34j?format=jpg&name=large align="left")
+![Facebook Ads for Real Estate](https://pbs.twimg.com/media/GHbY4ceW0AA_5ny?format=jpg&name=large align="left")
 
 Coming up to Jeff, he got to know about me from my [Reddit profile](https://www.reddit.com/user/nikhilsharmass) where I have been posting a lot recently. Jeff is into *Real Estate Training and Coaching* and organises webinars in the North American region especially in the Portland, Oregon and the nearby areas. He got in touch to me back in November and we wanted to start after the holidays!
 
