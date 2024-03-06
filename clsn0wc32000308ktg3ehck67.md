@@ -106,9 +106,11 @@ After you have Google Merchant Center setup. You will need to have a Google Ads 
 
 ## Email Marketing Checklist
 
-There are a lot of options for Email Marketing for Shopify. But my personal favourite is Klaviyo. You need to have Klaviyo in your Shopify Checklist.
+<s>There are a lot of options for Email Marketing for Shopify. But my personal favourite is Klaviyo. You need to have Klaviyo in your Shopify Checklist.</s>
 
-I just love Klaviyo (and no Klaviyo is sponsoring this) I wrote a dedicated [email list growing guide](https://nikhil.pro/the-right-way-to-grow-klaviyo-email-list-for-e-commerce-stores) on how to grow Klaviyo email list without having annoying popups.
+<s>I just love Klaviyo (and no Klaviyo is sponsoring this) I wrote a dedicated </s> [<s>email list growing guide</s>](https://nikhil.pro/the-right-way-to-grow-klaviyo-email-list-for-e-commerce-stores) <s> on how to grow Klaviyo email list without having annoying popups.</s>
+
+**Use** [Yotpo](https://www.yotpo.com/) or Shopify Emails for your email campaigns, it is seamless and works great!
 
 * ### Klaviyo Email Marketing Setup for Shopify
     
