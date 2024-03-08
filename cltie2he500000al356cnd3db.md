@@ -1,5 +1,5 @@
 ---
-title: "I wrote an ebook book for DTC small business owners"
+title: "I wrote an ebook for DTC small business owners"
 seoDescription: "An book for DTC small business owners that helps them in starting their own small business on Shopify, has a checklist which contains things to start off"
 datePublished: Fri Mar 08 2024 08:22:35 GMT+0000 (Coordinated Universal Time)
 cuid: cltie2he500000al356cnd3db
