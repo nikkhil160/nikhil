@@ -4,7 +4,7 @@ seoDescription: "An book for DTC small business owners that helps them in starti
 datePublished: Fri Mar 08 2024 08:22:35 GMT+0000 (Coordinated Universal Time)
 cuid: cltie2he500000al356cnd3db
 slug: ebook-book-for-dtc-small-business-owners
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709886000240/efb95648-3698-4bc1-9a43-6eb98b0a1050.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709887243497/77f07a80-1099-4bef-9c67-446d459be2ab.png
 tags: shopify, google-ads, facebookads, dtc, marketingchecklist
 
 ---
@@ -14,6 +14,8 @@ I have been thinking of writing a book for small business owners for a very long
 And I sat down this Saturday and compiled a 45-page e-book that will help small business owners in starting off their business.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1709884783339/102ba0bd-41b2-455c-bf32-a55e0c0b8be8.png align="center")
+
+P.S: To Anyone wondering, Divyansh Sharma is my legal name.
 
 The book is called '***The Ultimate Shopify Store Marketing Checklist***' and will be available on Amazon for $9.99 the book contains the following chapters:
 
