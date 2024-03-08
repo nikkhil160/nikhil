@@ -3,7 +3,7 @@ title: "I wrote an ebook for DTC small business owners"
 seoDescription: "An book for DTC small business owners that helps them in starting their own small business on Shopify, has a checklist which contains things to start off"
 datePublished: Fri Mar 08 2024 08:22:35 GMT+0000 (Coordinated Universal Time)
 cuid: cltie2he500000al356cnd3db
-slug: ebook-book-for-dtc-small-business-owners
+slug: ebook-for-dtc-small-business-owners
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709887243497/77f07a80-1099-4bef-9c67-446d459be2ab.png
 tags: shopify, google-ads, facebookads, dtc, marketingchecklist
 
