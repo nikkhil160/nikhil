@@ -40,7 +40,7 @@ I have made the book available as an ebook on Kindle as well as a paperback so y
 
 ---
 
-Who should purchase the '***The Ultimate Shopify Store Marketing Checklist'?*** *:* You should purchase book if you are
+Who should purchase the '***The Ultimate Shopify Store Marketing Checklist'?****:* You should purchase book if you are
 
 * Just starting up a DTC Shopify Store
     
@@ -49,3 +49,6 @@ Who should purchase the '***The Ultimate Shopify Store Marketing Checklist'?*** 
 * An e-commerce / DTC enthusiast
     
 * You like me, or my work and want to support me
+    
+
+While since the Amazon the link is not available yet, I have published it on [GumRoad](https://nikhildotpro.gumroad.com/l/hzdrtx/NIK) where you can purchase it for $3 as I am giving a 90% discount for anyone who purchases it from the blog.
