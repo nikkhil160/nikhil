@@ -4,7 +4,7 @@ seoDescription: "An eBook for DTC small business owners that helps them in start
 datePublished: Fri Mar 08 2024 08:22:35 GMT+0000 (Coordinated Universal Time)
 cuid: cltie2he500000al356cnd3db
 slug: ebook-for-dtc-small-business-owners
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709887243497/77f07a80-1099-4bef-9c67-446d459be2ab.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709967977009/288a6098-9511-4bd9-a47a-915a57391eae.png
 tags: shopify, google-ads, facebookads, dtc, marketingchecklist
 
 ---
