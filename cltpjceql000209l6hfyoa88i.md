@@ -46,17 +46,20 @@ Shopify is an awesome platform, but with great power comes great responsibility.
 
 There are three ways you can Migrate from Etsy to Shopify, the best way to Migrate from Etsy to Shopify is to export the CSV from Etsy and import it to Shopify.
 
-<table><tbody><tr><td colspan="1" rowspan="1"><p><strong>1) Manual data copy paste</strong></p></td><th colspan="1" rowspan="1"><p>Copy and Paste data manually</p></th></tr><tr><td colspan="1" rowspan="1"><p><strong>2) CSV import (see below)</strong></p></td><td colspan="1" rowspan="1"><p>Import the CSV file to Your Shopify</p></td></tr><tr><td colspan="1" rowspan="1"><p><strong>3) Hire Vetted Shopify Experts</strong></p></td><td colspan="1" rowspan="1"><p>Hire <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/best-shopify-expert" style="pointer-events: none">Shopify Migration Experts</a></p></td></tr></tbody></table>
+| **1) Manual data copy paste** | Copy and Paste data manually |
+| --- | --- |
+| **2) CSV import (see below)** | Import the CSV file to Your Shopify |
+| **3) Hire Vetted Shopify Experts** | Hire [Shopify Migration Experts](https://nikhil.pro/best-shopify-expert) |
 
 ### **How to Migrate from Etsy to Shopify using CSV import?**
 
 1. Login to Etsy
     
-2. From your Shop Manager, click Settings &gt; Options.  
+2. From your Shop Manager, click Settings &gt; Options.
     
     ![Settings navigation image from Etsy platform with Options highlighted in a red box.](https://cdn.shopify.com/shopifycloud/help/assets/manual/migrating-to-shopify/etsy-options-3e3ac2cce2dafa97512d4e2e7a369a27c60c805b03d5200f233772fb53d549c2.png align="left")
     
-3. Click the **Download Data** tab.  
+3. Click the **Download Data** tab.
     
     ![Image from Options in Etsy platform settings with the Download Data tab highlighted in a red box](https://cdn.shopify.com/shopifycloud/help/assets/manual/migrating-to-shopify/etsy-download-data-cb27ff56dd964dcef42fa46cf2af60f5fb3a344a3f1fb611516e7e78d784dbbb.png align="left")
     
@@ -87,3 +90,17 @@ After you have them published, you have to make them available on your sales cha
 ### **Have an expert Migrate from Etsy to Shopify for you**
 
 I have a list of [Vetted Shopify Professionals](https://nikhil.pro/best-shopify-expert) which you can use to hire experts to create, design and migrate your Etsy store to Shopify. The professionals are hand-picked by me and they are best in class that can help you in your Etsy to Shopify migration process.
+
+## **Next Steps: After Moving from Etsy to Shopify**
+
+### Inform Your Past Customers About the Store
+
+After you have moved your Etsy to Shopify the first thing you should do is to ***let your old customers know about your Shopify store***. You can either send them a letter, or an email with the information of your store.
+
+### Bringing Traffic to Your Store after Migration
+
+Since the store is new and nobody knows about it really, you need to have some traffic on it (*basically having people that buy*) - you can have traffic using multiple ways, the best option is to run Facebook & Google ads for your store, they are easy to setup and can get you a good return on ad spend, I have covered detailed steps on a [case study article](https://nikhil.pro/scaling-e-commerce-business-to-50k-using-paid-ads) that I wrote for Ella.
+
+### Is Shopify Store more Successful than Etsy?
+
+It depends on how you market your store, if you do the marketing correctly and the product that you're selling has good demand which you think you can fulfil, then you should make it successful compared to Etsy.
