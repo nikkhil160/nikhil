@@ -53,4 +53,4 @@ Who should purchase the '***The Ultimate Shopify Store Marketing Checklist'?****
 * You like me, or my work and want to support me
     
 
-While since the Amazon the link is not available yet, I have published it on [GumRoad](https://nikhildotpro.gumroad.com/l/hzdrtx/NIK) where you can purchase it for $3 as I am giving a 90% discount for anyone who purchases it from the blog.
+The ***The Ultimate Shopify Store Marketing Checklist*** is available to purchase on [Amazon](https://www.amazon.com/dp/B0CW18S5VB)
