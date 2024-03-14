@@ -53,4 +53,4 @@ Who should purchase the '***The Ultimate Shopify Store Marketing Checklist'?****
 * You like me, or my work and want to support me
     
 
-The ***The Ultimate Shopify Store Marketing Checklist*** is available to purchase on [Amazon](https://www.amazon.com/dp/B0CW18S5VB)
+The ***The Ultimate Shopify Store Marketing Checklist*** is available to purchase on [Amazon](https://nikhil.pro/book)
