@@ -19,6 +19,8 @@ This basic article will cover all the basic key performance indicators that you 
 
 **Note: This article is intended to be short and on-point. Hence I'm just writing the basic KPIs and an in-depth article will be published on-demand.**
 
+I have also published an eBook called **The Ultimate Shopify Marketing Checklist** that you can find on [Amazon](https://www.amazon.com/gp/product/B0CW18S5VB?tag=).
+
 ## E-commerce KPIs
 
 1. **Conversion Rate:**  
