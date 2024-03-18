@@ -1,5 +1,5 @@
 ---
-title: "I wrote an eBook for DTC small business owners"
+title: "I wrote an eBook for D2C small business owners"
 seoDescription: "An eBook for DTC small business owners that helps them in starting their own small business on Shopify, has a checklist which contains things to start off"
 datePublished: Fri Mar 08 2024 08:22:35 GMT+0000 (Coordinated Universal Time)
 cuid: cltie2he500000al356cnd3db
@@ -44,11 +44,11 @@ I have made the book available as an ebook on Kindle as well as a paperback so y
 
 Who should purchase the '***The Ultimate Shopify Store Marketing Checklist'?****:* You should purchase book if you are
 
-* Just starting up a DTC Shopify Store
+* Just starting up a D2C eCommerce Shopify Store
     
 * A beginner can't figure out what you should do going forward
     
-* An e-commerce / DTC enthusiast
+* An e-commerce / D2C enthusiast
     
 * You like me, or my work and want to support me
     
