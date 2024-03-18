@@ -44,7 +44,7 @@ Shopify is an awesome platform, but with great power comes great responsibility.
 
 ## How to Migrate from Etsy to Shopify?
 
-There are three ways you can Migrate from Etsy to Shopify, the best way to Migrate from Etsy to Shopify is to export the CSV from Etsy and import it to Shopify.
+I get asked this alot: Can you import Etsy listings to Shopify? The answer is yes, you can absolutely import Etsy Listing to Shopify and there are three ways you can Migrate from Etsy to Shopify, the best way to Migrate from Etsy to Shopify is to export the CSV from Etsy and import it to Shopify.
 
 | **1) Manual data copy paste** | Copy and Paste data manually |
 | --- | --- |
