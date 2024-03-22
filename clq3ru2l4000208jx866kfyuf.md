@@ -71,3 +71,7 @@ You have to select the Advantage+ Shopping Campaign, and click on continue.
 It depends on how you use them, if you use Advantage+ Shopping Campaigns with custom audiences and with a warmed up pixel then it will work perfectly fine, also try to use Dynamic Product Ads (DPAs) in your campaign and it should be good. Make sure that you watch out the [key performance indicators](https://nikhil.pro/kpis-for-ecommerce-business) and keep monitoring them.
 
 **Conclusion:** While Advantage+ Shopping Campaign is good and similar to Google's Performance Max Campaign it should be noted that it works well on old pixel accounts that already have some data compared to new pixel accounts.
+
+## Grow your Brand with Nikhil Sharma
+
+Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with him to explore how he can support your brand further.
