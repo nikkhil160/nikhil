@@ -165,8 +165,6 @@ That's how we had our email marketing strategy in place.
 
 Currently, our focus is on scaling Ella's business to reach the next milestone of $500,000. While she manages the supply chain, we're diving deeper into marketing strategies.
 
-## Let me babysit your ads?
+## Grow your Brand with Nikhil Sharma
 
-Hi. I'm Nikhil. I'm a paid ads babysitter that can take care of your ads when you are away. Grow them and scale them. Just like you I will take care of them like a baby.
-
-[Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and we can discuss more about it.
+Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with him to explore how he can support your brand further.
