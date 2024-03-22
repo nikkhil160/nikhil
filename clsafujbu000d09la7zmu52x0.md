@@ -10,6 +10,11 @@ tags: case-study
 
 ---
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">📈</div>
+<div data-node-type="callout-text"><strong>UPDATE: </strong><em>Ella expanded to Canada and European market and she is doing $500K in revenue.</em></div>
+</div>
+
 For many Shopify business owners, the journey often starts with sales challenges, tax concerns, and eventually supply chain obstacles.
 
 But first, you need sales, and you've probably been bombarded with emails, cold calls, and DMs from people promising to "scale" your business. However, trust is paramount in navigating this landscape.
