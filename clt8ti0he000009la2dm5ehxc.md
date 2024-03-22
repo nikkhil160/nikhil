@@ -93,3 +93,7 @@ While Shopify Magic can make transform product images and provide data driven in
 ### Do I need Shopify Ai?
 
 Yes, Ai can save you a lot of time in customer support and product management for your Shopify store. You should install the apps given in the list.
+
+## Grow your Brand with Nikhil Sharma
+
+Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with him to explore how he can support your brand further.
