@@ -110,7 +110,7 @@ After you have Google Merchant Center setup. You will need to have a Google Ads 
 
 <s>I just love Klaviyo (and no Klaviyo is sponsoring this) I wrote a dedicated </s> [<s>email list growing guide</s>](https://nikhil.pro/the-right-way-to-grow-klaviyo-email-list-for-e-commerce-stores) <s> on how to grow Klaviyo email list without having annoying popups.</s>
 
-**Use** [Yotpo](https://www.yotpo.com/) or Shopify Emails for your email campaigns, it is seamless and works great!
+**Use**[Yotpo](https://www.yotpo.com/) or Shopify Emails for your email campaigns, it is seamless and works great!
 
 * ### Klaviyo Email Marketing Setup for Shopify
     
@@ -238,8 +238,6 @@ Tidio also has a free-forever plan that you can use to give support to your cust
 
 This Shopify Marketing Checklist covers all the basics from Facebook Ads, Google Ads, Klaviyo Email Marketing to the advanced options like tracking, and customer support. It is intended for small business owners that are starting a new e-commerce business. I tried to cover all the important things in the marketing checklist.
 
-## Let me babysit your ads?
+## Grow your Brand with Nikhil Sharma
 
-Hi. I'm Nikhil. I'm a paid ads babysitter that can take care of your ads when you are away. Grow them and scale them. Just like you I will take care of them like a baby.
-
-[Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and we can discuss more about it.
+Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with him to explore how he can support your brand further.
