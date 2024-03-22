@@ -66,6 +66,6 @@ Testing multiple ad copy can be a good idea that is working right now for a lot 
 
 You can check Facebook Ads Outages on the [Facebook Ads](https://metastatus.com/) status page by Meta. The outrage history can also be checked by going to the [history page](https://metastatus.com/ads-manager/history).
 
-## Let me fix your ads!
+## Grow your Brand with Nikhil Sharma
 
-Hi. I'm Nikhil. I'm a paid ads wizard that can take care of your ads when you are away. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and we can discuss more about it.
+Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with him to explore how he can support your brand further.
