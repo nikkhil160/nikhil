@@ -1,5 +1,6 @@
 ---
 title: "Etsy is Automatically Changing Shipping Terms for Store Owners"
+seoTitle: "Is Etsy Automatically Processing Times for Store Owners?"
 datePublished: Sat Mar 23 2024 13:54:23 GMT+0000 (Coordinated Universal Time)
 cuid: clu45iyos000309l77i7k6rxf
 slug: etsy-changing-shipping-terms
