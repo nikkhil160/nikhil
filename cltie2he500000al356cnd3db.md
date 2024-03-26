@@ -4,7 +4,7 @@ seoDescription: "An eBook for D2C small business owners that helps them in start
 datePublished: Fri Mar 08 2024 08:22:35 GMT+0000 (Coordinated Universal Time)
 cuid: cltie2he500000al356cnd3db
 slug: ebook-for-dtc-small-business-owners
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710420265960/e53075d5-c0e5-4ba3-9338-df167a1b480a.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711464067643/e2932413-ca50-4b8b-bcf4-7f5df1017e69.png
 tags: shopify, google-ads, facebookads, dtc, marketingchecklist
 
 ---
