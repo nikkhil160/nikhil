@@ -1,7 +1,7 @@
 ---
-title: "Generate Sales for Beauty Business using Facebook/Google Ads [Case Study]"
+title: "Generate Sales for Beauty Business using Meta/Google Ads [Case Study]"
 seoTitle: "Scaling Beauty E-Commerce Business to 50K using Meta & Google Ads"
-seoDescription: "A comprehensive in-depth guide on how to scale an e-commerce business to 50K using Facebook Ads, Google ads and Email Marketing"
+seoDescription: "A guide on how to generate sales for Beauty Brand using Meta/Google ads, also covers Email Marketing and Google Merchant Center for Shopify"
 datePublished: Tue Feb 06 2024 14:10:32 GMT+0000 (Coordinated Universal Time)
 cuid: clsafujbu000d09la7zmu52x0
 slug: scaling-e-commerce-business-to-50k-using-paid-ads
