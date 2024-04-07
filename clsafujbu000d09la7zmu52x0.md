@@ -1,5 +1,5 @@
 ---
-title: "Generate Sales for Beauty Brand using Meta/Google Ads [Case Study]"
+title: "Optimizing Beauty Brand Sales: Meta/Google Ads [Case Study & Guide]"
 seoTitle: "Scaling Beauty E-Commerce Brand to 50K using Meta & Google Ads"
 seoDescription: "A guide on how to generate sales for Beauty Brand using Meta/Google ads, also covers Email Marketing and Google Merchant Center for Shopify"
 datePublished: Tue Feb 06 2024 14:10:32 GMT+0000 (Coordinated Universal Time)
