@@ -23,7 +23,7 @@ But first, you need sales, and you've probably been bombarded with emails, cold 
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/shopify-store-marketing-checklist" style="pointer-events: none">Ultimate Marketing Checklist</a> which I wrote that covers all the things that you need to get started before launching an ecommerce business.</div>
+<div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/shopify-store-marketing-checklist" style="pointer-events: none">The Ultimate Shopify Store Marketing Checklist</a> which I wrote that covers all the things that you need to get started before launching an ecommerce business.</div>
 </div>
 
 Once Ella was onboarded to [Shopify](https://nikhil.pro/best-shopify-expert), and made the complete transition. Everything was set-up. From [Facebook Ads to Google ads to Klaviyo](https://nikhil.pro/shopify-store-marketing-checklist) emails and the next immediate step was to start running the paid ads on Facebook and Google Ads.
