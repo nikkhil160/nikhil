@@ -1,11 +1,11 @@
 ---
-title: "Track Calendly Meetings on Google Ads"
-seoTitle: "Track Calendly Meetings on Google Ads [2024]"
-seoDescription: "Track Calendly Meetings and Conversions on Google Ads using Google Analytics events, without using a Thank You redirection page."
+title: "Track Calendly Meeting on Google Ads"
+seoTitle: "Track Calendly Meeting on Google Ads [2024]"
+seoDescription: "Track Calendly Meeting and Conversions on Google Ads using Google Analytics events, without using a Thank You redirection page."
 datePublished: Mon Apr 15 2024 14:54:07 GMT+0000 (Coordinated Universal Time)
 cuid: clv12sdbl000108l2dlerf6b7
-slug: track-calendly-meetings-on-google-ads
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713192597980/b2957c34-f287-4cbc-9200-d2ff9c1decc4.png
+slug: track-calendly-meeting-on-google-ads
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713196907590/a4c2f2b2-3079-4fe9-9c85-ffcba747f363.png
 tags: google-ads, calendly
 
 ---
