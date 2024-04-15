@@ -1,15 +1,16 @@
 ---
-title: "Running Facebook Ads for Bakery Business  [Beginners Guide]"
-seoDescription: "A comprehensive guide on running paid Facebook, Google ads for your bakery business that increases footfall for your bakery business"
+title: "How to Run Facebook Ads for Bakery"
+seoTitle: "How to Run Facebook Ads for Bakery"
+seoDescription: "A guide on Running Facebook / Meta ads for a bakery. Includes a beginner friendly guide."
 datePublished: Fri Feb 02 2024 09:22:10 GMT+0000 (Coordinated Universal Time)
 cuid: cls4fsar500030al3ezo1h4pr
-slug: running-facebook-ads-for-bakery-guide
+slug: how-to-run-facebook-ads-for-bakery
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706865791349/698a10c9-8c16-40e2-ac76-d4dc72bfa2b6.png
 tags: facebookads
 
 ---
 
-[I do ecommerce marketing for Shopify](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads), but I have been getting a lot of messages from my North American clients asking me if I can run Facebook Ads for Bakery which made me think if I can help small-business owners in running their own Facebook Ads (like a pro!)
+I have been getting a lot of messages from my North American clients asking me if I can run Facebook Ads for Bakery which made me think if I can help small-business owners in running their own Facebook Ads (like a pro!)
 
 First let's look at what others are doing, they can be your competitors or biggies in the market.
 
