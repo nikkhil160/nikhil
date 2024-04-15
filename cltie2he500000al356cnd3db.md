@@ -4,7 +4,7 @@ seoDescription: "An eBook for D2C small business owners that helps them in start
 datePublished: Fri Mar 08 2024 08:22:35 GMT+0000 (Coordinated Universal Time)
 cuid: cltie2he500000al356cnd3db
 slug: marketing-checklist-book-for-shopify-brands
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713178160522/35723ae9-b39a-4a9c-b1b5-9ee876cc4e6e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713178858399/7c4b0536-b6b0-49d3-93e4-4210c5893c00.png
 tags: shopify, google-ads, facebookads, dtc, marketingchecklist
 
 ---
