@@ -11,9 +11,16 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707229022305/cd98586
 
 *\[Views expressed are my own\]*
 
-What is happening? Everyone is trying to bang their head on the wall. Meta (formerly Facebook) is on a rollercoaster right now, especially after late June of 2023.
+**Updated this article on 18th April 2024.**
+
+What is happening? Everyone is trying to bang their head on the wall. Meta (formerly Facebook) seems to be on a rollercoaster right now, especially after late June of 2023.
 
 I was doing a fairly good ROAS until June, all my LAAs were working well, they used to give 10-12X ROAS on normal days, and used to get tons of engagements on my posts.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&amp;utm_medium=nikhil.pro&amp;utm_campaign=free&amp;month=2022-08" style="pointer-events: none"><strong>Get a Meta Ad account Audit</strong></a> if you are spending more than $10,000 USD per month.</div>
+</div>
 
 **Why are Facebook Ads not performing in 2024?**  
 There has been no official communication from Meta but everyone is saying that they are unstable after Facebook released its new Ad Delivery platform called [Meta Lattice](https://ai.meta.com/blog/ai-ads-performance-efficiency-meta-lattice/).
@@ -22,15 +29,19 @@ There has been no official communication from Meta but everyone is saying that t
 
 The problem is they are insanely expensive, the CPMs that used to be under $10 are now double or even triple. The cost per click that used to be under 0.30 is now $1 with absolutely trash traffic.
 
-## **Who is else reporting the unstable performance of Facebook Ads?**
+### **Who is else reporting the unstable performance of Facebook Ads?**
 
 Multiple advertisers including Sean Frank from Ridge and David Herrmann from Herrmann Digital are reporting the instability issue of Meta Ads.
+
+%[https://twitter.com/KurtWagner8/status/1778109593530351627] 
 
 %[https://twitter.com/herrmanndigital/status/1762297873566453796] 
 
 %[https://twitter.com/SeanEcom/status/1708133035390939331] 
 
 %[https://twitter.com/herrmanndigital/status/1704115240869474735] 
+
+### Widespread on Reddit
 
 There is a subreddit called [r/FacebookAds](https://www.reddit.com/r/FacebookAds/) on Reddit that has a ton of posts with regards to the instability of Meta Ads.
 
@@ -66,6 +77,6 @@ Testing multiple ad copy can be a good idea that is working right now for a lot 
 
 You can check Facebook Ads Outages on the [Facebook Ads](https://metastatus.com/) status page by Meta. The outrage history can also be checked by going to the [history page](https://metastatus.com/ads-manager/history).
 
-## Grow your Brand with Nikhil Sharma
+## Let me Audit your Ad Account!
 
-Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with him to explore how he can support your brand further.
+Hi! I'm Nikhil Sharma and I'm a freelance specialist in Meta and Google Ads. I have spent over 1M/USD last month and helped brands diversify. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with me to explore possibilities.
