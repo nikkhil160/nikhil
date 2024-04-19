@@ -10,7 +10,7 @@ tags: shopify, smallbusiness, productsourcing, d2c
 
 ---
 
-So I have been running an [e-commerce store that I scaled to 100K in less than a month](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) for a very long time, not a drop-shipping particularly but we would order the products in bulk to the country and then ship from there (For faster shipping). I wanted to do drop-shipping but then it halted back in 2019, right after the COVID and ePacket was banned (ePacket is a shipping agreement between the US and China to reduce shipping times, it uses passenger planes to carry the parcel, hence faster shipping).
+So I have been running an e-commerce store which [I scaled to 100K](https://nikhil.pro/how-we-made-100k-in-less-than-a-month-using-facebook-ads) in less than a month for a very long time, not a drop-shipping particularly but we would order the products in bulk to the country and then ship from there (For faster shipping). I wanted to do drop-shipping but then it halted back in 2019, right after the COVID and ePacket was banned (ePacket is a shipping agreement between the US and China to reduce shipping times, it uses passenger planes to carry the parcel, hence faster shipping).
 
 Anyway getting back to the point, We were selling jewelry in the United States, firstly we used to just order from Aliexpress (a bunch of 500 every week) to our warehouse, do the quality check and then we would ship it from there. However, the price per item was $7.80 and it was selling for $25.99 with a good profit margin.
 
