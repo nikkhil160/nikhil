@@ -79,4 +79,4 @@ You can check Facebook Ads Outages on the [Facebook Ads](https://metastatus.com/
 
 ## Let me Audit your Ad Account!
 
-Hi! I'm Nikhil Sharma and I'm a freelance specialist in Meta and Google Ads. I have spent over 1M/USD last month and helped brands diversify. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with me to explore possibilities.
+Hi! I'm Nikhil Sharma and I'm a freelance specialist in Meta and Google Ads. I have spent over 1M/USD last month and helped brands diversify. [Schedule a call](https://nikhil.pro/meeting) with me to explore possibilities.
