@@ -154,4 +154,4 @@ In summary, I would totally recommend running Facebook Ads for your bakery busin
 
 ## Grow your Brand with Nikhil Sharma
 
-Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with him to explore how he can support your brand further.
+Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://nikhil.pro/meeting) with him to explore how he can support your brand further.
