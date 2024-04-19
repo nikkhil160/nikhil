@@ -27,4 +27,4 @@ So basically, they are saying that you have an option to "choose" but they are n
 
 This is another reason why I ask Etsy store owners to diversify the eggs and use a self hosted platform like Shopify or WooCommerce so that they can have the control over their data and can have maximum power.
 
-The only struggle is to bring the traffic to the Shopify store, as Etsy drives the traffic for them. I can help in migrating the Etsy store to Shopify and getting the traffic using Paid ads. You can schedule a [consultation with me](https://calendly.com/nikhil-pro/30min?utm_source=etsy_automatically_shipping_article&utm_medium=nikhil.pro&utm_campaign=free&month=2024-03) and I will be happy to help!
+The only struggle is to bring the traffic to the Shopify store, as Etsy drives the traffic for them. I can help in migrating the Etsy store to Shopify and getting the traffic using Paid ads. You can schedule a [consultation with me](https://nikhil.pro/meeting)and I will be happy to help!
