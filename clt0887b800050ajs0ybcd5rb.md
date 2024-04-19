@@ -108,7 +108,7 @@ I can audit your ad account for you and give you the actionable insights on your
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Get a free ad account audit by <a target="_blank" rel="noopener noreferrer nofollow" href="https://calendly.com/nikhil-pro/30min?utm_source=account_audit_cta&amp;utm_medium=nikhil.pro&amp;utm_campaign=free&amp;month=2022-08" style="pointer-events: none">Nikhil Sharma</a></div>
+<div data-node-type="callout-text">Get a free ad account audit by <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none">Nikhil Sharma</a></div>
 </div>
 
 ## Conclusion
