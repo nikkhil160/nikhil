@@ -89,4 +89,4 @@ Monitoring key performance indicators (KPIs) is very important for the success o
 
 Hi. I'm Nikhil. I'm a paid ads babysitter that can take care of your ads when you are away. Grow them and scale them. Just like you I will take care of them like a baby.
 
-[Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and we can discuss more about it.
+[Schedule a call](https://nikhil.pro/meeting) and we can discuss more about it.
