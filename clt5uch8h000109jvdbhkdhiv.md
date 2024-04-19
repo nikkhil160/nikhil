@@ -177,4 +177,4 @@ Next steps for march are of course, scale it to at least $40,000 a month.
 
 ## Conclusion & Ending Notes
 
-There is my another case studies, I have one of Ella and this one is of Jeff. I have been working on Real Estate for quite a long time now, but this case study was fun writing for. Real Estate has a lot of cash but the advertising guidelines especially in the United States are quite complicated to start off with. I hope you enjoyed reading this case study. I'm available for a [consultations](https://calendly.com/nikhil-pro/30min?utm_source=real_estate_blog_post&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08)!
+There is my another case studies, I have one of Ella and this one is of Jeff. I have been working on Real Estate for quite a long time now, but this case study was fun writing for. Real Estate has a lot of cash but the advertising guidelines especially in the United States are quite complicated to start off with. I hope you enjoyed reading this case study. I'm available for a [consultations](https://nikhil.pro/meeting)!
