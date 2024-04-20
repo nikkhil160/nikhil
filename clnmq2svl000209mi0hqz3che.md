@@ -49,6 +49,24 @@ There is a subreddit called [r/FacebookAds](https://www.reddit.com/r/FacebookAds
 
 ![Facebook Ads Not Performing in 2024](https://cdn.hashnode.com/res/hashnode/image/upload/v1709293423725/1c3ddbb5-2a68-4241-9106-d55b1f507054.png align="center")
 
+## The timeline of Meta Bugs:
+
+**May 2023** : Meta Releases Lattice ([SMT covers it](https://www.socialmediatoday.com/news/meta-outlines-evolving-ai-ad-targeting-process-improving-ad-/650225/))
+
+**June 2023** : Reported on Reddit (on this Reddit)
+
+**July-Aug 2023** : Reported by @[SeanEcom](https://twitter.com/SeanEcom), @[herrmanndigital](https://twitter.com/herrmanndigital) & @[rokhladnik](https://twitter.com/rokhladnik)
+
+**Nov-Dec 2023** : Performance Improved due to Q4
+
+**Feb-Mar 2024** : Decline Again
+
+**April 2024** : Covered by [Bloomberg](https://www.bloomberg.com/news/articles/2024-04-10/meta-s-automated-advertising-system-is-on-the-fritz-marketers-say).
+
+If you look at the stats then you will notice the same pattern, it started back in June 2023 and you will see it fixed just before Q4 and the issues started again, in Feb 2024
+
+It’s safe to say that the issues started after Meta Lattice.
+
 ## **How to Fix Facebook Ads Performance in 2024?**
 
 There are multiple ways to fix the Facebook Ads performance in 2024, including from switching to ASC+ to using cost caps some of the possible fix are stated below
