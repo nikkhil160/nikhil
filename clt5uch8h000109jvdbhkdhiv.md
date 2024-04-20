@@ -18,7 +18,7 @@ Hi! I have been getting A LOT of hits and emails from Reddit specially after I p
 
 %[https://twitter.com/udibawa/status/1757104738510979197/] 
 
-![Facebook Ads for Real Estate](https://pbs.twimg.com/media/GHbY4ceW0AA_5ny?format=jpg&name=large align="left")
+![Meta & Google Ads for Real Estate](https://cdn.hashnode.com/res/hashnode/image/upload/v1713592973618/64fb6ac3-f58f-4104-b924-38618a21b7aa.jpeg align="center")
 
 Coming up to Jeff, he got to know about me from my [Reddit profile](https://www.reddit.com/user/nikhilsharmass) where I have been posting a lot recently. Jeff is into *Real Estate Training and Coaching* and organises webinars in the North American region especially in the Portland, Oregon and the nearby areas. He got in touch to me back in November and we wanted to start after the holidays!
 
@@ -77,6 +77,11 @@ We used a single pixel with Facebook's CAPI and the single Pixel was setup with 
 
 So Calendly gave us a handful of events to play with, and retarget based on the funnelling.
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">I have written a <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/track-calendly-meeting-on-google-ads" style="pointer-events: none">detailed guide</a> on how to track Calendly booking on Google Ads using GA-4 events.</div>
+</div>
+
 ### **Facebook Custom Audience for Real Estate Coaching**
 
 We started off with 2 custom audiences with the limited assets that we had.
@@ -134,7 +139,7 @@ For funneling and appointment setting, we began with two options:
 
 We set up a basic Calendly appointment page with the same pixel used on the website to ensure everything remained in one place and we could track purchases and meetings. Since we only had these two objections for the real estate Facebook Ads, this streamlined approach helped us effectively manage the process.
 
-### Bypassing Clickfunnels
+### By-passing Clickfunnels
 
 The important thing we did in this real estate training coaching business that we did not have a landing page by click-funnels, because of the low integration capability of Clickfunnels with Facebook's CAPI and almost no support from Clickfunnels.
 
@@ -144,25 +149,20 @@ The important thing we did in this real estate training coaching business that w
 
 For the ad copy, we simply used a video of Jeff asking people to buy the course, and another ad to schedule the appointment on Calendly if they had any questions, and then whoever had a meeting was retargeted on Facebook and on Google as well.
 
-## Results of February 2024
+### Results of February 2024
 
 We started the ads on February the 1st for both Facebook & Google only the warm audiences targeting the Portland area and here are some of the ads that Jeff has achieved for his Real Estate Coaching Business. The calendly meeting to close percentage is **34** which is not very bad, but considering the 30 minutes meeting it's better to have it streamlined. To understand these values you may want to see my [KPI guide](https://nikhil.pro/kpis-for-ecommerce-business)
 
-**Amount Spent: $778**
+### Key Performance Indicators
 
-**CTR: 3.10**
-
-**Link Clicks: 547**
-
-**CPC: 0.40**
-
-**Meetings Booked: 50**
-
-**Course Purchases: 17**
-
-**Total Revenue in February 2024: $16,983**
-
-**ROAS: 21.8290488**
+| **Amount Spent** | **$778** |
+| --- | --- |
+| **CTR** | **3.10** |
+| **CPC** | **$0.40** |
+| **Meetings Booked** | **50** |
+| **Course Purchases** | **17** |
+| **Total Revenue in February 2024** | **$16,983** |
+| **ROAS** | **21X** |
 
 ## Next Step & Plans
 
