@@ -19,7 +19,7 @@ I was doing a fairly good ROAS until June, all my LAAs were working well, they u
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text"><a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none"><strong>Get a Meta Ad account Audit</strong></a> if you are spending more than $10,000 USD per month.</div>
+<div data-node-type="callout-text"><strong>Are you spending more than $10,000/mo? </strong>Let me <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none">audit</a> the ad account for you and explore possibilities.</div>
 </div>
 
 **Why are Facebook Ads not performing in 2024?**  
