@@ -63,9 +63,9 @@ There is a subreddit called [r/FacebookAds](https://www.reddit.com/r/FacebookAds
 
 **April 2024** : Covered by [Bloomberg](https://www.bloomberg.com/news/articles/2024-04-10/meta-s-automated-advertising-system-is-on-the-fritz-marketers-say).
 
-If you look at the stats then you will notice the same pattern, it started back in June 2023 and you will see it fixed just before Q4 and the issues started again, in Feb 2024
+If you look at the stats, you'll notice the same pattern: it started back in June 2023 and was resolved just before Q4. Then the issues started again in February 2024.
 
-It’s safe to say that the issues started after Meta Lattice.
+It's safe to say that the issues started after Meta Lattice.
 
 ## **How to Fix Facebook Ads Performance in 2024?**
 
