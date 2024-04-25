@@ -11,7 +11,9 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707229022305/cd98586
 
 *\[Views expressed are my own\]*
 
-**Updated this article on 18th April 2024.**
+**25th April: <mark>Facebook Ads are now doing fine for all of my clients.</mark>**
+
+<s>Updated this article on 18th April 2024.</s>
 
 What is happening? Everyone is trying to bang their head on the wall. Meta (formerly Facebook) seems to be on a rollercoaster right now, especially after late June of 2023.
 
@@ -28,6 +30,8 @@ There has been no official communication from Meta but everyone is saying that t
 ### **What is the issue with Facebook Ads?**
 
 The problem is they are insanely expensive, the CPMs that used to be under $10 are now double or even triple. The cost per click that used to be under 0.30 is now $1 with absolutely trash traffic.
+
+**25th April: <mark>Facebook Ads are now doing fine for all of my clients.</mark>**
 
 ### **Who else is reporting the unstable performance of Facebook Ads?**
 
@@ -66,6 +70,8 @@ There is a subreddit called [r/FacebookAds](https://www.reddit.com/r/FacebookAds
 If you look at the stats, you'll notice the same pattern: it started back in June 2023 and was resolved just before Q4. Then the issues started again in February 2024.
 
 It's safe to say that the issues started after Meta Lattice.
+
+**25th April 2024: <mark>Facebook Ads are now doing fine for all of my clients.</mark>**
 
 ## **How to Fix Facebook Ads Performance in 2024?**
 
