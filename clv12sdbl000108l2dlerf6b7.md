@@ -97,6 +97,4 @@ This means your Calendly event is setup and ready to track calendar meetings.
 
 ---
 
-That's it. Now you can run ads and track the Calendly conversions (meetings) on your Google Ads. If you need help or you want me to do it for you then you can check [contact me](https://calendly.com/nikhil-pro/30min?utm_source=calendly_blog_post&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) and I will be happy to assist you.
-
-%%[calcom]
+That's it. Now you can run ads and track the Calendly conversions (meetings) on your Google Ads.
