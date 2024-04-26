@@ -19,20 +19,24 @@ For many Shopify business owners, the journey often starts with sales challenges
 
 But first, you need sales, and you've probably been bombarded with emails, cold calls, and DMs from people promising to "scale" your business. However, trust is paramount in navigating this landscape.
 
-**Meet Ella**, a close friend who initially sold her beauty products on Etsy. When we connected, we decided to migrate her business to [Shopify](https://shopify.com). *Why migrating to Shopify?* Because Shopify when compared to Etsy offered more control over pricing, store customization, and upselling opportunities, and also less transaction feed.
+This is a case study of Ella, a client that initially sold her beauty products on Etsy.
+
+She got in touch and when we connected, we decided to migrate her business to [Shopify](https://shopify.com).
+
+*Why migrating to Shopify?* Because Shopify when compared to Etsy offered more control over pricing, store customization, and upselling opportunities, and also less transaction feed.
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
 <div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/shopify-store-marketing-checklist" style="pointer-events: none">The Ultimate Shopify Store Marketing Checklist</a> which I wrote that covers all the things that you need to get started before launching an ecommerce business.</div>
 </div>
 
-Once Ella was onboarded to [Shopify](https://nikhil.pro/best-shopify-expert), and made the complete transition. Everything was set-up. From [Facebook Ads to Google ads to Klaviyo](https://nikhil.pro/shopify-store-marketing-checklist) emails and the next immediate step was to start running the paid ads on Facebook and Google Ads.
-
-I'm going to cover all the steps one by one.
+We onboarded her to Shopify and after the onboarding was completed, we started a few things for the brand and I'm going to cover all the steps one by one.
 
 ## Setup Google Merchant Center
 
-We started off with Google Merchant center. Because Google offers something called Free Listings where we can market the products on Google Shopping for free. It is beneficial to generate some good traffic on the store, and also to warm up the Facebook/Meta pixel that we will set-up in a while.
+We started off with Google Merchant center. Google offers something called **Free Listings** which let's the brand market the products on Google Shopping for free.
+
+Google Free Listing beneficial to generate some organic traffic on the store, to warm up the Facebook/Meta pixel that we will set-up in a while.
 
 ### Types of Google Ads:
 
@@ -40,16 +44,18 @@ We started off with Google Merchant center. Because Google offers something call
     
 2. Search Campaign.
     
+3. Performance Max (or PMax Campaign).
+    
 
-One of Google's gem is the [Google Merchant Center](https://merchants.google.com), it allows you to submit your products for free. Yes, you heard that right, free listings! No payment required to have your products displayed on Google. All you need to do is connect your Shopify store using the [Google Sales Channel](https://apps.shopify.com/google), and you're good to go.
+[Google Merchant Center](https://merchants.google.com) allows you to submit your products for free. Yes (free listings!) No payment required to have your products displayed on Google. All you need to do is connect your Shopify store using the [Google Sales Channel](https://apps.shopify.com/google), and you're good to go.
 
 ![Free Listings](https://community.shopify.com/c/image/serverpage/image-id/365674i9647DCD0D59CA6F3/image-size/large?v=v2&px=999 align="left")
 
-She experienced a jaw-dropping overall $15,000 in revenue from Google Free Product Listings alone, without spending a dime on ads.
+Do you see these listings? They are a part of Google Free Listings program.
+
+She got an overall $15,000 in revenue from Google Free Product Listings alone, without spending anything on ads. *(In 9 months)*
 
 It's incredible how Google can drive traffic your way without any ad expenditure.
-
-For those interested, you can sign up for Google Merchant Center and explore this opportunity.
 
 ---
 
