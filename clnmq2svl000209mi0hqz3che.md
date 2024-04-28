@@ -67,7 +67,9 @@ There is a subreddit called [r/FacebookAds](https://www.reddit.com/r/FacebookAds
 
 **April 2024** : Covered by [Bloomberg](https://www.bloomberg.com/news/articles/2024-04-10/meta-s-automated-advertising-system-is-on-the-fritz-marketers-say).
 
-**25th April 2024: <mark>Facebook Ads are now doing fine for all of my clients.</mark>**
+**25th April 2024: <mark>Facebook Ads are now doing normal for all of my clients.</mark>**
+
+**28th April 2024:** Story by [The Verge](https://www.theverge.com/2024/4/28/24141585/meta-ai-advantage-plus-automated-ad-glitch-cpm)
 
 If you look at the stats, you'll notice the same pattern: it started back in June 2023 and was resolved just before Q4. Then the issues started again in February 2024.
 
