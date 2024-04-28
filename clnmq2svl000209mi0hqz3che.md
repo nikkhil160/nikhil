@@ -73,6 +73,11 @@ If you look at the stats, you'll notice the same pattern: it started back in Jun
 
 It's safe to say that the issues started after Meta Lattice.
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">I'm conducting a complimentary Meta/Google ad account audit for anyone spending more than $5,000 in the United States, Canada, or the European market. <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none"><mark>Schedule an audit</mark></a></div>
+</div>
+
 ## **How to Fix Facebook Ads Performance in 2024?**
 
 There are multiple ways to fix the Facebook Ads performance in 2024, including from switching to ASC+ to using cost caps some of the possible fix are stated below
@@ -97,10 +102,11 @@ Try checking the ad frequency and make sure that your ads are not having a [crea
 
 Testing multiple ad copy can be a good idea that is working right now for a lot of advertisers, you should try testing multiple ad copies as well that can work for your business. Try multiple headlines, primary text and image/video creatives.
 
+* ### Get an Ad Account Audit
+    
+
+I'm conducting a complimentary Meta/Google ad account audit for anyone spending more than $5,000 in the United States, Canada, or the European market. [Schedule an audit](https://nikhil.pro/meeting)
+
 ## How to Check Facebook Ads Outrages?
 
 You can check Facebook Ads Outages on the [Facebook Ads](https://metastatus.com/) status page by Meta. The outrage history can also be checked by going to the [history page](https://metastatus.com/ads-manager/history).
-
-## Let me Audit your Ad Account!
-
-Hi! I'm Nikhil Sharma and I'm a freelance specialist in Meta and Google Ads. I have spent over 1M/USD last quarter. [Schedule a call](https://nikhil.pro/meeting) with me to explore possibilities.
