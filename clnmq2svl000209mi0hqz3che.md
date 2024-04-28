@@ -75,7 +75,7 @@ It's safe to say that the issues started after Meta Lattice.
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">I'm conducting a complimentary Meta/Google ad account audit for anyone spending more than $5,000 in the United States, Canada, or the European market. <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none"><mark>Schedule an audit</mark></a></div>
+<div data-node-type="callout-text">I'm conducting a complimentary Meta/Google ad account audit for anyone spending more than $10,000/month in the United States, Canada, or the European market. <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none"><mark>Schedule an audit</mark></a></div>
 </div>
 
 ## **How to Fix Facebook Ads Performance in 2024?**
