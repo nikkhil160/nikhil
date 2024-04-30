@@ -4,7 +4,7 @@ seoTitle: "Facebook / Meta Ads Strategy for Shopify Brands - May 2024"
 seoDescription: "Facebook / Meta Ads Strategy for Shopify Brands which includes the latest advertising changes in April 2024 and strategy for Meta's new Advantage+ Campaigns"
 datePublished: Tue Apr 30 2024 13:04:31 GMT+0000 (Coordinated Universal Time)
 cuid: clvmeh6w8000108l3enhi25jf
-slug: facebook-ads-strategy-for-shopify-brands
+slug: fb-ads-strategy-for-shopify-brands
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714481966882/3b8b7c4c-5756-47b8-98d3-b3382f1fa9da.png
 tags: facebook, shopify, facebookads, metads, divyansh-sharma, nikhilsharma, nikhil-pro
 
