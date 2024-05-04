@@ -4,7 +4,7 @@ datePublished: Fri May 03 2024 13:18:19 GMT+0000 (Coordinated Universal Time)
 cuid: clvqpaiig00060bjj2hdg68fq
 slug: 3x-to-23x-for-american-shopify-brand-case-study
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714740793820/04988fb6-ecd0-4613-b2d9-814cd9322fd2.png
-tags: google-ads, facebookads, metads, nikhilsharma
+tags: case-study, google-ads, facebookads, metads, nikhilsharma
 
 ---
 
