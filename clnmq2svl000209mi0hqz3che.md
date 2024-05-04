@@ -41,7 +41,9 @@ Multiple advertisers including Sean Frank from Ridge and David Herrmann from Her
 
 ### Widespread on Reddit
 
-There is a subreddit called [r/FacebookAds](https://www.reddit.com/r/FacebookAds/) on Reddit that has a ton of posts with regards to the instability of Meta Ads.
+There is a subreddit called [r/FacebookAds](https://www.reddit.com/r/DTCAds/) ( on Reddit that has a ton of posts related the instability of Meta Ads.
+
+Join [r/DTCAds](https://reddit.com/r/DTCAds) which I made exclusively for DTC Shopify brand-owners.
 
 ![Facebook Ads Not Performing in 2024](https://cdn.hashnode.com/res/hashnode/image/upload/v1709293319735/e0b00b6f-3c23-41f2-8867-60ec59373776.png align="center")
 
