@@ -15,12 +15,9 @@ What is happening? Everyone is trying to bang their head on the wall. Meta (form
 
 I was doing a fairly good ROAS until June, all my LAAs were working well, they used to give 10-12X ROAS on normal days, and used to get tons of engagements on my posts.
 
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text"><strong>Are you spending more than $10,000/mo? </strong>Let me <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none">audit</a> the ad account for you and explore possibilities.</div>
-</div>
+### **Why are Facebook Ads not performing in 2024?**
 
-**Why are Facebook Ads not performing in 2024?**  
+  
 There has been no official communication from Meta but everyone is saying that they are unstable after Facebook released its new Ad Delivery platform called [Meta Lattice](https://ai.meta.com/blog/ai-ads-performance-efficiency-meta-lattice/).
 
 ### **What is the issue with Facebook Ads?**
