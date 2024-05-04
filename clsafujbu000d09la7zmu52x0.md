@@ -1,7 +1,7 @@
 ---
 title: "$0 to $50,000 for a Beauty Brand using Meta & Google Ads [Case Study & Guide]"
-seoTitle: "Scaling Beauty E-Commerce Brand to 50K using Meta & Google Ads"
-seoDescription: "A guide on how to generate sales for Beauty Brand using Meta/Google ads, also covers Email Marketing and Google Merchant Center for Shopify"
+seoTitle: "Scaling Beauty E-Commerce Brand to $50K using Facebook & Google Ads"
+seoDescription: "A guide on how to generate sales for Beauty Brand using Facebook and Google ads, also covers Email Marketing and Google Merchant Center for Shopify"
 datePublished: Tue Feb 06 2024 14:10:32 GMT+0000 (Coordinated Universal Time)
 cuid: clsafujbu000d09la7zmu52x0
 slug: scaling-e-commerce-business-to-50k-using-paid-ads
