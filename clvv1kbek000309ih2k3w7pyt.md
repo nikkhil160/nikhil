@@ -2,7 +2,7 @@
 title: "Should You Use Facebook and Instagram Shops for Your Shopify Store?"
 datePublished: Mon May 06 2024 14:12:57 GMT+0000 (Coordinated Universal Time)
 cuid: clvv1kbek000309ih2k3w7pyt
-slug: should-you-use-facebook-and-instagram-shops-for-your-shopify-store
+slug: should-you-use-meta-and-instagram-shops-for-your-shopify-store
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715002297514/f8ca710f-84ec-41ab-ac34-dd4f261567cc.png
 tags: facebook, shopify, metads, nikhil-sharma
 
