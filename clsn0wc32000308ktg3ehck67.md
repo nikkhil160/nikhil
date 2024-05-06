@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Shopify Store Marketing Checklist"
-seoTitle: "Shopify Store Marketing for Your Brand [2024]"
-seoDescription: "This Shopify Marketing Checklist covers all the basics from Facebook Ads, Google Ads, Email Marketing to Heat-map, Tracking, Analytics and Customer Support"
+seoTitle: "Shopify Store Checklist for Your Brand [2024]"
+seoDescription: "A Shopify Store Checklist covers all the basics from Facebook Ads, Google Ads, Email Marketing to Heat-map, Tracking, Analytics and Customer Support"
 datePublished: Thu Feb 15 2024 09:33:02 GMT+0000 (Coordinated Universal Time)
 cuid: clsn0wc32000308ktg3ehck67
 slug: shopify-store-marketing-checklist
