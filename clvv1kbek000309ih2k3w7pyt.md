@@ -1,5 +1,7 @@
 ---
 title: "Should You Use Facebook and Instagram Shops for Your Shopify Store?"
+seoTitle: "Facebook and Instagram Shop vs Own Shopify Checkout"
+seoDescription: "Should you use Facebook and Instagram Shop or have your own checkout on Shopify? This article discusses everything you need to know about own checkout"
 datePublished: Mon May 06 2024 14:12:57 GMT+0000 (Coordinated Universal Time)
 cuid: clvv1kbek000309ih2k3w7pyt
 slug: should-you-use-meta-and-instagram-shops-for-your-shopify-store
