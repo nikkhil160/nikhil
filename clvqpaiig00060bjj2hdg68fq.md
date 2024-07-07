@@ -1,8 +1,9 @@
 ---
 title: "How I Increased ROAS from 3X to 23X for a North American Shopify brand [Case Study]"
+seoTitle: "23X Return for an American Shopify Brand using Facebook and Google Ads"
 datePublished: Fri May 03 2024 13:18:19 GMT+0000 (Coordinated Universal Time)
 cuid: clvqpaiig00060bjj2hdg68fq
-slug: 3x-to-23x-for-american-shopify-brand-case-study
+slug: american-shopify-brand-case-study
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714740793820/04988fb6-ecd0-4613-b2d9-814cd9322fd2.png
 tags: case-study, google-ads, facebookads, metads, nikhilsharma
 
