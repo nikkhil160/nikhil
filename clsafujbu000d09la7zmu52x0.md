@@ -27,7 +27,7 @@ She got in touch and when we connected, we decided to migrate her business to [S
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/shopify-store-marketing-checklist" style="pointer-events: none">The Ultimate Shopify Store Marketing Checklist</a> which I wrote that covers all the things that you need to get started before launching an ecommerce business.</div>
+<div data-node-type="callout-text">If you are just starting up, you should read the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.amazon.com/dp/B0CW18S5VB" style="pointer-events: none">The Ultimate Shopify Store Marketing Checklist</a> which I wrote that covers all the things that you need to get started before launching an ecommerce business.</div>
 </div>
 
 We onboarded her to Shopify and after the onboarding was completed, we started a few things for the brand and I'm going to cover all the steps one by one.
@@ -47,9 +47,9 @@ Now you must be thinking what are cold and hot audiences?
 
 ![](https://miro.medium.com/v2/resize:fit:1400/0*1VUflsh3yvgNHI5P align="left")
 
-*Credit:* [*Tamie Mat*](https://www.linkedin.com/in/revenyou/)[*thews*](https://www.linkedin.com/in/revenyou/) */ LinkedIn*
+*Credit:*[*Tamie Matthews*](https://www.linkedin.com/in/revenyou/)*/ LinkedIn*
 
-This chart by Tamie can be helpful for you to understand what it really is, he has published a [detailed post](https://www.linkedin.com/pulse/cold-warm-hot-how-you-topping-up-your-funnel-ready-opening-tamie/) [on it as wel](https://www.linkedin.com/pulse/cold-warm-hot-how-you-topping-up-your-funnel-ready-opening-tamie/)l. It is a part of ***funelling*** which you can read if you are interested.
+This chart by Tamie can be helpful for you to understand what it really is, he has published a [detailed poston it as wel](https://www.linkedin.com/pulse/cold-warm-hot-how-you-topping-up-your-funnel-ready-opening-tamie/)l. It is a part of ***funelling*** which you can read if you are interested.
 
 Getting back, you need to diversify as much as you can for your marketing efforts. ‘*Never Put All Eggs In One Basket’*.
 
