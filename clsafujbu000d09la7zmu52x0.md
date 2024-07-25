@@ -32,11 +32,40 @@ She got in touch and when we connected, we decided to migrate her business to [S
 
 We onboarded her to Shopify and after the onboarding was completed, we started a few things for the brand and I'm going to cover all the steps one by one.
 
+## **Funnelling & Diversification**
+
+My strategy has always been to diversify as much as we can.
+
+* Use Google Merchant Center for cold audience
+    
+* Use Facebook Ads for cold and hot audience
+    
+* Use Emails for cold and hot audience
+    
+
+Now you must be thinking what are cold and hot audiences?
+
+![](https://miro.medium.com/v2/resize:fit:1400/0*1VUflsh3yvgNHI5P align="left")
+
+*Credit:* [*Tamie Mat*](https://www.linkedin.com/in/revenyou/)[*thews*](https://www.linkedin.com/in/revenyou/) */ LinkedIn*
+
+This chart by Tamie can be helpful for you to understand what it really is, he has published a [detailed post](https://www.linkedin.com/pulse/cold-warm-hot-how-you-topping-up-your-funnel-ready-opening-tamie/) [on it as wel](https://www.linkedin.com/pulse/cold-warm-hot-how-you-topping-up-your-funnel-ready-opening-tamie/)l. It is a part of ***funelling*** which you can read if you are interested.
+
+Getting back, you need to diversify as much as you can for your marketing efforts. ‘*Never Put All Eggs In One Basket’*.
+
+Think about your customer persona and start the customer journey and see if they are a cold audience, warm audience or a HOT audience and place your ads accordingly.
+
+***For example:*** Jeff who is an HOT audience because he has already bought from you may want to see your latest collection,
+
+**BUT** Elena who is a completely new audience may want to know more about your shipping policies or return policies or anything else to have that trust.
+
+So the point is that you have to display different ads to different audiences so that you can make the most out of your budget.
+
 ## Setup Google Merchant Center
 
-We started off with Google Merchant center. Google offers something called **Free Listings** which let's the brand market the products on Google Shopping for free.
+We started off with Google Merchant center. Google offers something called **Free Listings** which let's [the brand mark](https://www.linkedin.com/in/revenyou/)et the products on Google Shopping for free.
 
-Google Free Listing beneficial to generate some organic traffic on the store, to warm up the Facebook/Meta pixel that we will set-up in a while.
+Google Free Listing beneficial to generate some organic tra[ffic on the s](https://www.linkedin.com/pulse/cold-warm-hot-how-you-topping-up-your-funnel-ready-opening-tamie/)tore, to warm up the Facebook/Meta pixel that we will set-up in a while.
 
 ### Types of Google Ads:
 
@@ -97,7 +126,7 @@ In a world where AI is taking center stage, companies like Meta and Google are g
 
 ### Facebook Ads checklist:
 
-So, we embarked on onboarding Ella to Facebook Ads, and we did the groundwork:
+We embarked on onboarding Ella to Facebook Ads, and we did the groundwork:
 
 1. Set up a product feed.
     
@@ -145,7 +174,7 @@ So, what were we missing? We realized that there was still room to generate more
 
 Given the variety of orders pouring in, we also had the opportunity to collect emails from customers and encourage opt-ins.
 
-So, we decided to initiate cold email campaigns using Klaviyo. We opted for the free plan, which provided us with 250 emails per month – a good starting point to test the waters.
+We decided to initiate cold email campaigns using Klaviyo. We opted for the free plan, which provided us with 250 emails per month – a good starting point to test the waters.
 
 ## Setup Klaviyo for Email Marketing
 
