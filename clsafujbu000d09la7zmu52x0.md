@@ -109,7 +109,7 @@ With the Google Shopping Campaign up and running successfully, we had two source
 2. **Google Shopping Paid.**
     
 
-![ Spent 245 to get 2.41K back ](https://community.shopify.com/c/image/serverpage/image-id/365686iBE6F5B9FD6236037/image-size/large?v=v2&px=999 align="left")
+![ Spent 245 to get 2.41K back ](https://cdn.hashnode.com/res/hashnode/image/upload/v1724825664924/e001bf3f-7099-42b2-b6ec-b135f9b41c06.png align="center")
 
 Now, it was time to look ahead.
 
@@ -157,7 +157,7 @@ Some days were incredibly successful, with a cost per sale as low as $1. Our cam
 * Lookalike Audience based on video views and page views combined ($5).
     
 
-![Facebook ROAS](https://community.shopify.com/c/image/serverpage/image-id/365676i42F44066964402D8/image-size/large?v=v2&px=999 align="left")
+![Facebook ROAS](https://cdn.hashnode.com/res/hashnode/image/upload/v1724825677948/f1632d2d-a7fa-4873-b12a-f298727320fa.png align="center")
 
 **Results?** Facebook where she spent 1.4k and got 8.2K back (tracked)
 
