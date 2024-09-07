@@ -1,6 +1,6 @@
 ---
 title: "Track Calendly Meeting on Google Ads"
-seoTitle: "Easiest Way to Track Calendly Meetings on Google Ads using GA-4 events"
+seoTitle: "Easiest Way to Track Calendly Meetings on Google Ads"
 seoDescription: "Track Calendly Meeting and Conversions on Google Ads using Google Analytics events, without using a Thank You redirection page."
 datePublished: Mon Apr 15 2024 14:54:07 GMT+0000 (Coordinated Universal Time)
 cuid: clv12sdbl000108l2dlerf6b7
