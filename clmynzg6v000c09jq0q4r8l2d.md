@@ -1,9 +1,10 @@
 ---
-title: "Is Your Shopify Store Set to Hit a Million [$1,000,000] Revenue?"
-seoDescription: "Is your Shopify store geared up to seize 1 million in revenue this Q4? Follow these strategies for Q4 e-commerce success: Meta's ad, Google Shopping Ads."
+title: "How to Make $1 Million in Shopify D2C revenue using Facebook and Google Ads"
+seoTitle: "How to Make $1 Million in Shopify D2C revenue using Facebook & Google"
+seoDescription: "A guide on how to make $1 million in Shopify D2C using Facebook Ads, Google Ads and Email Marketing."
 datePublished: Mon Sep 25 2023 09:06:32 GMT+0000 (Coordinated Universal Time)
 cuid: clmynzg6v000c09jq0q4r8l2d
-slug: 1-million-shopify-revenue
+slug: 1-million-revenue-shopify
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/nGc5RT2HmF0/upload/91885e0ac96b0dbbd50826403a855a1e.jpeg
 tags: shopify, facebookads, googleads, d2c
 
