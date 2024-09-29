@@ -1,6 +1,6 @@
 ---
 title: "Facebook / Meta Ads Performance Issue 2024"
-seoTitle: "Facebook / Meta Ads Performance Issue 2024"
+seoTitle: "How to Fix Facebook Ads not working in 2024? Full Guide"
 seoDescription: "Are Facebook Ads not performing in 2024? Is it just for you of everyone else is facing the same. This article outlines the performance issues and tracking"
 datePublished: Thu Oct 12 2023 05:11:36 GMT+0000 (Coordinated Universal Time)
 cuid: clnmq2svl000209mi0hqz3che
