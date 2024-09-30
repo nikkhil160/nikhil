@@ -1,6 +1,6 @@
 ---
-title: "How I Increased ROAS from 3X to 23X for a North American Shopify brand [Case Study]"
-seoTitle: "23X Return for an American Shopify Brand using Facebook and Google Ads"
+title: "How I Increased ROAS from 3X to 23X for a Texas Based Shopify brand [Case Study]"
+seoTitle: "23X Return for an Texas Shopify Brand using Facebook and Google Ads"
 datePublished: Fri May 03 2024 13:18:19 GMT+0000 (Coordinated Universal Time)
 cuid: clvqpaiig00060bjj2hdg68fq
 slug: american-shopify-brand-case-study
