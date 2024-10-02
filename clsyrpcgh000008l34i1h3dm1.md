@@ -85,8 +85,8 @@ CLTV = (Average profit per transaction x Number of transactions per period x Ave
 
 Monitoring key performance indicators (KPIs) is very important for the success of your e-commerce business, whether you're analyzing website performance, paid ads, or email marketing campaigns. By focusing on crucial metrics like conversion rate, cart abandonment rate, average order value, return on ad spend (ROAS), click-through rate (CTR), and email open rate, you can gain valuable insights into the effectiveness of your strategies.
 
-## Let me babysit your ads?
+## Let me handle your ads?
 
-Hi. I'm Nikhil. I'm a paid ads babysitter that can take care of your ads when you are away. Grow them and scale them. Just like you I will take care of them like a baby.
+Hi. I'm Nikhil. I'm a paid ads strategist that can take care of your ads when you are away. Grow them and scale them.
 
 [Schedule a call](https://nikhil.pro/meeting) and we can discuss more about it.
