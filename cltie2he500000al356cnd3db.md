@@ -54,3 +54,7 @@ Who should purchase the '***The Ultimate Shopify Store Marketing Checklist'?****
     
 
 The ***The Ultimate Shopify Store Marketing Checklist*** is available to purchase on [Amazon](https://nikhil.pro/book), Rakuten Kobo, Google Books and all other major retailers.
+
+I have also translated the book in German and published it as *Die Ultimative Shopify-Shop-Marketing-Checkliste: VON 0 $ BIS 50.000 $*
+
+You can get the German book from [Amazon](https://www.amazon.de/-/en/gp/aw/d/B0DJDKJKNW/ref=tmm_pap_swatch_0?ie=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.ixObgFf6aiLCwPm1pP-a8oayQvjjQ5Bmav_tv3THbfEYOgXQYuKSAUTEkho0OqOOfrpxEB21IrYaAc3pcUDynYZK2I6y21Z5oyC8YUti0qsXzyJzCUyr8i8SNwjdFTkmNT82UZt-Q4THU94_2nBQhCIDdj-XxDqKtqh3CL7pzmjs89HI70HX_3gnTD8TX2SejoQ6ZfaAiYdhibJMxppQ2Q.KY159xP4BNSP_6O5SP8KcoXx_jQGcG0sSj1JxJculhw&qid=1727929000&sr=8-2) - available in Paperback and Kindle
