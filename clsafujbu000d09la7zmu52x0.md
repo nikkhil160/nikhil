@@ -205,6 +205,6 @@ That's how we had our email marketing strategy in place.
 
 Currently, our focus is on scaling Ella's business to reach the next milestone of $500,000. While she manages the supply chain, we're diving deeper into marketing strategies.
 
-## Grow your Brand with Nikhil Sharma
+## Grow your Shopify brand with me
 
-Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://nikhil.pro/meeting) with him to explore how he can support your brand further.
+I am ready to assist you in boosting your brand's business. [Schedule a call](https://nikhil.pro/meeting) with me.
