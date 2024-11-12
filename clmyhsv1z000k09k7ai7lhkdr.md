@@ -1,6 +1,7 @@
 ---
 title: "What I Learnt From Sourcing E-Commerce Products From China"
-seoDescription: "I sourced some e-commerce product for my shopify based e-commerce products and here is what I learnt from dealing with the suppliers. You should too!"
+seoTitle: "Things to Keep in Mind when Importing Products from China [Guide]"
+seoDescription: "Things you should keep in mind when importing products from China for your Shopify store, Nikhil Sharma’s guide including past experiences"
 datePublished: Sun Sep 03 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmyhsv1z000k09k7ai7lhkdr
 slug: what-i-learnt-from-sourcing-e-commerce-products-from-china
