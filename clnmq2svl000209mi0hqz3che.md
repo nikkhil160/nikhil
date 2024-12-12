@@ -1,7 +1,7 @@
 ---
-title: "Facebook / Meta Ads Performance Issue 2024"
-seoTitle: "How to Fix Facebook Ads not working in 2024? Full Guide"
-seoDescription: "Are Facebook Ads not performing in 2024? Is it just for you of everyone else is facing the same. This article outlines the performance issues and tracking"
+title: "Facebook / Meta Ads Performance Issue 2025"
+seoTitle: "How to Fix Facebook Ads not working in 2025? Full Guide"
+seoDescription: "Are Facebook Ads not performing in 2025? Is it just for you of everyone else is facing the same. This article outlines the performance issues and tracking"
 datePublished: Thu Oct 12 2023 05:11:36 GMT+0000 (Coordinated Universal Time)
 cuid: clnmq2svl000209mi0hqz3che
 slug: facebook-ads-not-performing-2024
@@ -15,9 +15,8 @@ What is happening? Everyone is trying to bang their head on the wall. Meta (form
 
 I was doing a fairly good ROAS until June, all my LAAs were working well, they used to give 10-12X ROAS on normal days, and used to get tons of engagements on my posts.
 
-### **Why are Facebook Ads not performing in 2024?**
+### **Why are Facebook Ads not performing in 2025?**
 
-  
 There has been no official communication from Meta but everyone is saying that they are unstable after Facebook released its new Ad Delivery platform called [Meta Lattice](https://ai.meta.com/blog/ai-ads-performance-efficiency-meta-lattice/).
 
 ### **What is the issue with Facebook Ads?**
@@ -73,7 +72,7 @@ It's safe to say that the issues started after Meta Lattice.
 <div data-node-type="callout-text">I'm conducting a complimentary Meta/Google ad account audit for anyone spending more than $10,000/month in the United States, Canada, or the European market. <a target="_blank" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none"><mark>Schedule an audit</mark></a></div>
 </div>
 
-## **How to Fix Facebook Ads Performance in 2024?**
+## **How to Fix Facebook Ads Performance in 2025?**
 
 There are multiple ways to fix the Facebook Ads performance in 2024, including from switching to ASC+ to using cost caps some of the possible fix are stated below
 
