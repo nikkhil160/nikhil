@@ -1,6 +1,6 @@
 ---
 title: "Generate Leads for Real Estate Business using Meta/Google Ads [Case Study]"
-seoTitle: "How I made $15,000 for a Real Estate Business using Facebook Ads"
+seoTitle: "How I made $15,000 for a Real Estate Business using Meta & Google Ads"
 seoDescription: "A case study on how I made $15,000 for an American Real Estate Business using Facebook Ads, Google Ads and Calendly."
 datePublished: Wed Feb 28 2024 13:37:15 GMT+0000 (Coordinated Universal Time)
 cuid: clt5uch8h000109jvdbhkdhiv
