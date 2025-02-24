@@ -1,7 +1,7 @@
 ---
 title: "How to Run Facebook Ads for Bakery"
-seoTitle: "How to Run Facebook Ads for Bakery"
-seoDescription: "A guide on Running Facebook / Meta ads for a bakery. Includes a beginner friendly guide."
+seoTitle: "How to Run Facebook Ads for Bakery / Cookie Business"
+seoDescription: "A guide on Running Facebook / Meta ads for a bakery or a cookie business. Includes a beginner friendly guide."
 datePublished: Fri Feb 02 2024 09:22:10 GMT+0000 (Coordinated Universal Time)
 cuid: cls4fsar500030al3ezo1h4pr
 slug: run-paid-ads-for-bakery
