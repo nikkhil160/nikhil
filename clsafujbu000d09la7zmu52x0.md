@@ -5,7 +5,7 @@ seoDescription: "A guide on how to run Facebook / Google Ads for a Beauty Shopif
 datePublished: Tue Feb 06 2024 14:10:32 GMT+0000 (Coordinated Universal Time)
 cuid: clsafujbu000d09la7zmu52x0
 slug: scaling-e-commerce-business-to-50k-using-paid-ads
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707228612200/81df5162-6008-4ccc-839d-912a9795f946.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741173710276/368da8a0-8b09-48c3-927d-4e64de9a3f03.png
 tags: case-study
 
 ---
