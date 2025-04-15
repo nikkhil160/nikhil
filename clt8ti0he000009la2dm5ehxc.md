@@ -94,6 +94,19 @@ While Shopify Magic can make transform product images and provide data driven in
 
 Yes, Ai can save you a lot of time in customer support and product management for your Shopify store. You should install the apps given in the list.
 
+---
+
+## Bonus Tool: OddMento
+
+While not an AI tool, **OddMento** deserves a mention as a **Bonus Tool** if you're focused on conversions.
+
+**OddMento** runs a **Shopify CRO Audit**—helping you find exactly where your store is leaking revenue.  
+It identifies friction points in your customer journey and gives you a clear path to increase your conversion rate.
+
+Built by [Nikhil Sharma](https://nikhil.pro/about), OddMento is ideal for store owners who already have traffic but aren’t seeing the sales they should.
+
+👉 [Learn more about OddMento](https://oddmento.com)
+
 ## Grow your Brand with Nikhil Sharma
 
 Nikhil Sharma, a freelance specialist in Meta and Google Ads, is ready to assist you in boosting your brand's business. [Schedule a call](https://calendly.com/nikhil-pro/30min?utm_source=babysitter_ads_new&utm_medium=nikhil.pro&utm_campaign=free&month=2022-08) with him to explore how he can support your brand further.
