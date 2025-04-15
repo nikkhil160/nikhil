@@ -105,7 +105,10 @@ It identifies friction points in your customer journey and gives you a clear pat
 
 Built by [Nikhil Sharma](https://nikhil.pro/about), OddMento is ideal for store owners who already have traffic but aren’t seeing the sales they should.
 
-👉 [Learn more about OddMento](https://oddmento.com)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><a target="_new" rel="noopener" class="" href="https://oddmento.com" style="pointer-events: none">Learn more about OddMento</a></div>
+</div>
 
 ## Grow your Brand with Nikhil Sharma
 
