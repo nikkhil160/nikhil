@@ -80,6 +80,43 @@ While ChatGPT itself doesn’t yet provide detailed analytics, you can monitor:
 * **Performance data** inside Klarna, Criteo, or Shopify dashboards
     
 
+### Make Sure Your Site Is Discoverable by ChatGPT
+
+Before your products can show up in ChatGPT’s shopping results, they need to be *discoverable*. That starts with making sure your site isn’t blocking OpenAI’s web crawler — **OAI-SearchBot**.
+
+Think of OAI-SearchBot like Googlebot, but for ChatGPT. It crawls websites to index content for ChatGPT’s search experiences — especially shopping and product results.
+
+If your site is blocking it (even unintentionally), your products won’t be surfaced.
+
+#### What to do:
+
+* **Check your** `robots.txt` file.  
+    Make sure it doesn’t block OAI-SearchBot. If needed, explicitly allow it:
+    
+
+User-agent: OAI-SearchBot
+
+Allow: /
+
+* **Track traffic.**  
+    ChatGPT adds `utm_source=`[`chatgpt.com`](http://chatgpt.com) to outbound links. That means you can track referral traffic in Google Analytics or other platforms.
+    
+* **Rest assured:**  
+    OAI-SearchBot is only used to power search. It does **not** crawl your site for training OpenAI’s models.
+    
+
+Letting OAI-SearchBot in is step zero if you want your products to show up where people are actively shopping and searching in ChatGPT.
+
+---
+
+### Does ChatGPT support Shopify product feeds?
+
+**Not yet** — but they’re working on it.
+
+Right now, there’s no way to submit a feed (like a product XML or Google Merchant feed) directly to OpenAI. Instead, ChatGPT relies on what’s already publicly available on the web, using OAI-SearchBot to discover and index content.
+
+That’s why having well-structured product pages and an open `robots.txt` is crucial.
+
 ---
 
 ## Who Sees Your Products?
