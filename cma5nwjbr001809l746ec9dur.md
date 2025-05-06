@@ -24,18 +24,18 @@ ChatGPT is no longer just a chatbot—it's quickly becoming a **product discover
 
 ChatGPT surfaces real-time shopping results by partnering with **third-party product data providers**, including:
 
-* **Shopify**
+* [**Shopify**](https://shopify.com/)
     
-* **Klarna**
+* [**Klarna**](https://klarna.com)
     
-* **Instacart**
+* [**Instacart**](https://www.instacart.com/)
     
-* **Criteo**
+* [**Criteo**](https://www.criteo.com/)
     
 * And more coming soon
     
 
-These integrations let ChatGPT display product titles, prices, availability, images, and direct purchase links inside search responses.
+These integrations let ChatGPT display product titles, prices, availability, images, and direct purchase links inside search responses **they do not require additional support**.
 
 ---
 
@@ -47,10 +47,10 @@ Make sure your store is connected to a supported platform or product syndication
 
 * **Shopify** (with feeds connected to Klarna or Criteo)
     
-* **Klarna** or **Criteo** merchant networks
+* [**Klarna**](https://klarna.com) or [**Criteo**](https://www.criteo.com/) merchant networks
     
 
-> If you're using Shopify, look into your Klarna or Criteo integrations to confirm that your product feed is active and syndicating properly.
+> If you're using Shopify, look into your Klarna or Criteo integrations to confirm that your product feed is active and syndicating properly or check the robots.txt.
 
 ---
 
@@ -67,6 +67,11 @@ Since ChatGPT uses real-time data, your product feed must be:
 
 This ensures the AI presents your listings correctly and persuasively to potential buyers.
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">You can use judge.me as a review platform to show the reviews on ChatGPT</div>
+</div>
+
 ---
 
 ### 3\. Track Performance
@@ -79,6 +84,11 @@ While ChatGPT itself doesn’t yet provide detailed analytics, you can monitor:
     
 * **Performance data** inside Klarna, Criteo, or Shopify dashboards
     
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">You can use Google Analytics to sort the traffic and sales by the ChatGPT UTM link</div>
+</div>
 
 ### 4\. Make Sure Your Site Is Discoverable by ChatGPT
 
@@ -111,6 +121,12 @@ Letting OAI-SearchBot in is step zero if you want your products to show up where
 
 ---
 
+## How to Show Products Reviews on ChatGPT
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746513372586/56dad149-e205-4680-8457-57c1c8aa485f.png align="center")
+
+Use an app like [Judge.me](https://judge.me) to show your product reviews on ChatGPT.
+
 ### Does ChatGPT support Shopify product feeds?
 
 **Not yet** — but they’re working on it.
@@ -123,7 +139,7 @@ That’s why having well-structured product pages and an open `robots.txt` is cr
 
 ## Who Sees Your Products?
 
-This feature is currently available to **ChatGPT Plus** users with **browsing enabled (GPT-4-turbo)**. As the rollout continues, more visibility is expected across platforms.
+This feature is currently available to everyone with **browsing enabled (GPT-4-turbo)**. As the rollout continues, more visibility is expected across platforms.
 
 ---
 
@@ -133,4 +149,4 @@ This feature is currently available to **ChatGPT Plus** users with **browsing en
     
 * Use high-quality images and SEO-friendly product names.
     
-* Monitor results and refine your product titles/descriptions based on performance.
+* Monitor results using Google Analytics and refine your product titles/descriptions based on performance.
