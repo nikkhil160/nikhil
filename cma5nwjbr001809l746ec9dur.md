@@ -80,7 +80,7 @@ While ChatGPT itself doesn’t yet provide detailed analytics, you can monitor:
 * **Performance data** inside Klarna, Criteo, or Shopify dashboards
     
 
-### Make Sure Your Site Is Discoverable by ChatGPT
+### 4\. Make Sure Your Site Is Discoverable by ChatGPT
 
 Before your products can show up in ChatGPT’s shopping results, they need to be *discoverable*. That starts with making sure your site isn’t blocking OpenAI’s web crawler — **OAI-SearchBot**.
 
@@ -94,9 +94,11 @@ If your site is blocking it (even unintentionally), your products won’t be sur
     Make sure it doesn’t block OAI-SearchBot. If needed, explicitly allow it:
     
 
+```plaintext
 User-agent: OAI-SearchBot
 
 Allow: /
+```
 
 * **Track traffic.**  
     ChatGPT adds `utm_source=`[`chatgpt.com`](http://chatgpt.com) to outbound links. That means you can track referral traffic in Google Analytics or other platforms.
