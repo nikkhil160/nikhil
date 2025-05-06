@@ -3,7 +3,7 @@ title: "How to Get Your Products Featured in ChatGPT Shopping Results"
 datePublished: Thu May 01 2025 17:51:53 GMT+0000 (Coordinated Universal Time)
 cuid: cma5nwjbr001809l746ec9dur
 slug: get-your-products-featured-in-chatgpt-shopping-results
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746121861598/a70e3522-9c7f-4c91-92d8-29bd38c70ea3.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746513517190/5ac3b449-31ed-4056-a10d-f5e736fca537.png
 tags: shopify, chatgpt
 
 ---
@@ -123,9 +123,9 @@ Letting OAI-SearchBot in is step zero if you want your products to show up where
 
 ## How to Show Products Reviews on ChatGPT
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746513372586/56dad149-e205-4680-8457-57c1c8aa485f.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746513462672/10aca57a-854a-4e5b-b09c-4344d298bcad.png align="center")
 
-Use an app like [Judge.me](https://judge.me) to show your product reviews on ChatGPT.
+You can use an app like [Judge.me](https://judge.me) to show your product reviews on ChatGPT.
 
 ### Does ChatGPT support Shopify product feeds?
 
