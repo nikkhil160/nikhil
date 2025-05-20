@@ -41,7 +41,7 @@ These integrations let ChatGPT display product titles, prices, availability, ima
 
 ---
 
-## How to Get Your Products Listed
+## How to Get Your Products Listed on ChatGPT
 
 ### 1\. Use a Supported Platform
 
