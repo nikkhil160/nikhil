@@ -152,3 +152,6 @@ This feature is currently available to everyone with **browsing enabled (GPT-4-t
 * Use high-quality images and SEO-friendly product names.
     
 * Monitor results using Google Analytics and refine your product titles/descriptions based on performance.
+    
+
+[https://youtu.be/8KVkPt1zvak](https://youtu.be/8KVkPt1zvak?feature=shared)
