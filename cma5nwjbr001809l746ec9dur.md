@@ -154,8 +154,8 @@ This feature is currently available to everyone with **browsing enabled (GPT-4-t
 * Monitor results using Google Analytics and refine your product titles/descriptions based on performance.
     
 
-## 🎥 Watch the Video
+## Watch the Video
 
 Check out the video on YouTube:
 
-[![YouTube Video](https://img.youtube.com/vi/8KVkPt1zvak/hqdefault.jpg align="left")](https://youtu.be/8KVkPt1zvak)
+%[https://youtu.be/8KVkPt1zvak]
