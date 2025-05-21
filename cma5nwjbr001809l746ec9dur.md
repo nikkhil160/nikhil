@@ -41,6 +41,11 @@ These integrations let ChatGPT display product titles, prices, availability, ima
 
 ---
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Need help with displaying your products on ChatGPT? <a target="_self" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none">Book a consultation</a></div>
+</div>
+
 ## How to Get Your Products Listed on ChatGPT
 
 ### 1\. Use a Supported Platform
