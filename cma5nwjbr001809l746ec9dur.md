@@ -1,6 +1,6 @@
 ---
 title: "How to Get Your Products Featured in ChatGPT Shopping Results"
-seoTitle: "List Your Shopify Products on ChatGPT - Easiest Way"
+seoTitle: "List Your Shopify Products on ChatGPT"
 seoDescription: "Easy guide on how to list your Shopify products on ChatGPT Shopping with no tools and additional applications required"
 datePublished: Thu May 01 2025 17:51:53 GMT+0000 (Coordinated Universal Time)
 cuid: cma5nwjbr001809l746ec9dur
