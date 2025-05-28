@@ -1,7 +1,7 @@
 ---
 title: "$0 to $50,000 for a Beauty Brand using Meta & Google Ads [Case Study & Guide]"
 seoTitle: "How to Run Facebook / Google Ads for A Beauty Shopify Brand - $100K"
-seoDescription: "A guide on how to run Facebook / Google Ads for a Beauty Shopify / DTC brand including Klaviyo for Emails and Automation Flows - by Nikhil Sharma"
+seoDescription: "Learn how a beauty-focused Shopify brand achieved $50K/month in revenue through strategic Facebook and Google Ads campaigns, complemented by Klaviyo emails"
 datePublished: Tue Feb 06 2024 14:10:32 GMT+0000 (Coordinated Universal Time)
 cuid: clsafujbu000d09la7zmu52x0
 slug: scaling-e-commerce-business-to-50k-using-paid-ads
