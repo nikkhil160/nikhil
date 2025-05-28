@@ -1,5 +1,5 @@
 ---
-title: "$0 to $50,000 for a Beauty Brand using Meta & Google Ads [Case Study & Guide]"
+title: "From $0 to $50K/Month: Facebook & Google Ads Breakdown for a Beauty E-Commerce Brand"
 seoTitle: "Scaling a Beauty Shopify Brand to $50K/Month with Facebook & Google Ad"
 seoDescription: "Learn how a beauty-focused Shopify brand achieved $50K/month in revenue through strategic Facebook and Google Ads campaigns, complemented by Klaviyo emails"
 datePublished: Tue Feb 06 2024 14:10:32 GMT+0000 (Coordinated Universal Time)
