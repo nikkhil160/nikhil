@@ -5,7 +5,6 @@ seoDescription: "Learn how a beauty-focused Shopify brand achieved $50K/month in
 datePublished: Tue Feb 06 2024 14:10:32 GMT+0000 (Coordinated Universal Time)
 cuid: clsafujbu000d09la7zmu52x0
 slug: beauty-shopify-ads-strategy
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741173710276/368da8a0-8b09-48c3-927d-4e64de9a3f03.png
 tags: case-study
 
 ---
