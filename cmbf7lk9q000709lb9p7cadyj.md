@@ -1,8 +1,8 @@
 ---
-title: "How We Scaled a Shopify D2C Brand to $145K Without Discounts or Agencies"
+title: "How We Scaled a Shopify D2C Brand to $145K with ChatGPT and Meta Ads"
 datePublished: Mon Jun 02 2025 14:52:51 GMT+0000 (Coordinated Universal Time)
 cuid: cmbf7lk9q000709lb9p7cadyj
-slug: scaling-shopify-d2c-145k
+slug: scaling-shopify-d2c-145k-chatgpt-metads
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748875958104/e3e7a4e2-2b5a-4f1b-b593-a0320381fb35.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748875928341/16e58f02-2587-45f4-a91b-b4f6d456e3bd.png
 tags: google, shopify, chatgpt, meta-ads
