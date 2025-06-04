@@ -219,17 +219,17 @@ You don’t need to spend $10K/month on media or hire an agency to scale. You ne
 
 ## Related Reading
 
-* 📘 [Scaling Shopify Stores Without Agencies](https://nikhil.pro/posts/scaling-shopify-without-agencies)
+* 📘 [**How to Get Your Products Featured in ChatGPT Shopping Results**](https://nikhil.pro/list-products-on-chatgpt)
     
-* 📬 [How to Build Klaviyo Flows That Actually Convert](https://nikhil.pro/posts/klaviyo-email-flows)
+* [📬](https://nikhil.pro/list-products-on-chatgpt)[**How I Increased ROAS from 3X to 23X for a Texas Based Shopify brand \[Case Study\]**](https://nikhil.pro/american-shopify-brand-case-study)
     
-* 🤖 [Why Your Shopify Store Should Be Optimized for ChatGPT](https://nikhil.pro/posts/shopify-chatgpt-optimization)
+* [🤖](https://nikhil.pro/american-shopify-brand-case-study) [**5 AI Tools That Every Shopify Store Should Have**](https://nikhil.pro/ai-tools-for-shopify-store)
     
 
 ---
 
-## Want to Build This for Your Brand?
+## [Want to Build This for Your Brand?](https://nikhil.pro/ai-tools-for-shopify-store)
 
-If you're a founder or operator and want to build this kind of lean system for your D2C brand, let's talk.
+If you're a Shopify Business-owner and want to build this kind of lean system for your D2C brand, let's talk.
 
 👉 [Book a 1:1 consultation](https://nikhil.pro/meeting)
