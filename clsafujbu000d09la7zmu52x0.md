@@ -1,6 +1,6 @@
 ---
-title: "How to Scale a Beauty Brand using Paid Ads"
-seoTitle: "Scale a Beauty Shopify Brand [Guide]"
+title: "How to Scale a Skincare Beauty Brand using Paid Ads"
+seoTitle: "How to Scale a Skincare Beauty Brand using Meta Ads [Guide]"
 seoDescription: "Learn how a beauty-focused Shopify brand achieved $50K/month in revenue through strategic Facebook and Google Ads campaigns, complemented by Klaviyo emails"
 datePublished: Tue Feb 06 2024 14:10:32 GMT+0000 (Coordinated Universal Time)
 cuid: clsafujbu000d09la7zmu52x0
