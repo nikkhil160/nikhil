@@ -1,8 +1,8 @@
 ---
-title: "Create UGC for Facebook & Google Ads with ChatGPT & Google Veo [Prompts Guide]"
+title: "Create UGC for Facebook & Google Ads with ChatGPT Sora & Google Veo [Prompts Guide]"
 datePublished: Mon Jul 07 2025 09:58:22 GMT+0000 (Coordinated Universal Time)
 cuid: cmcsxho2c000002lfbx465xpx
-slug: make-ai-ugc-using-chatgpt-veo
+slug: make-ai-ugc-using-chatgpt-sora-veo
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5eF4FPy4SjQ/upload/728b150bf88956e5595ea7a1f18dc4d2.jpeg
 tags: ai, shopify, facebook-ads, google-ads, ugc
 
@@ -39,7 +39,7 @@ Here are some images that I have created using ChatGPT’s SORA
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752423613424/3cae1410-de8e-4bf0-af39-f7655008f362.webp align="center")
 
-![]( align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752423625533/f9602a0e-a4f7-4fa5-91ac-deb6c31c7a91.webp align="center")
 
 ## 1\. UGC Copy Prompts for ChatGPT
 
