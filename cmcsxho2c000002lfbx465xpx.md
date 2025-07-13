@@ -33,6 +33,14 @@ But to scale UGC, you need the ability to **generate high-converting UGC assets 
 
 ---
 
+## Examples
+
+Here are some images that I have created using ChatGPT’s SORA
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752423613424/3cae1410-de8e-4bf0-af39-f7655008f362.webp align="center")
+
+![]( align="center")
+
 ## 1\. UGC Copy Prompts for ChatGPT
 
 Start with compelling, native-sounding content using proven prompts.
