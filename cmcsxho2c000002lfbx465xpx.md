@@ -4,7 +4,7 @@ seoTitle: "Create User Generated Content using OpenAI Sora, Google VEO and ChatG
 datePublished: Mon Jul 07 2025 09:58:22 GMT+0000 (Coordinated Universal Time)
 cuid: cmcsxho2c000002lfbx465xpx
 slug: ugc-creation-guide-sora-veo-chatgpt
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/5eF4FPy4SjQ/upload/728b150bf88956e5595ea7a1f18dc4d2.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1752491700695/61006b19-429d-4509-985e-572f040b9223.png
 tags: ai, shopify, facebook-ads, google-ads, ugc
 
 ---
