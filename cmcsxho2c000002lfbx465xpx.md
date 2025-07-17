@@ -1,6 +1,6 @@
 ---
-title: "Create User Generated Content using OpenAI Sora, Google VEO and ChatGPT"
-seoTitle: "Create User Generated Content using OpenAI Sora, Google VEO and ChatGP"
+title: "Use Sora, Google VEO & ChatGPT to Make UGC That Sells on Meta and Google Ads"
+seoTitle: "Use Sora, Google VEO & ChatGPT to Make UGC That Sells on Paid Ads"
 datePublished: Mon Jul 07 2025 09:58:22 GMT+0000 (Coordinated Universal Time)
 cuid: cmcsxho2c000002lfbx465xpx
 slug: ugc-creation-guide-sora-veo-chatgpt
