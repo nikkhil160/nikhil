@@ -1,5 +1,5 @@
 ---
-title: "You Don’t Have a Traffic Problem. You Have a Trust Problem."
+title: "You Don’t Have a Traffic Problem. You Have a Trust Problem"
 datePublished: Sat Aug 02 2025 12:11:48 GMT+0000 (Coordinated Universal Time)
 cuid: cmdu7pes4000002l74lhyh4wz
 slug: trust-vs-traffic
