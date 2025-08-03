@@ -3,7 +3,7 @@ title: "Why are my Shopify / Klaviyo emails going to SPAM?"
 datePublished: Mon Feb 26 2024 16:10:21 GMT+0000 (Coordinated Universal Time)
 cuid: clt34xntj000209lfai21g0a0
 slug: klaviyo-emails-going-to-spam
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708963762383/9eddc8d7-27cf-48a8-95a5-6d65e1b8ba66.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754227271209/6207ca2c-e4ab-433f-a9bb-00f9198f7f8c.png
 tags: email-marketing, yahoo, gmail
 
 ---
