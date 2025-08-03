@@ -64,3 +64,7 @@ Make sure to include an unsubscribe link in your emails that subscribers can cli
     
 
 The universal requirement for sending marketing emails is to only send what your email subscribers need and to refrain from sending anything that you simply want to send. Keep the spam score low and send well-formatted emails that convert.
+
+### Video of the Article
+
+%[https://youtu.be/VjW1L_HfmTA]
