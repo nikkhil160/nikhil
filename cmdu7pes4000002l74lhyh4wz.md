@@ -25,7 +25,7 @@ That’s a trust problem.
 
 ## What Does “Trust” Look Like Online?
 
-![When Is a Star Not Always a Star? When It's an Online Review - The New York  Times](https://static01.nyt.com/images/2019/11/29/business/29onlinereviews-digital/29onlinereviews-videoSixteenByNineJumbo1600.jpg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754220658752/4e4966bd-7f18-4704-9360-42e9d297811a.jpeg align="center")
 
 It’s not just about having a Shopify theme that looks premium.  
 Trust is built in layers. It’s a gut feeling your visitor forms in the first 5–10 seconds.
@@ -47,7 +47,7 @@ If your site doesn’t answer these fast and clearly, users bounce. And worse - 
 
 ## Signs You Have a Trust Problem
 
-![How Review Sites Can Hurt Your Business (And How To Solve It!)](https://www.yotpo.com/wp-content/uploads/2017/03/f80d973d-8cd6-432c-ac58-8dab405785d9_image01.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754220672143/262d7209-6f38-4033-b3de-113bbd599622.png align="center")
 
 These show up in [CRO audits](https://audit.nikhil.pro) all the time:
 
@@ -71,7 +71,7 @@ These show up in [CRO audits](https://audit.nikhil.pro) all the time:
 
 ## FTC Is Watching (And Suing)
 
-![What is the FTC Safeguards Rule? | Secureframe](https://images.prismic.io/secureframe-com/c713aeaa-8641-4e11-9921-5e51aecce59e_FTC+logo.png?auto=compress,format align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754220680933/27e9a4f1-da58-4975-9fc1-cc9443169f33.avif align="center")
 
 Robert Freund frequently documents how DTC brands land in hot water not for *lying* - but for **overpromising without proof**. Here are a few real-world examples:
 
