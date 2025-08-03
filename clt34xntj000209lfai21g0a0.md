@@ -1,16 +1,20 @@
 ---
-title: "What Are New Email Sender Requirements and How to Prepare?"
+title: "Why are my Shopify / Klaviyo emails going to SPAM?"
 datePublished: Mon Feb 26 2024 16:10:21 GMT+0000 (Coordinated Universal Time)
 cuid: clt34xntj000209lfai21g0a0
-slug: new-email-sender-requirements-2024
+slug: klaviyo-emails-going-to-spam
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708963762383/9eddc8d7-27cf-48a8-95a5-6d65e1b8ba66.png
 tags: email-marketing, yahoo, gmail
 
 ---
 
-"Ugh! Another year another set of requirements by another provider" is that also what you are thinking?
+Ugh! Another year, another set of requirements by another provider. Is that also what you’re thinking?
 
-Starting February 1st, major email providers like Gmail and Yahoo! are enforcing new sender requirements (also called as Google and Yahoo's Bulk Sender Requirements) to protect their users' inboxes from spam and to ensure that only legitimate emails are delivered.
+Starting February 1st, major email providers like Gmail and Yahoo! began enforcing new sender requirements (also called Google and Yahoo's Bulk Sender Requirements). These changes are aimed at protecting inboxes from spam and ensuring that only legitimate emails reach your subscribers.
+
+## **Why are your Shopify / Klaviyo emails going to spam?**
+
+If you’re not following these new Email Sender Requirements, your marketing emails might be getting flagged as spam. These updates impact anyone sending emails in bulk — especially if you’re using Shopify and Klaviyo to communicate with your customers.
 
 ## Do I need to follow these Email Sender Requirements?
 
