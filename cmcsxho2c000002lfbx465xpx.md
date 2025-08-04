@@ -172,3 +172,9 @@ Use these to build full-funnel ad sets:
     
 
 All without filming, outsourcing, or waiting on UGC submissions.
+
+---
+
+### \[Video\] **How to Recreate Winning Ad Creatives Using ChatGPT + Sora (Perfect for D2C & Shopify)**
+
+%[https://youtu.be/-v3Bb7--NGI]
