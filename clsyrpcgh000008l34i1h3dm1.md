@@ -1,14 +1,14 @@
 ---
-title: "12 E-Commerce KPIs to Start and Grow your Business"
+title: "12 Shopify KPIs to Start and Grow your Shopify Brand"
 datePublished: Fri Feb 23 2024 14:48:53 GMT+0000 (Coordinated Universal Time)
 cuid: clsyrpcgh000008l34i1h3dm1
-slug: kpis-for-ecommerce-business
+slug: kpis-for-shopify-business
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708699682981/86c4b7f9-dcfb-4b85-a5d5-6d180e389490.png
 tags: ecommerce, shopify, kpis, google-ads, facebookads
 
 ---
 
-Are you a new e-commerce business owner who has just started running paid ads and can't keep up with too many metrics? I know it can be mind-boggling to look into a lot of data. Shopify alone provides 100 metrics that will be enough for a new business owner to understand.
+Are you a new shopify business owner who has just started running paid ads and can't keep up with too many metrics? I know it can be mind-boggling to look into a lot of data. Shopify alone provides 100 metrics that will be enough for a new business owner to understand.
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
