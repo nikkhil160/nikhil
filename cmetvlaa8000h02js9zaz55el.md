@@ -4,8 +4,8 @@ seoDescription: "Learn when a Shopify brand should hire a Facebook & paid media 
 datePublished: Wed Aug 27 2025 11:12:23 GMT+0000 (Coordinated Universal Time)
 cuid: cmetvlaa8000h02js9zaz55el
 slug: shopify-hire-facebook-ads-consultant
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756293108489/059d6da4-e54d-430f-bff0-af75eb07b6ee.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1756293136142/14bf3415-2424-4ba8-9307-504998424e8f.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756296057770/582eaced-5e01-43f7-877a-0420911164e4.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1756296069366/1df79238-a3cc-4727-b0db-be224b14a6dc.png
 tags: ecommerce, shopify, facebook-ads, klaviyo, cro, paid-ads, shopify-growth
 
 ---
