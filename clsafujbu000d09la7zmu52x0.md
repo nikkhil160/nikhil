@@ -86,7 +86,7 @@ Google Free Listing beneficial to generate some organic traffic on the store, to
 
 [Google Merchant Center](https://merchants.google.com) allows you to submit your products for free. Yes (free listings!) No payment required to have your products displayed on Google. All you need to do is connect your Shopify store using the [Google Sales Channel](https://apps.shopify.com/google), and you're good to go.
 
-![Free Listings](https://community.shopify.com/c/image/serverpage/image-id/365674i9647DCD0D59CA6F3/image-size/large?v=v2&px=999 align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1756363221601/a7f610d5-b9c2-49d4-ae40-3a9ce83ad297.png align="center")
 
 Do you see these listings? They are a part of Google Free Listings program.
 
@@ -109,7 +109,7 @@ One of the wonders of Google Shopping Ads is that they find customers on their o
 
 For the Shopping Campaign, we utilized machine learning models to optimize bids and placements, essentially letting Google do the heavy lifting.
 
-![Paid Listings Example via Google Shopping](https://community.shopify.com/c/image/serverpage/image-id/365675i0CB22F8EB5A36521/image-size/large?v=v2&px=999 align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1756364803820/7ad2eb2f-9da6-453c-ae0f-3ec06dc00038.png align="center")
 
 For the Search Campaign, we wanted more control. We targeted specific keywords like "best beauty balm for mom" and "eyeliners under $50" to have precise control over our audience. Plus, it safeguarded Ella's store keyword from others' reach.
 
@@ -215,7 +215,7 @@ We didn't set up elaborate flows in Klaviyo since we had more trust in Shopify's
 
 Our email performance was impressive, with a staggering 71% open rate (the industry average is 39% according to HubSpot) and a click rate ranging from 5% to 14% (compared to the average click rate of 1.92% according to MailChimp).
 
-![Klaviyo Metrics](https://community.shopify.com/c/image/serverpage/image-id/365677i5FDB1F10433108C3/image-size/large?v=v2&px=999 align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1756364893175/968167da-04c9-4b0d-9f15-906279723c77.png align="center")
 
 Our email content was simple and followed the KISS principle (Keep It Silly Simple). We informed recipients about new products they might like and included personalized product recommendations. Shopify supports product recommendation engines, so the suggested products in the emails were tailored to individual preferences.
 
