@@ -5,7 +5,7 @@ seoDescription: "Facebook / Meta Ads Strategy for Shopify Brands which includes 
 datePublished: Tue Apr 30 2024 13:04:31 GMT+0000 (Coordinated Universal Time)
 cuid: clvmeh6w8000108l3enhi25jf
 slug: fb-ads-strategy-for-shopify-brands
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714481966882/3b8b7c4c-5756-47b8-98d3-b3382f1fa9da.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756373261315/8291ac19-a2ce-4f33-84c9-3d981740af2d.png
 tags: facebook, shopify, facebookads, metads, divyansh-sharma, nikhilsharma, nikhil-pro
 
 ---
