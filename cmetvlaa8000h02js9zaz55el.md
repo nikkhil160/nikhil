@@ -1,6 +1,6 @@
 ---
 title: "When Should a Shopify Brand Hire a Facebook & Paid Media Growth Consultant?"
-seoTitle: "Do Shopify Brands Need a Meta Ads Consultant?"
+seoTitle: "Do Shopify Brands Need a Meta Ads Growth Consultant?"
 seoDescription: "Learn when a Shopify brand should hire a Facebook & paid media growth consultant. See real Shopify case studies using Facebook Ads, CRO, Klaviyo, and Google"
 datePublished: Wed Aug 27 2025 11:12:23 GMT+0000 (Coordinated Universal Time)
 cuid: cmetvlaa8000h02js9zaz55el
