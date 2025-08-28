@@ -5,7 +5,7 @@ seoDescription: "Should you use Facebook and Instagram Shop or have your own che
 datePublished: Mon May 06 2024 14:12:57 GMT+0000 (Coordinated Universal Time)
 cuid: clvv1kbek000309ih2k3w7pyt
 slug: should-you-use-meta-and-instagram-shops-for-your-shopify-store
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715002297514/f8ca710f-84ec-41ab-ac34-dd4f261567cc.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756362725790/37f991b1-39b8-49de-9485-3538d7478865.png
 tags: facebook, shopify, metads, nikhil-sharma
 
 ---
