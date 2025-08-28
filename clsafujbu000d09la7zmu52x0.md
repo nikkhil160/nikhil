@@ -230,12 +230,6 @@ Currently, our focus is on scaling Ella's business to reach the next milestone o
 
 While she manages the supply chain, we're diving deeper into marketing strategies.
 
-## Use Key Performance Indicator Calculator
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1741188381063/fabc7ece-e2e9-482f-b300-0e214c486620.png align="center")
-
-Most Shopify brand-owners do not know if their marketing is worth it, to solve this problem I have made a [Key Performance Indicator](https://tools.nikhil.pro) calculator for Shopify brands which you can use to know if your marketing is really effective or how to navigate and have better results.
-
 ## About Nikhil Sharma
 
-Hi! I’m Nik. I’m into paid ads, brand management and brand identity having built over 100+ brands in the last 3 years. If you need help with your brand or are struggling with something then feel free to [schedule a call](https://nikhil.pro/meeting) with me or send me an email at [hello@nikhil.pro](mailto:hello@nikhil.pro?subject=Hi!%20Nik.%20I%20need%20help%20in) and I will be happy to help.
+Hi! I’m Nikhil Sharma, I help businesses grow using paid ads, email marketing and overall brand building. Have built multiple brands in the Tier-I markets. I’m available for paid consultations, head over to my [meetings page](https://nikhil.pro/meeting) to discuss more about your brand
