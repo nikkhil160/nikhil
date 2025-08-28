@@ -3,7 +3,7 @@ title: "Should You Migrate From Etsy to Shopify?"
 datePublished: Wed Mar 13 2024 08:24:39 GMT+0000 (Coordinated Universal Time)
 cuid: cltpjceql000209l6hfyoa88i
 slug: should-you-migrate-from-etsy-to-shopify
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710318369663/9c01a19f-87cb-42fb-a50f-1472a8327100.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756369065557/8bcb63a4-aeb9-4159-88b5-e7b86fa8f318.png
 tags: etsy, shopify, dtc
 
 ---
