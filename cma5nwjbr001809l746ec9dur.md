@@ -5,7 +5,7 @@ seoDescription: "Easy guide on how to list your products on ChatGPT Shopping wit
 datePublished: Thu May 01 2025 17:51:53 GMT+0000 (Coordinated Universal Time)
 cuid: cma5nwjbr001809l746ec9dur
 slug: list-products-on-chatgpt
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746513517190/5ac3b449-31ed-4056-a10d-f5e736fca537.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756366862158/ef8f37b3-e188-454b-b697-8f2fd2e6679a.png
 tags: shopify, chatgpt
 
 ---
