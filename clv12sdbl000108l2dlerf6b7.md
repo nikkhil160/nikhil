@@ -5,7 +5,7 @@ seoDescription: "Track Calendly Meeting and Conversions on Google Ads using Goog
 datePublished: Mon Apr 15 2024 14:54:07 GMT+0000 (Coordinated Universal Time)
 cuid: clv12sdbl000108l2dlerf6b7
 slug: track-calendly-meeting-on-google-ads
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713196907590/a4c2f2b2-3079-4fe9-9c85-ffcba747f363.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1756367398184/ce4671eb-c443-4e6b-b074-b5afad11ef5d.png
 tags: google-ads, calendly
 
 ---
