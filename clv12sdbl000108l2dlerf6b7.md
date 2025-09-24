@@ -32,6 +32,11 @@ Go To Calendly &gt; Integrations &gt; Google Analytics and when you're here, you
 
 Go to Google Analytics &gt; Admin &gt; Data Collection and Modification &gt; Data Streams and ensure it indicates '***Data collection is active in the past 48 hours***.'
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">💡 Need help? I’ll set this up for you for $199 — <a target="_self" rel="noopener noreferrer nofollow" href="https://calendly.nikhil.pro" style="pointer-events: none">Book a Setup Session</a></div>
+</div>
+
 ### Step 3: Verify Calendly Events on Google Analytics
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713183843898/a818b5b8-12db-4c51-82ba-d77123cc2261.png align="center")
@@ -94,6 +99,8 @@ Here, you will see the Google Analytics event called invitee\_meeting\_scheduled
 To verify Calendly event on Google Ads, just go to Google Ads &gt; Goals &gt; Summary and you will see the imported invitee\_meeting\_scheduled event and the status will be active.
 
 This means your Calendly event is setup and ready to track calendar meetings.
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758712568246/cc94b4ee-0689-4ff6-bb54-bc732996f433.png align="center")](https://calendly.nikhil.pro)
 
 ---
 
