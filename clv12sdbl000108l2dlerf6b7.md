@@ -106,4 +106,4 @@ This means your Calendly event is setup and ready to track calendar meetings.
 
 That's it. Now you can run ads and track the Calendly conversions (meetings) on your Google Ads.
 
-It should be pretty easy to do but you can book a [paid meeting](https://cal.com/nikhil.pro/one-hour-consultation) if you want me to assist you in doing that.
+The setup is simple, but if you’d like me to do it for you, you can [book a one-time setup session](https://calendly.nikhil.pro) for **$199**.
