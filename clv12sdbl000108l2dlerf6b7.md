@@ -34,7 +34,7 @@ Go to Google Analytics &gt; Admin &gt; Data Collection and Modification &gt; Dat
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">💡 Need help? I’ll set this up for you for $199 — <a target="_self" rel="noopener noreferrer nofollow" href="https://calendly.nikhil.pro" style="pointer-events: none">Book a Setup Session</a></div>
+<div data-node-type="callout-text">Need help? I’ll set this up for you for $199 — <a target="_self" rel="noopener noreferrer nofollow" href="https://calendly.nikhil.pro" style="pointer-events: none">Book a Setup Session</a></div>
 </div>
 
 ### Step 3: Verify Calendly Events on Google Analytics
