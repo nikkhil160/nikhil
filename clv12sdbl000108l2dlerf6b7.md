@@ -100,9 +100,9 @@ To verify Calendly event on Google Ads, just go to Google Ads &gt; Goals &gt; Su
 
 This means your Calendly event is setup and ready to track calendar meetings.
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758712568246/cc94b4ee-0689-4ff6-bb54-bc732996f433.png align="center")](https://calendly.nikhil.pro)
-
 ---
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758713054235/91c0a72f-8b5c-41c2-96bd-60c44a3a3ada.png align="center")](https://calendly.nikhil.pro)
 
 That's it. Now you can run ads and track the Calendly conversions (meetings) on your Google Ads.
 
