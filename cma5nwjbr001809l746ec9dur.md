@@ -128,6 +128,11 @@ Letting OAI-SearchBot in is step zero if you want your products to show up where
 
 ---
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Need help showing your products on ChatGPT? <a target="_self" rel="noopener noreferrer nofollow" href="https://nikhil.pro/paid" style="pointer-events: none">Book my consultation today</a></div>
+</div>
+
 ## How to Show Products Reviews on ChatGPT
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746513462672/10aca57a-854a-4e5b-b09c-4344d298bcad.png align="center")
@@ -169,4 +174,4 @@ I have also made a video tutorial of the article
 
 ### Book Your ChatGPT Product Listing Audit Today
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758805583068/ad2384ee-8114-425f-8261-7ec7e47fea09.png align="center")](https://cal.com/nikhil.pro/one-hour-consultation)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758805583068/ad2384ee-8114-425f-8261-7ec7e47fea09.png align="center")](https://nikhil.pro/paid)
