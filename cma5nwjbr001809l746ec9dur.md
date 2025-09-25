@@ -159,8 +159,14 @@ This feature is currently available to everyone with **browsing enabled (GPT-4-t
 * Monitor results using Google Analytics and refine your product titles/descriptions based on performance.
     
 
-## Watch the Video
+---
 
-Check out the video on YouTube:
+### Book Your ChatGPT Product Listing Audit Today
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758805583068/ad2384ee-8114-425f-8261-7ec7e47fea09.png align="center")](https://cal.com/nikhil.pro/one-hour-consultation)
+
+### Watch the Video
+
+I have also made a video tutorial of the article
 
 %[https://youtu.be/8KVkPt1zvak]
