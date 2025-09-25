@@ -41,11 +41,6 @@ These integrations let ChatGPT display product titles, prices, availability, ima
 
 ---
 
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Need help with displaying your products on ChatGPT? <a target="_self" rel="noopener noreferrer nofollow" href="https://nikhil.pro/meeting" style="pointer-events: none">Book a consultation</a></div>
-</div>
-
 ## How to Get Your Products Listed on ChatGPT
 
 ### 1\. Use a Supported Platform
@@ -55,6 +50,10 @@ Make sure your store is connected to a supported platform or product syndication
 * **Shopify** (with feeds connected to Klarna or Criteo)
     
 * [**Klarna**](https://klarna.com) or [**Criteo**](https://www.criteo.com/) merchant networks
+    
+* **WooCommerce** or **BigCommerce**
+    
+* **SAP Commerce**
     
 
 > If you're using Shopify, look into your Klarna or Criteo integrations to confirm that your product feed is active and syndicating properly or check the robots.txt.
@@ -72,7 +71,7 @@ Since ChatGPT uses real-time data, your product feed must be:
 * **Updated regularly**
     
 
-This ensures the AI presents your listings correctly and persuasively to potential buyers.
+This ensures the AI presents your listings correctly and persuasively to potential buyers, you can also create your own product feed on Google Sheets and host it automatically
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
@@ -85,7 +84,7 @@ This ensures the AI presents your listings correctly and persuasively to potenti
 
 While ChatGPT itself doesn’t yet provide detailed analytics, you can monitor:
 
-* **Referral traffic** via UTM links
+* **Referral traffic** via UTM links on your CRM
     
 * **Sales spikes** after feature updates
     
@@ -107,7 +106,7 @@ If your site is blocking it (even unintentionally), your products won’t be sur
 
 #### What to do:
 
-* **Check your** `robots.txt` file.  
+* **Check your** `robots.txt` file (*go to yourdomain.com/robots.txt*).  
     Make sure it doesn’t block OAI-SearchBot. If needed, explicitly allow it:
     
 
@@ -141,7 +140,7 @@ You can use an app like [Judge.me](https://judge.me) to show your product review
 
 ### Does ChatGPT support Shopify product feeds?
 
-**Not yet** — but they’re working on it.
+**Not yet** - but they’re working on it.
 
 Right now, there’s no way to submit a feed (like a product XML or Google Merchant feed) directly to OpenAI. Instead, ChatGPT relies on what’s already publicly available on the web, using OAI-SearchBot to discover and index content.
 
