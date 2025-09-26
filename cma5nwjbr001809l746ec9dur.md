@@ -173,4 +173,6 @@ I have also made a video tutorial of the article
 
 ### Book Your ChatGPT Product Listing Audit Today
 
+I have helped 100+ businesses get listed on ChatGPT and other AI platforms, book your consultation today and get yourself ahead of everyone
+
 [![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758805583068/ad2384ee-8114-425f-8261-7ec7e47fea09.png align="center")](https://nikhil.pro/paid)
