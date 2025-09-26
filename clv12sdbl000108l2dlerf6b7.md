@@ -102,6 +102,10 @@ This means your Calendly event is setup and ready to track calendar meetings.
 
 ---
 
+### Calendly to Google Ads Booking Service
+
+I have helped 100+ businesses track Calendly bookings on Google Ads, book your consultation today and track your bookings easily
+
 [![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758713054235/91c0a72f-8b5c-41c2-96bd-60c44a3a3ada.png align="center")](https://calendly.nikhil.pro)
 
 That's it. Now you can run ads and track the Calendly conversions (meetings) on your Google Ads.
