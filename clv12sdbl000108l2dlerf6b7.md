@@ -102,7 +102,7 @@ This means your Calendly event is setup and ready to track calendar meetings.
 
 ---
 
-### Calendly to Google Ads Booking Service
+### Calendly to Google Ads Booking Tracking Service
 
 I have helped 100+ businesses track Calendly bookings on Google Ads, book your consultation today and track your bookings easily
 
