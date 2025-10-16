@@ -34,7 +34,7 @@ Go to Google Analytics &gt; Admin &gt; Data Collection and Modification &gt; Dat
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Need help? I’ll set this up for you for $199 — <a target="_self" rel="noopener noreferrer nofollow" href="https://calendly.nikhil.pro" style="pointer-events: none">Book a Setup Session</a></div>
+<div data-node-type="callout-text">Need help? I’ll set this up for you for $199 — <a target="_self" rel="noopener noreferrer nofollow" href="https://nikhil.pro/paid" style="pointer-events: none">Book a Setup Session</a></div>
 </div>
 
 ### Step 3: Verify Calendly Events on Google Analytics
@@ -106,7 +106,7 @@ This means your Calendly event is setup and ready to track calendar meetings.
 
 I have helped 100+ businesses track Calendly bookings on Google Ads, book your consultation today and track your bookings easily
 
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758713054235/91c0a72f-8b5c-41c2-96bd-60c44a3a3ada.png align="center")](https://calendly.nikhil.pro)
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758713054235/91c0a72f-8b5c-41c2-96bd-60c44a3a3ada.png align="center")](https://nikhil.pro/paid)
 
 That's it. Now you can run ads and track the Calendly conversions (meetings) on your Google Ads.
 
