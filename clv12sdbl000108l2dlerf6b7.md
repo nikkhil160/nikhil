@@ -110,4 +110,4 @@ I have helped 100+ businesses track Calendly bookings on Google Ads, book your c
 
 That's it. Now you can run ads and track the Calendly conversions (meetings) on your Google Ads.
 
-The setup is simple, but if you’d like me to do it for you, you can [book a one-time setup session](https://calendly.nikhil.pro) for **$199**.
+The setup is simple, but if you’d like me to do it for you, you can [book a one-time setup session](https://nikhil.pro/paid) for **$199**.
