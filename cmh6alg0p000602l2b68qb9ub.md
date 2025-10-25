@@ -6,7 +6,7 @@ datePublished: Sat Oct 25 2025 13:05:03 GMT+0000 (Coordinated Universal Time)
 cuid: cmh6alg0p000602l2b68qb9ub
 slug: grow-shopify-store
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761397196644/3e6031cd-5b6d-4154-95f1-f5fad8c9108b.png
-tags: facebook, google, meta
+tags: facebook, google, shopify, meta
 
 ---
 
