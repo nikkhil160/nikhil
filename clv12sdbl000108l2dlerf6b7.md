@@ -102,7 +102,13 @@ This means your Calendly event is setup and ready to track calendar meetings.
 
 ---
 
-### Calendly to Google Ads Booking Tracking Service
+### Can you track Cal.com meetings on GA-4 or Google Ads using this method?
+
+Unlike Calendly, Cal.com [does not support](https://cal.com/help/bookings/analytics) automatic event tracking for third-party analytics tools. To track [Cal.com](http://Cal.com) meetings in GA4 or Google Ads, you’ll need to configure it through Google Tag Manager. While about 90% of the setup process is the same, there’s one additional step - setting up GTM to handle the tracking. I can help you with linking Google Ads / Google Analytics to Cal.com
+
+---
+
+## Calendly/Cal.com to Google Ads Booking Tracking Service
 
 I have helped 100+ businesses track Calendly bookings on Google Ads, book your consultation today and track your bookings easily
 
@@ -110,4 +116,4 @@ I have helped 100+ businesses track Calendly bookings on Google Ads, book your c
 
 That's it. Now you can run ads and track the Calendly conversions (meetings) on your Google Ads.
 
-The setup is simple, but if you’d like me to do it for you, you can [book a one-time setup session](https://nikhil.pro/paid) for **$199**.
+The setup is simple, but if you’d like me to do it for you, you can [book a paid consultation session](https://nikhil.pro/paid) for **$199**.
