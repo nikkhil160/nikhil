@@ -18,7 +18,7 @@ In this guide, you’ll learn how to get your ecommerce products listed in ChatG
 
 ## Why This Matters
 
-ChatGPT is no longer just a chatbot—it's quickly becoming a **product discovery engine** for millions of users. By getting your products listed, you gain access to a new, high-intent traffic source that can drive more visibility and sales.
+ChatGPT is no longer just a chatbot - it's quickly becoming a **product discovery engine** for millions of users. By getting your products listed, you gain access to a new, high-intent traffic source that can drive more visibility and sales.
 
 ---
 
@@ -98,9 +98,9 @@ While ChatGPT itself doesn’t yet provide detailed analytics, you can monitor:
 
 ### 4\. Make Sure Your Site Is Discoverable by ChatGPT
 
-Before your products can show up in ChatGPT’s shopping results, they need to be *discoverable*. That starts with making sure your site isn’t blocking OpenAI’s web crawler — **OAI-SearchBot**.
+Before your products can show up in ChatGPT’s shopping results, they need to be *discoverable*. That starts with making sure your site isn’t blocking OpenAI’s web crawler - **OAI-SearchBot**.
 
-Think of OAI-SearchBot like Googlebot, but for ChatGPT. It crawls websites to index content for ChatGPT’s search experiences — especially shopping and product results.
+Think of OAI-SearchBot like Googlebot, but for ChatGPT. It crawls websites to index content for ChatGPT’s search experiences - especially shopping and product results.
 
 If your site is blocking it (even unintentionally), your products won’t be surfaced.
 
@@ -127,6 +127,12 @@ Letting OAI-SearchBot in is step zero if you want your products to show up where
 
 ---
 
+### 5\. Submit Your Product Feed to ChatGPT
+
+Make sure to have a feed that Shopify accepts, and submit a Merchant application form with ChatGPT along with the business information that you have. You can be a merchant on ChatGPT Instant Checkout by submitting your business detail on [this page](https://chatgpt.com/merchants)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1761839667391/83a44090-6a5e-42d5-90dc-c9350a6d8599.png align="center")
+
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
 <div data-node-type="callout-text"><strong>Need help showing your products on ChatGPT? </strong><a target="_self" rel="noopener noreferrer nofollow" href="https://nikhil.pro/paid" style="pointer-events: none"><strong>Book my consultation today</strong></a></div>
@@ -140,9 +146,9 @@ You can use an app like [Judge.me](https://judge.me) to show your product review
 
 ### Does ChatGPT support Shopify product feeds?
 
-**Not yet** - but they’re working on it.
+**Yes, ChatGPT supports Shopify Product feeds**
 
-Right now, there’s no way to submit a feed (like a product XML or Google Merchant feed) directly to OpenAI. Instead, ChatGPT relies on what’s already publicly available on the web, using OAI-SearchBot to discover and index content.
+ChatGPT asks you to submit a feed (like a product XML or Google Merchant feed) directly to OpenAI and it relies on what’s already publicly available on the web, using OAI-SearchBot to discover and index content.
 
 That’s why having well-structured product pages and an open `robots.txt` is crucial.
 
@@ -150,7 +156,7 @@ That’s why having well-structured product pages and an open `robots.txt` is cr
 
 ## Who Sees Your Products?
 
-This feature is currently available to everyone with **browsing enabled (GPT-4-turbo)**. As the rollout continues, more visibility is expected across platforms.
+This feature is currently available to everyone with **browsing enabled (GPT-4-turbo) including ChatGPT Atlas browser**. As the rollout continues, more visibility is expected across platforms.
 
 ### Watch the Video
 
