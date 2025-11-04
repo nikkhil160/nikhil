@@ -18,6 +18,17 @@ In this article, I will cover the easiest way to track Calendly or Tally events 
 
 I'm going to get straight to the point and list all the steps over here.
 
+## **Prerequisites**
+
+* Calendly **Standard**, **Teams**, or **Enterprise** plan (Google Analytics integration required)
+    
+* Active **Google Analytics 4 (GA4)** property
+    
+* Active **Google Ads** account
+    
+* Admin access to all three platforms (Calendly, GA4, and Google Ads)
+    
+
 ## Setting up Calendly with Google Analytics
 
 ### Step 1: Setup Calendly with Google Analytics
