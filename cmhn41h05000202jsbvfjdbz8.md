@@ -25,6 +25,46 @@ Since Flexible Formats handle the adaptation work, you save time and reduce crea
 
 ---
 
+## **Which Ratio Should You Create Your Ad In?**
+
+If you can design only one master version, create it in **4:5 ratio (1080 × 1350 px)**. This size performs best because:
+
+* It takes up the most space on mobile feeds.
+    
+* Meta can easily crop it into 1:1 for Feed or 9:16 for Stories and Reels.
+    
+* It keeps your visuals legible across placements without losing key details.
+    
+
+If you have time to produce multiple assets, add **1:1 (1080 × 1080 px)** and **9:16 (1080 × 1920 px)** versions too. The system will automatically test and select the best one for each placement.
+
+---
+
+### **Recommended Asset Specs**
+
+| Asset Type | Ratio | Recommended Size | Use Case |
+| --- | --- | --- | --- |
+| Image | 1:1 | 1080 × 1080 px | Feed, Explore |
+| Image | 4:5 | 1080 × 1350 px | Feed, Marketplace (best base ratio) |
+| Image | 9:16 | 1080 × 1920 px | Stories, Reels |
+| Video | 1:1 | 1080 × 1080 px | Feed |
+| Video | 9:16 | 1080 × 1920 px | Stories, Reels |
+| Video | 16:9 | 1920 × 1080 px | In-stream, horizontal feeds |
+
+**File limits:**
+
+* Image: JPG or PNG (max 30 MB)
+    
+* Video: MP4 or MOV (max 4 GB, up to 120 seconds)
+    
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Keep key visuals and text centered to prevent cropping. Upload both image and video assets to give the system more flexibility.</div>
+</div>
+
+---
+
 ## How Meta Lattice and Andromeda Influence Flexible Formats
 
 Let me break it down for you
