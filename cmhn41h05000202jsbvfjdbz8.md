@@ -25,7 +25,7 @@ Since Flexible Formats handle the adaptation work, you save time and reduce crea
 
 ---
 
-## **Which Ratio Should You Create Your Ad In?**
+## **Best Ad Ratio for Meta Flexible Format**
 
 If you can design only one master version, create it in **4:5 ratio (1080 × 1350 px)**. This size performs best because:
 
