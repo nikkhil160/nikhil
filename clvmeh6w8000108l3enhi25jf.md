@@ -1,5 +1,5 @@
 ---
-title: "Q4 2025 - Facebook Ads Strategy for Shopify D2C Brands"
+title: "Q4 2026 - Facebook Ads Strategy for Shopify D2C Brands"
 seoTitle: "Q4 2025 - Facebook Ads Strategy for Shopify D2C Brands"
 seoDescription: "Facebook / Meta Ads Strategy for Shopify Brands which includes the latest advertising changes in April 2024 and strategy for Meta's new Advantage+ Campaigns"
 datePublished: Tue Apr 30 2024 13:04:31 GMT+0000 (Coordinated Universal Time)
