@@ -4,7 +4,7 @@ seoTitle: "A Practical Shopify Meta Ads Strategy for Scaling in 2026"
 seoDescription: "A practical guide to scaling Shopify with Meta Ads in 2026. Learn attribution setup, creative testing, MER tracking, and how to scale Facebook Ads"
 datePublished: Sat Jan 24 2026 12:23:23 GMT+0000 (Coordinated Universal Time)
 cuid: cmksa6dyl000902l2hli98i21
-slug: scale-shopify-meta-ads
+slug: shopify-meta-ads-scaling-2026
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769257379738/c17cc499-3b18-44f2-92d1-6362822197ab.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769257369564/e529377f-1d71-44be-915f-ee5469c0b563.png
 
